@@ -1,0 +1,65 @@
+LOAD DATA INFILE '/var/lib/mysql-files/marvel_data.csv' IGNORE
+INTO TABLE crew
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+
+SELECT COUNT(*) FROM (SELECT DISTINCT year, title FROM `crew`) a
+52
+
+SELECT COUNT(*) FROM `crew`
+90689
+
+SELECT COUNT(DISTINCT name) FROM `crew`
+48550
+
+SELECT a.name, a.credits FROM (SELECT name, COUNT(name) AS credits FROM `crew` GROUP BY name) a WHERE a.credits > 18 ORDER BY a.credits DESC 
+Stan Lee 				124
+Jack Kirby 				41
+Kevin Feige 			35
+Dave Jordan 			25
+Steven J. Scott 		24
+Avi Arad 				24
+Louis D'Esposito 		20
+Victoria Alonso 		19
+Derek N. Prusak 		19
+Raphael A. Pimentel 	19
+Lindsay Hallett 		19
+Christine Bergren 		19
+Daniel Schrepf 			19
+Al Cerullo 				19
+John Cassella 			19
+Brian N. Bentley 		19
+
+SELECT a.name, a.type, a.credits FROM (SELECT name, type, COUNT(name) AS credits FROM `crew` GROUP BY name, type) a WHERE a.credits > 18 ORDER BY a.credits DESC 
+Stan Lee 			producers 			48
+Kevin Feige 		producers 			34
+Jack Kirby 			writers 			32
+Stan Lee 			cast 				32
+Stan Lee 			writers 			31
+Dave Jordan 		music department 	25
+Avi Arad 			producers 			23
+Brian N. Bentley 	visual effects 		19
+Christine Bergren 	music department 	19
+Daniel Schrepf 		visual effects 		19
+Derek N. Prusak 	visual effects 		19
+John Cassella 		visual effects 		19
+Lindsay Hallett 	visual effects 		19
+
+SELECT a.name, a.type, a.credits FROM (SELECT name, type, COUNT(name) AS credits FROM `crew` GROUP BY name, type) a WHERE a.credits > 5 AND a.type = 'cast' ORDER BY a.credits DESC 
+Stan Lee 			cast 	32
+Chris Evans 		cast 	11
+Robert Downey Jr. 	cast 	9
+Jimmy Star 			cast 	9
+Hugh Jackman 		cast 	9
+Samuel L. Jackson 	cast 	8
+Paul Bettany 		cast 	7
+Patrick Stewart 	cast 	7
+Chris Hemsworth 	cast 	7
+Anthony J Sacco 	cast 	7
+Sebastian Stan 		cast 	6
+Scarlett Johansson 	cast 	6
+Leigh Holland 		cast 	6
+Idris Elba 			cast 	6
+Gwyneth Paltrow 	cast 	6
+
+
