@@ -13,7 +13,7 @@ SELECT COUNT(DISTINCT name) FROM `crew`
 48550
 
 SELECT a.name, a.credits FROM (SELECT name, COUNT(name) AS credits FROM `crew` GROUP BY name) a WHERE a.credits > 18 ORDER BY a.credits DESC 
-Stan Lee 				      124
+Stan Lee 				  124
 Jack Kirby 				    41
 Kevin Feige 			    35
 Dave Jordan 			    25
