@@ -13,22 +13,22 @@ SELECT COUNT(DISTINCT name) FROM `crew`
 48550
 
 SELECT a.name, a.credits FROM (SELECT name, COUNT(name) AS credits FROM `crew` GROUP BY name) a WHERE a.credits > 18 ORDER BY a.credits DESC 
-Stan Lee 				124
-Jack Kirby 				41
-Kevin Feige 			35
-Dave Jordan 			25
-Steven J. Scott 		24
-Avi Arad 				24
-Louis D'Esposito 		20
-Victoria Alonso 		19
-Derek N. Prusak 		19
-Raphael A. Pimentel 	19
-Lindsay Hallett 		19
+Stan Lee 				      124
+Jack Kirby 				    41
+Kevin Feige 			    35
+Dave Jordan 			    25
+Avi Arad 				      24
+Steven J. Scott 		  24
+Louis D'Esposito 		  20
+Al Cerullo 				    19
+Brian N. Bentley 		  19
 Christine Bergren 		19
-Daniel Schrepf 			19
-Al Cerullo 				19
-John Cassella 			19
-Brian N. Bentley 		19
+Daniel Schrepf 			  19
+Derek N. Prusak 		  19
+John Cassella 			  19
+Lindsay Hallett 		  19
+Raphael A. Pimentel   19
+Victoria Alonso 		  19
 
 SELECT a.name, a.type, a.credits FROM (SELECT name, type, COUNT(name) AS credits FROM `crew` GROUP BY name, type) a WHERE a.credits > 18 ORDER BY a.credits DESC 
 Stan Lee 			producers 			48
