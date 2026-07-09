@@ -1,0 +1,96 @@
+{
+  "id": 284274,
+  "title": "Iron Man & Captain America: Heroes United",
+  "year": 2014,
+  "release_date": "2014-07-29",
+  "poster_path": "/CX7eRlaxFXiW3UGQBdQUoSVZRi.jpg",
+  "overview": "Iron Man and Captain America battle to keep the Red Skull and his triggerman, Taskmaster, from unleashing an army of Hydra Brutes on the world!  Sequel to the film \"Iron Man & Hulk: Heroes United\" and feature Iron Man teaming up with Captain America, it comes to accompany the live-action film \"Captain America: The Winter Soldier\".",
+  "runtime": 71,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Action"
+  ],
+  "cast": [
+    {
+      "id": 17304,
+      "name": "Adrian Pasdar",
+      "character": "Iron Man / Tony Stark (voice)",
+      "order": 0,
+      "profile_path": "/4KdM69ljovbLumGoVe8ct9s6GJm.jpg"
+    },
+    {
+      "id": 75038,
+      "name": "Roger Craig Smith",
+      "character": "Captain America (voice)",
+      "order": 1,
+      "profile_path": "/6oE356GbRHAf91Llw7LDpvsAf5L.jpg"
+    },
+    {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "character": "The Hulk (voice)",
+      "order": 2,
+      "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "id": 84490,
+      "name": "David Kaye",
+      "character": "Jarvis (voice)",
+      "order": 3,
+      "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "id": 6574,
+      "name": "Clancy Brown",
+      "character": "Taskmaster (voice)",
+      "order": 4,
+      "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+      "id": 23680,
+      "name": "Dee Bradley Baker",
+      "character": "Dr. Cruler / Hydra Trooper (voice)",
+      "order": 5,
+      "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "id": 89966,
+      "name": "Liam O'Brien",
+      "character": "The Red Skull (voice)",
+      "order": 6,
+      "profile_path": "/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 1266051,
+      "name": "Leo Riley",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1450350,
+      "name": "Heiko von Drengenberg",
+      "job": "Storyboard",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1452932,
+      "name": "Joel Fletcher",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": "/mdMLj91uWlLaWXbO4uLW7dKMABK.jpg"
+    },
+    {
+      "id": 1459718,
+      "name": "Sue Houston Safianoff",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:24.379Z"
+}

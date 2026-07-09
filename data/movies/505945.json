@@ -1,0 +1,124 @@
+{
+  "id": 505945,
+  "title": "Team Darryl",
+  "year": 2018,
+  "release_date": "2018-02-20",
+  "poster_path": "/edroTAeTEM9ILyAnumA0ALxRSne.jpg",
+  "overview": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
+  "runtime": 6,
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 4785,
+      "name": "Jeff Goldblum",
+      "character": "En Dwi Gast / Grandmaster",
+      "order": 0,
+      "profile_path": "/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+      "id": 1672488,
+      "name": "Daley Pearson",
+      "character": "Darryl Jacobson",
+      "order": 1,
+      "profile_path": "/iX77YtxdoslRXdG6EVK2WEknbwD.jpg"
+    },
+    {
+      "id": 3254179,
+      "name": "Zach Campa",
+      "character": "Tech Nerd",
+      "order": 2,
+      "profile_path": null
+    },
+    {
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "character": "Thor",
+      "order": 3,
+      "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "id": 15298,
+      "name": "Rachel House",
+      "character": "Topaz",
+      "order": 4,
+      "profile_path": "/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 1256726,
+      "name": "Brad Winderbaum",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg"
+    },
+    {
+      "id": 1793535,
+      "name": "Brian Chapek",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/1Wf4pmBXP2yJnYEjNARDgZrJYo1.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "id": 113674,
+      "name": "Victoria Alonso",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg"
+    },
+    {
+      "id": 57027,
+      "name": "Louis D'Esposito",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+    },
+    {
+      "id": 305663,
+      "name": "Todd Jeffery",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 141359,
+      "name": "Roy Thomas",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/2ZzN71BDvknZKTkIYmwNCa2uQMQ.jpg"
+    },
+    {
+      "id": 1238004,
+      "name": "Sal Buscema",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:34.417Z"
+}

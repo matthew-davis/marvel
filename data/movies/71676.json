@@ -1,0 +1,642 @@
+{
+  "id": 71676,
+  "title": "Ghost Rider: Spirit of Vengeance",
+  "year": 2011,
+  "release_date": "2011-12-10",
+  "poster_path": "/8zmX5xq9mkHNBF00CBQQXDns4MN.jpg",
+  "overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
+  "runtime": 96,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Thriller"
+  ],
+  "cast": [
+    {
+      "id": 2963,
+      "name": "Nicolas Cage",
+      "character": "Johnny Blaze / Ghost Rider",
+      "order": 0,
+      "profile_path": "/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "id": 567332,
+      "name": "Fergus Riordan",
+      "character": "Danny",
+      "order": 1,
+      "profile_path": "/dKehk0aPUNMGX2nqMRk03yHj9UJ.jpg"
+    },
+    {
+      "id": 44649,
+      "name": "Violante Placido",
+      "character": "Nadya",
+      "order": 2,
+      "profile_path": "/qVs8LdHIU2E5RlSuSr4MK0zyf7B.jpg"
+    },
+    {
+      "id": 8785,
+      "name": "Ciarán Hinds",
+      "character": "Roarke",
+      "order": 3,
+      "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "id": 73589,
+      "name": "Johnny Whitworth",
+      "character": "Ray Carrigan",
+      "order": 4,
+      "profile_path": "/v8pUdmBfRp4oQuG7PAAXtsvuomk.jpg"
+    },
+    {
+      "id": 17605,
+      "name": "Idris Elba",
+      "character": "Moreau",
+      "order": 5,
+      "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "id": 25451,
+      "name": "Spencer Wilding",
+      "character": "Grannik",
+      "order": 6,
+      "profile_path": "/4NMcve4Nckpi653znyYOnoS4Mci.jpg"
+    },
+    {
+      "id": 2284559,
+      "name": "Sorin Tofan",
+      "character": "Kurdish",
+      "order": 7,
+      "profile_path": "/4SZBUMXAJVfQ4bUnq67ovlIs9Uo.jpg"
+    },
+    {
+      "id": 12210,
+      "name": "Jacek Koman",
+      "character": "Terrokov",
+      "order": 8,
+      "profile_path": "/t72LPCMYV7xkGeRel1tGPyP4V1r.jpg"
+    },
+    {
+      "id": 34257,
+      "name": "Anthony Stewart Head",
+      "character": "Benedict",
+      "order": 9,
+      "profile_path": "/eRfRWnoipu1Tx84fcuOEdfR87qb.jpg"
+    },
+    {
+      "id": 1054582,
+      "name": "Cristian Iacob",
+      "character": "Vasil",
+      "order": 10,
+      "profile_path": "/cGU2CyGI5JAyvHsHDkRRkrHhgLs.jpg"
+    },
+    {
+      "id": 38559,
+      "name": "Christopher Lambert",
+      "character": "Methodius",
+      "order": 11,
+      "profile_path": "/nWcAHW2ZN4cP3VPWYH9WJCvhFvt.jpg"
+    },
+    {
+      "id": 978844,
+      "name": "Jai Stefan",
+      "character": "Krakchev",
+      "order": 12,
+      "profile_path": "/sozdbMim6v10gaTM0QhyLBMev6f.jpg"
+    },
+    {
+      "id": 9831,
+      "name": "Vincent Regan",
+      "character": "Toma Nikasevic",
+      "order": 13,
+      "profile_path": "/7VHu79GciN5QlQTmWdBS86eE2mu.jpg"
+    },
+    {
+      "id": 3683128,
+      "name": "Ionut Cristian Lefter",
+      "character": "Young Johnny Blaze",
+      "order": 14,
+      "profile_path": null
+    },
+    {
+      "id": 1359454,
+      "name": "Will Ashcroft",
+      "character": "Grey Suited Man",
+      "order": 15,
+      "profile_path": null
+    },
+    {
+      "id": 1459098,
+      "name": "Sabina Brândușe",
+      "character": "Nurse",
+      "order": 16,
+      "profile_path": "/rAGLWuWf2l0D7NZlWjtXGgQ6XlH.jpg"
+    },
+    {
+      "id": 3683129,
+      "name": "Tobias Öjerfalk",
+      "character": "Dude (Forest)",
+      "order": 17,
+      "profile_path": null
+    },
+    {
+      "id": 931370,
+      "name": "Adina Galupa",
+      "character": "Girl (Forest)",
+      "order": 18,
+      "profile_path": "/tx3aBD6jajwwPZOG0A1DBuVkJVH.jpg"
+    },
+    {
+      "id": 1178619,
+      "name": "Alin Panc",
+      "character": "EMT Worker",
+      "order": 19,
+      "profile_path": "/ejcjjoj8AetYJ7mTu5yFUg4hzo7.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 937174,
+      "name": "Ari Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 8382,
+      "name": "Kevin Phipps",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 16838,
+      "name": "Steven Paul",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/r3QqlY7B8sefjiCUAJhREuA5NJB.jpg"
+    },
+    {
+      "id": 3893,
+      "name": "David S. Goyer",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 64227,
+      "name": "Brandon Trost",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": "/ojlCBUXBaueoNV0dFUWspVSkKLL.jpg"
+    },
+    {
+      "id": 3893,
+      "name": "David S. Goyer",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg"
+    },
+    {
+      "id": 21478,
+      "name": "Ashok Amritraj",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/f3H03GKmSvKlDPGB7rrXFcmdlxR.jpg"
+    },
+    {
+      "id": 54420,
+      "name": "David Sardy",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1052871,
+      "name": "Lucian Iordache",
+      "job": "Special Effects",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 16837,
+      "name": "Mark Steven Johnson",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/fhMvsLJyTDfj39qPSR6ZBEEMoDE.jpg"
+    },
+    {
+      "id": 966721,
+      "name": "Dominic Capon",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 20192,
+      "name": "Brian Taylor",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/1TXxgF48STiUb3F9cp1L5iEx5Pb.jpg"
+    },
+    {
+      "id": 205379,
+      "name": "Scott M. Gimple",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/3i8X7w3B38ZM1xqrFwjV7sIUkr3.jpg"
+    },
+    {
+      "id": 3893,
+      "name": "David S. Goyer",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg"
+    },
+    {
+      "id": 4767,
+      "name": "Michael De Luca",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/i87R2uZafgOmFdbT7PgCBXjsL5s.jpg"
+    },
+    {
+      "id": 2073,
+      "name": "Gail Stevens",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 204847,
+      "name": "Seth Hoffman",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "id": 54252,
+      "name": "E. Bennett Walsh",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/83MqqALAIph3p2S7QQiknGucAM2.jpg"
+    },
+    {
+      "id": 20193,
+      "name": "Mark Neveldine",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/lgmXPChEiXBSzroCSZS5XNqaZJF.jpg"
+    },
+    {
+      "id": 3189,
+      "name": "Brian Berdan",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/6XdyyjxRcWX1vhkcmoeTjzq04RY.jpg"
+    },
+    {
+      "id": 238120,
+      "name": "Colin Jones",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1052872,
+      "name": "Adrian Popescu",
+      "job": "Special Effects",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 122354,
+      "name": "Markos Rounthwaite",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": "/yTaZ8Pj2Xn1e7Ao8QYDK6UTi9QY.jpg"
+    },
+    {
+      "id": 12922,
+      "name": "Gary Foster",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 995533,
+      "name": "Maya Fukuzawa",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2823305,
+      "name": "Lee Adamson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3683136,
+      "name": "Mihai Lilescu",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 54252,
+      "name": "E. Bennett Walsh",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": "/83MqqALAIph3p2S7QQiknGucAM2.jpg"
+    },
+    {
+      "id": 1533675,
+      "name": "Manu Gargi",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1432022,
+      "name": "Eric Durst",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1627383,
+      "name": "Catalin Banghea",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3683143,
+      "name": "Mircea Hategan",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2909750,
+      "name": "James Andrew Haven",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1711690,
+      "name": "Jermaine Holt",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1699030,
+      "name": "Mihai Diaconu",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3683137,
+      "name": "Valentin Raileanu",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1099266,
+      "name": "Șerban Porupcă",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1052870,
+      "name": "Bojana Nikitović",
+      "job": "Costume Designer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 3683134,
+      "name": "Tavi Golgot",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 122356,
+      "name": "Robert Young",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/zzGX53Yvl3b585fv22AXVgmldto.jpg"
+    },
+    {
+      "id": 3683140,
+      "name": "Marian Trasca",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1628193,
+      "name": "Adrian Conerth",
+      "job": "Unit Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1324126,
+      "name": "Stephen Dobric",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 60408,
+      "name": "Adrian Curelea",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1634439,
+      "name": "Brett Praed",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/pz1lgVP2VeMnNJ672TVR83L8Rky.jpg"
+    },
+    {
+      "id": 1698998,
+      "name": "Constantin Viscreanu",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1401804,
+      "name": "Stuart Thorp",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": "/eTWDnKBCQqJiWA7W6vhgGvjD1U2.jpg"
+    },
+    {
+      "id": 3683133,
+      "name": "Michael Van Moorsel",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3530881,
+      "name": "Gabriel Serban",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2625340,
+      "name": "Frank Blake",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/vapsLZpKx7Y2gPt3XQNRswJZfc5.jpg"
+    },
+    {
+      "id": 2135993,
+      "name": "Madalin Dragan",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/r08HGv8tyRuZgQCw9ZOurpUly6l.jpg"
+    },
+    {
+      "id": 2475353,
+      "name": "Marian Dumitru",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1553277,
+      "name": "Cristian Bostanescu",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 3683135,
+      "name": "Robert Gugui",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1478605,
+      "name": "Tom Cohen",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1699031,
+      "name": "Petrica Marin",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1395451,
+      "name": "Jenny Fulle",
+      "job": "Visual Effects Producer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2775213,
+      "name": "Justin Brown",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 53530,
+      "name": "Sean Guest",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1457935,
+      "name": "Michael Queen",
+      "job": "Digital Effects Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1463182,
+      "name": "Aaron Williams",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1870653,
+      "name": "Rick English",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/oH1PKbLQwEwJBdeI8iOLdPgB9y6.jpg"
+    },
+    {
+      "id": 4166643,
+      "name": "Craig Clarke",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1427569,
+      "name": "Jerad Marantz",
+      "job": "Concept Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 141359,
+      "name": "Roy Thomas",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/2ZzN71BDvknZKTkIYmwNCa2uQMQ.jpg"
+    },
+    {
+      "id": 1422673,
+      "name": "Jason Lei Howden",
+      "job": "Digital Compositor",
+      "department": "Visual Effects",
+      "profile_path": "/4SybBzMHKYfU6jKByLn7n4pFCFX.jpg"
+    },
+    {
+      "id": 964093,
+      "name": "Patrick Aiello",
+      "job": "Production Executive",
+      "department": "Production",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:16.759Z"
+}

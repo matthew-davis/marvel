@@ -1,0 +1,2126 @@
+{
+  "id": 616037,
+  "title": "Thor: Love and Thunder",
+  "year": 2022,
+  "release_date": "2022-07-06",
+  "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+  "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+  "runtime": 119,
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "character": "Thor",
+      "order": 0,
+      "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "id": 524,
+      "name": "Natalie Portman",
+      "character": "Jane Foster / The Mighty Thor",
+      "order": 1,
+      "profile_path": "/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "id": 3894,
+      "name": "Christian Bale",
+      "character": "Gorr",
+      "order": 2,
+      "profile_path": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "id": 62561,
+      "name": "Tessa Thompson",
+      "character": "King Valkyrie",
+      "order": 3,
+      "profile_path": "/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "character": "Korg / Old Kronan God (voice)",
+      "order": 4,
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "id": 934,
+      "name": "Russell Crowe",
+      "character": "Zeus",
+      "order": 5,
+      "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "id": 59817,
+      "name": "Jaimie Alexander",
+      "character": "Sif",
+      "order": 6,
+      "profile_path": "/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+    },
+    {
+      "id": 17605,
+      "name": "Idris Elba",
+      "character": "Heimdall",
+      "order": 7,
+      "profile_path": "/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "id": 73457,
+      "name": "Chris Pratt",
+      "character": "Peter Quill / Star-Lord",
+      "order": 8,
+      "profile_path": "/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+      "id": 543530,
+      "name": "Dave Bautista",
+      "character": "Drax",
+      "order": 9,
+      "profile_path": "/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "id": 543261,
+      "name": "Karen Gillan",
+      "character": "Nebula",
+      "order": 10,
+      "profile_path": "/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+    },
+    {
+      "id": 139820,
+      "name": "Pom Klementieff",
+      "character": "Mantis",
+      "order": 11,
+      "profile_path": "/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "id": 51663,
+      "name": "Sean Gunn",
+      "character": "Kraglin / On-Set Rocket",
+      "order": 12,
+      "profile_path": "/tiolBlPytndQVGHO9vLnBKWWenq.jpg"
+    },
+    {
+      "id": 12835,
+      "name": "Vin Diesel",
+      "character": "Groot (voice)",
+      "order": 13,
+      "profile_path": "/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "id": 51329,
+      "name": "Bradley Cooper",
+      "character": "Rocket (voice)",
+      "order": 14,
+      "profile_path": "/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+    },
+    {
+      "id": 1910683,
+      "name": "Carly Rees",
+      "character": "Miek",
+      "order": 15,
+      "profile_path": "/vpPeUJlAKMSVqw52JjVgDeejTcS.jpg"
+    },
+    {
+      "id": 52852,
+      "name": "Kat Dennings",
+      "character": "Darcy",
+      "order": 16,
+      "profile_path": "/nJHGtedRCIeAdysg18oJngUZmL3.jpg"
+    },
+    {
+      "id": 21422,
+      "name": "Brett Goldstein",
+      "character": "Hercules",
+      "order": 17,
+      "profile_path": "/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg"
+    },
+    {
+      "id": 1640,
+      "name": "Stellan Skarsgård",
+      "character": "Selvig",
+      "order": 18,
+      "profile_path": "/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "id": 216986,
+      "name": "Luke Hemsworth",
+      "character": "Actor Thor",
+      "order": 19,
+      "profile_path": "/djq5j4VVUxpnCvrTnqaax4n3pqD.jpg"
+    },
+    {
+      "id": 1892,
+      "name": "Matt Damon",
+      "character": "Actor Loki",
+      "order": 20,
+      "profile_path": "/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "id": 4783,
+      "name": "Sam Neill",
+      "character": "Actor Odin",
+      "order": 21,
+      "profile_path": "/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+      "id": 55536,
+      "name": "Melissa McCarthy",
+      "character": "Actor Hela",
+      "order": 22,
+      "profile_path": "/yl0qva0O4u92fvtItakdvKmKrW9.jpg"
+    },
+    {
+      "id": 170820,
+      "name": "Ben Falcone",
+      "character": "Asgardian Stage Manager",
+      "order": 23,
+      "profile_path": "/jtCKxxU1FPAOJKcwAa2yfKUk2WB.jpg"
+    },
+    {
+      "id": 3203691,
+      "name": "Suren Jayemanne",
+      "character": "Asgardian Stagehand",
+      "order": 24,
+      "profile_path": "/ozU2EUjRAPA1noI4HD7StD3GyeH.jpg"
+    },
+    {
+      "id": 3616998,
+      "name": "Natasha Cheng",
+      "character": "Asgardian Stagehand",
+      "order": 25,
+      "profile_path": "/IAU9B5N9AmFbgu3IAIeEE6mhNt.jpg"
+    },
+    {
+      "id": 49360,
+      "name": "Stephen Curry",
+      "character": "King Yakan",
+      "order": 26,
+      "profile_path": "/5Sckl8Q5AGzyvqpDjGbkZCsEUTV.jpg"
+    },
+    {
+      "id": 1381548,
+      "name": "Bobby Holland Hanton",
+      "character": "Habooska The Horrible",
+      "order": 27,
+      "profile_path": "/qoAkLDUn43DhnyKv5uf0UGXJzpz.jpg"
+    },
+    {
+      "id": 1672488,
+      "name": "Daley Pearson",
+      "character": "Darryl The Tour Guide",
+      "order": 28,
+      "profile_path": "/iX77YtxdoslRXdG6EVK2WEknbwD.jpg"
+    },
+    {
+      "id": 3617002,
+      "name": "Dianne Close",
+      "character": "Asgard Tourist",
+      "order": 29,
+      "profile_path": null
+    },
+    {
+      "id": 3617004,
+      "name": "Greg Mitchell",
+      "character": "Asgard Tourist",
+      "order": 30,
+      "profile_path": null
+    },
+    {
+      "id": 3617007,
+      "name": "Briegh Winderbaum",
+      "character": "Ship Tourist",
+      "order": 31,
+      "profile_path": "/ufUdiTM7zlkDEwM29Km1pvVZbZc.jpg"
+    },
+    {
+      "id": 3617008,
+      "name": "Mayzie Winderbaum",
+      "character": "Ship Tourist",
+      "order": 32,
+      "profile_path": "/25iDJblL3iKH9mOlpwbk3JW9Cgh.jpg"
+    },
+    {
+      "id": 3617009,
+      "name": "Izaac Winderbaum",
+      "character": "Ship Tourist",
+      "order": 33,
+      "profile_path": "/l55PlkZz1Ex1QgxM7Sy9xjMRzpf.jpg"
+    },
+    {
+      "id": 3617011,
+      "name": "Alanis Long Borrello",
+      "character": "Ship Tourist",
+      "order": 34,
+      "profile_path": null
+    },
+    {
+      "id": 2949656,
+      "name": "Emmeline Luka Bale",
+      "character": "Infinity Conez Vendor",
+      "order": 35,
+      "profile_path": "/20jWJOFzvSnJgFaXzUcGPEcLxQL.jpg"
+    },
+    {
+      "id": 2855818,
+      "name": "Kieron L. Dyer",
+      "character": "Axl",
+      "order": 36,
+      "profile_path": "/fCkjcROfa3hmJdPVZZjFUZqghDa.jpg"
+    },
+    {
+      "id": 3613218,
+      "name": "India Rose Hemsworth",
+      "character": "Gorr's Daughter",
+      "order": 37,
+      "profile_path": null
+    },
+    {
+      "id": 57461,
+      "name": "Simon Russell Beale",
+      "character": "Dionysus",
+      "order": 38,
+      "profile_path": "/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg"
+    },
+    {
+      "id": 2905572,
+      "name": "Manny Spero",
+      "character": "Chemo Ward Patient",
+      "order": 39,
+      "profile_path": "/9V6Ma7DmVO0K9FZiOD7wmrk6avh.jpg"
+    },
+    {
+      "id": 586951,
+      "name": "Jonny Brugh",
+      "character": "Rapu",
+      "order": 40,
+      "profile_path": "/5iKh2jMEsx83z4Gz4pDA8deRRux.jpg"
+    },
+    {
+      "id": 1792879,
+      "name": "Andrew Crawford",
+      "character": "Flower God",
+      "order": 41,
+      "profile_path": "/krq5P2obysllpJmTP8dvks2b0zp.jpg"
+    },
+    {
+      "id": 3617019,
+      "name": "Chanique Greyling",
+      "character": "Young Frigga",
+      "order": 42,
+      "profile_path": null
+    },
+    {
+      "id": 1229578,
+      "name": "Brooke Satchwell",
+      "character": "Indigarrian Woman Glenda",
+      "order": 43,
+      "profile_path": "/afjOGhUUthqL4pc4H3oGygP6FH8.jpg"
+    },
+    {
+      "id": 73269,
+      "name": "Elsa Pataky",
+      "character": "Wolf Woman",
+      "order": 44,
+      "profile_path": "/fsA7hxz70SVvCm8dZuAGvBHtVDF.jpg"
+    },
+    {
+      "id": 2872781,
+      "name": "Zia Kelly",
+      "character": "Pirate Woman",
+      "order": 45,
+      "profile_path": "/hrleo9Frp8qqQEpHjHowEmM7U4x.jpg"
+    },
+    {
+      "id": 3617021,
+      "name": "Rosangela Fasano",
+      "character": "Alien Woman",
+      "order": 46,
+      "profile_path": "/32DWI2Um50wcywwqCD5mZP9sDYX.jpg"
+    },
+    {
+      "id": 3617022,
+      "name": "Cameron Chapek",
+      "character": "Baby Thor",
+      "order": 47,
+      "profile_path": null
+    },
+    {
+      "id": 3617023,
+      "name": "Tristan Hemsworth",
+      "character": "Kid Thor",
+      "order": 48,
+      "profile_path": null
+    },
+    {
+      "id": 3617024,
+      "name": "Samson Alston",
+      "character": "Teenage Thor",
+      "order": 49,
+      "profile_path": "/cWlKALgr6LK6lYRT0QbnDEeB5oN.jpg"
+    },
+    {
+      "id": 3617025,
+      "name": "Alan Spies",
+      "character": "Asgardian Pan Flute Player",
+      "order": 50,
+      "profile_path": null
+    },
+    {
+      "id": 1416789,
+      "name": "Eliza Matengu",
+      "character": "Grace (Axl's Mother)",
+      "order": 51,
+      "profile_path": "/eTlEoKGkaczAzmEyQMmliHGcVUh.jpg"
+    },
+    {
+      "id": 1058106,
+      "name": "Shari Sebbens",
+      "character": "Asgardian",
+      "order": 52,
+      "profile_path": "/ptXEjpYvIRJTurnTfYvyYgNdmaZ.jpg"
+    },
+    {
+      "id": 2855844,
+      "name": "Victoria Zerbst",
+      "character": "Asgardian",
+      "order": 53,
+      "profile_path": "/4CLXqd3c3WeIKnY6zwUlAYDThTe.jpg"
+    },
+    {
+      "id": 2621666,
+      "name": "Johnny Nasser",
+      "character": "Asgardian",
+      "order": 54,
+      "profile_path": "/3uoi5HWxi9cwu5d00kclu8HNZIf.jpg"
+    },
+    {
+      "id": 3617026,
+      "name": "Jenna Owen",
+      "character": "Asgardian",
+      "order": 55,
+      "profile_path": "/hRWFOyfWk9qmiT9Oeaj4wEmslhB.jpg"
+    },
+    {
+      "id": 2324314,
+      "name": "Gemma Dart",
+      "character": "Asgardian",
+      "order": 56,
+      "profile_path": "/37oGBKvhzZBHHlK1wJuSKcKicz7.jpg"
+    },
+    {
+      "id": 2420787,
+      "name": "Victoria Ferrara",
+      "character": "Falligarian Kid",
+      "order": 57,
+      "profile_path": "/w3ZwyGyY0rTwWFOnLGypOyZK5AZ.jpg"
+    },
+    {
+      "id": 3617027,
+      "name": "Ava Rodrigo-Porter",
+      "character": "Pink Alien Sister",
+      "order": 58,
+      "profile_path": null
+    },
+    {
+      "id": 3617028,
+      "name": "Elsa Rodrigo-Porter",
+      "character": "Pink Alien Sister",
+      "order": 59,
+      "profile_path": "/ikiNuEIWtyknZrz5nURxmYvhEGD.jpg"
+    },
+    {
+      "id": 1877487,
+      "name": "Kaan Guldur",
+      "character": "Lycan Kid",
+      "order": 60,
+      "profile_path": "/90DxFhkjpwZq5sriI3NmvHFQ7w4.jpg"
+    },
+    {
+      "id": 3617030,
+      "name": "Indeia Booc",
+      "character": "Blue Girl",
+      "order": 61,
+      "profile_path": null
+    },
+    {
+      "id": 3617032,
+      "name": "Indiana Ierano",
+      "character": "Red Girl",
+      "order": 62,
+      "profile_path": "/cXv6njbojkkzwR5FhKuzMMKESvg.jpg"
+    },
+    {
+      "id": 3617035,
+      "name": "Cayla Sutherland",
+      "character": "Cocoon Girl",
+      "order": 63,
+      "profile_path": "/crwHNRUBhYGjQYDnbrrh1VX1UB0.jpg"
+    },
+    {
+      "id": 3617037,
+      "name": "Tui Vincent",
+      "character": "Alien Child",
+      "order": 64,
+      "profile_path": "/9mRZa3x1wMfFkBpw7iCGBddlKOP.jpg"
+    },
+    {
+      "id": 3617039,
+      "name": "Garth Wood",
+      "character": "Guard",
+      "order": 65,
+      "profile_path": "/4J5hiPQLSaknh1asL6niozaZziE.jpg"
+    },
+    {
+      "id": 1361556,
+      "name": "Yure Covich",
+      "character": "Guard",
+      "order": 66,
+      "profile_path": "/e7T3bI9mCNZPbPuMcAPvR575nn8.jpg"
+    },
+    {
+      "id": 3617040,
+      "name": "Matatia Foa'i",
+      "character": "Guard",
+      "order": 67,
+      "profile_path": "/aPwHZQBt9WWYNAxGDBElN4xVPgm.jpg"
+    },
+    {
+      "id": 1331901,
+      "name": "Alan Dukes",
+      "character": "US Delegate",
+      "order": 68,
+      "profile_path": "/8cbXC7ntlyEroGG1uxEoQecreFZ.jpg"
+    },
+    {
+      "id": 3617041,
+      "name": "Alan Tsibulya",
+      "character": "Sycophant God",
+      "order": 69,
+      "profile_path": "/6IehEY5GKODO8e0PCAdsSo5zN6B.jpg"
+    },
+    {
+      "id": 1496153,
+      "name": "Arka Das",
+      "character": "Sycophant God",
+      "order": 70,
+      "profile_path": "/hbmlfI4zeChzGMskEcO3kpjfa31.jpg"
+    },
+    {
+      "id": 3194304,
+      "name": "Simona Paparelli",
+      "character": "Bao, God of Dumplings (voice)",
+      "order": 71,
+      "profile_path": "/xEQxCB7vbuU0NiZjSsPEsTqZ6TX.jpg"
+    },
+    {
+      "id": 1414764,
+      "name": "Nico Cortez",
+      "character": "Aztec God",
+      "order": 72,
+      "profile_path": "/ujk9vAlutbLUe9VbjPE6RDuQqVC.jpg"
+    },
+    {
+      "id": 2102960,
+      "name": "Priscilla Doueihy",
+      "character": "Artemis God",
+      "order": 73,
+      "profile_path": "/it4g13EMcqsXXggG1DYcOxQZwsA.jpg"
+    },
+    {
+      "id": 3617043,
+      "name": "Nicole Milinkovic",
+      "character": "Elche Goddess",
+      "order": 74,
+      "profile_path": "/1uUjxRk0hcQ2Jm043mCI7MbVgN1.jpg"
+    },
+    {
+      "id": 3617044,
+      "name": "Chayla Korewha",
+      "character": "Maori Princess",
+      "order": 75,
+      "profile_path": "/qn68Y8hLZV2s2BsoiuwHQJbYD0c.jpg"
+    },
+    {
+      "id": 3617045,
+      "name": "Imaan Hadchiti",
+      "character": "Mayan God",
+      "order": 76,
+      "profile_path": "/70ZbNszi5d9vl3SoAsupKuGpqSS.jpg"
+    },
+    {
+      "id": 3617046,
+      "name": "Carmen Foon",
+      "character": "Minerva",
+      "order": 77,
+      "profile_path": "/s51SqBx9hr6LCPyTpsXW06fT2Ei.jpg"
+    },
+    {
+      "id": 3069512,
+      "name": "Clariza Vicente",
+      "character": "Goddess Of The Dead",
+      "order": 78,
+      "profile_path": "/pyC1IY9StvuJzSyASTBNozNQn5T.jpg"
+    },
+    {
+      "id": 1004719,
+      "name": "Kuni Hashimoto",
+      "character": "Jademurai God",
+      "order": 79,
+      "profile_path": "/mYjz5QM6cnjkIHJMbY1ypHMGFSR.jpg"
+    },
+    {
+      "id": 1193834,
+      "name": "Stephen Hunter",
+      "character": "Fur God",
+      "order": 80,
+      "profile_path": "/2B1lI5nwKPavixa0JBM0UFnSw4z.jpg"
+    },
+    {
+      "id": 3617048,
+      "name": "Justin Paul Hitchcock",
+      "character": "Masked God",
+      "order": 81,
+      "profile_path": null
+    },
+    {
+      "id": 3617049,
+      "name": "Nazih Kheir",
+      "character": "Masked God",
+      "order": 82,
+      "profile_path": "/oyfeNxYLDFKZDwMhlgVeUze9lJi.jpg"
+    },
+    {
+      "id": 3617050,
+      "name": "Tatyana Gillam",
+      "character": "Zeusette",
+      "order": 83,
+      "profile_path": "/tpsjMV2dBcaOuPf5T7w6ByV7PLH.jpg"
+    },
+    {
+      "id": 214556,
+      "name": "Indiana Evans",
+      "character": "Zeusette",
+      "order": 84,
+      "profile_path": "/3M03u4NwdRhaHZ4S4vM9K8dxkWw.jpg"
+    },
+    {
+      "id": 3617054,
+      "name": "Samantha Allsop",
+      "character": "Zeusette",
+      "order": 85,
+      "profile_path": "/8Bxoa9AOX1MH3ez0WqvrwAHmybI.jpg"
+    },
+    {
+      "id": 3617056,
+      "name": "Olivia Vasquez",
+      "character": "Zeusette",
+      "order": 86,
+      "profile_path": "/wOU3Sn97fsSLVXlaefMippkrA9R.jpg"
+    },
+    {
+      "id": 3606249,
+      "name": "Adam Todd",
+      "character": "Zeus Pretty Boy",
+      "order": 87,
+      "profile_path": "/yIf08H1enBX9suTTKxGHFAb5Sb1.jpg"
+    },
+    {
+      "id": 3428893,
+      "name": "Josh Heuston",
+      "character": "Zeus Pretty Boy",
+      "order": 88,
+      "profile_path": "/31d2Hs4KixBj15CokgKlMaBcRlv.jpg"
+    },
+    {
+      "id": 3617062,
+      "name": "David Hambly",
+      "character": "Zeus Harpist",
+      "order": 89,
+      "profile_path": null
+    },
+    {
+      "id": 3617063,
+      "name": "Janessa Dufty",
+      "character": "Dancing God",
+      "order": 90,
+      "profile_path": "/ztzN5ud2uIRCzV1Pajy6BJFjI0l.jpg"
+    },
+    {
+      "id": 2272457,
+      "name": "Ava Caryofyllis",
+      "character": "Young Jane",
+      "order": 91,
+      "profile_path": "/5TzDajmAxIaFCwrkgZNw0jZAR0k.jpg"
+    },
+    {
+      "id": 3545802,
+      "name": "Chloé Gouneau",
+      "character": "Jane's Mother",
+      "order": 92,
+      "profile_path": "/hOne1GWxsKsbXwZW3kifkBZMWe0.jpg"
+    },
+    {
+      "id": 1410040,
+      "name": "Ben Sinclair",
+      "character": "Science Friend",
+      "order": 93,
+      "profile_path": "/1t4dqFzBbRbx6cEPBAu5JhNLB7W.jpg"
+    },
+    {
+      "id": 3617066,
+      "name": "Jane Yubin Kim",
+      "character": "Asgardian Doctor",
+      "order": 94,
+      "profile_path": "/zqe7TQ1wlBqCrqAjEKYbCVMQyEw.jpg"
+    },
+    {
+      "id": 1194885,
+      "name": "Dave Cory",
+      "character": "Kronan Dwayne",
+      "order": 95,
+      "profile_path": null
+    },
+    {
+      "id": 3617067,
+      "name": "Te Kainga O'Te Hinekahu Waititi",
+      "character": "Asgardian Kid",
+      "order": 96,
+      "profile_path": null
+    },
+    {
+      "id": 3617084,
+      "name": "Matewa Kiritapu Waititi",
+      "character": "Asgardian Kid",
+      "order": 97,
+      "profile_path": "/4pZBA4orGaTPkOmbE35XoWsfjDq.jpg"
+    },
+    {
+      "id": 3617068,
+      "name": "Sasha Hemsworth",
+      "character": "Asgardian Kid",
+      "order": 98,
+      "profile_path": null
+    },
+    {
+      "id": 3617085,
+      "name": "Aleph Millepied",
+      "character": "Asgardian Kid",
+      "order": 99,
+      "profile_path": null
+    },
+    {
+      "id": 3617069,
+      "name": "Amalia Millepied",
+      "character": "Asgardian Kid",
+      "order": 100,
+      "profile_path": null
+    },
+    {
+      "id": 3617087,
+      "name": "Rex Bale",
+      "character": "Asgardian Kid",
+      "order": 101,
+      "profile_path": null
+    },
+    {
+      "id": 3317575,
+      "name": "Molly Moriarty",
+      "character": "Asgardian Kid",
+      "order": 102,
+      "profile_path": "/ll4V5DnQV51tLVPVTmn84bF8mj2.jpg"
+    },
+    {
+      "id": 3617088,
+      "name": "Hannah Gray",
+      "character": "Asgardian Kid",
+      "order": 103,
+      "profile_path": null
+    },
+    {
+      "id": 3617071,
+      "name": "Luc Barrett",
+      "character": "Asgardian Kid",
+      "order": 104,
+      "profile_path": "/98eSl4Ew7AwHG3wq6r2XY3csX0Q.jpg"
+    },
+    {
+      "id": 3617089,
+      "name": "Luca Darda",
+      "character": "Asgardian Kid",
+      "order": 105,
+      "profile_path": null
+    },
+    {
+      "id": 3617072,
+      "name": "Bo Chambers",
+      "character": "Asgardian Kid",
+      "order": 106,
+      "profile_path": null
+    },
+    {
+      "id": 3617090,
+      "name": "Zali Mae Harrison",
+      "character": "Asgardian Kid",
+      "order": 107,
+      "profile_path": null
+    },
+    {
+      "id": 3617074,
+      "name": "Leeton Alan Ingrey",
+      "character": "Asgardian Kid",
+      "order": 108,
+      "profile_path": null
+    },
+    {
+      "id": 3617092,
+      "name": "Evan Stanhope",
+      "character": "Asgardian Kid",
+      "order": 109,
+      "profile_path": "/bx70kbhnohOg5Pze4zWEO7ZVUj0.jpg"
+    },
+    {
+      "id": 3617075,
+      "name": "Jessica May Lynne",
+      "character": "Asgardian Kid",
+      "order": 110,
+      "profile_path": "/wyNa0bdWB1X87rFnouqr8XuTM8j.jpg"
+    },
+    {
+      "id": 3617093,
+      "name": "Jaimee Rose Lynn",
+      "character": "Asgardian Kid",
+      "order": 111,
+      "profile_path": "/rA7yJFpt5MCbWN4m1cNSQuo6l2j.jpg"
+    },
+    {
+      "id": 1973030,
+      "name": "Kim Thien Doan",
+      "character": "Asgardian Kid",
+      "order": 112,
+      "profile_path": "/djqQ8cnZyipoLTflmUZnJJS08Ry.jpg"
+    },
+    {
+      "id": 3617094,
+      "name": "Simone Landers",
+      "character": "Asgardian Kid",
+      "order": 113,
+      "profile_path": null
+    },
+    {
+      "id": 3617076,
+      "name": "Sienna Ngeru",
+      "character": "Asgardian Kid",
+      "order": 114,
+      "profile_path": null
+    },
+    {
+      "id": 3617095,
+      "name": "Rafael Siemer",
+      "character": "Asgardian Kid",
+      "order": 115,
+      "profile_path": null
+    },
+    {
+      "id": 3617078,
+      "name": "Gabriel Siemer",
+      "character": "Asgardian Kid",
+      "order": 116,
+      "profile_path": null
+    },
+    {
+      "id": 3617097,
+      "name": "Ronin Fabi",
+      "character": "Asgardian Kid",
+      "order": 117,
+      "profile_path": null
+    },
+    {
+      "id": 3617079,
+      "name": "Arias Vang",
+      "character": "Asgardian Kid",
+      "order": 118,
+      "profile_path": "/iBWExkx7LLYUonxPqg2Jnk3uupK.jpg"
+    },
+    {
+      "id": 3617098,
+      "name": "Corban Ierano",
+      "character": "Asgardian Kid",
+      "order": 119,
+      "profile_path": null
+    },
+    {
+      "id": 3617082,
+      "name": "Xander Mouradian",
+      "character": "Asgardian Kid",
+      "order": 120,
+      "profile_path": null
+    },
+    {
+      "id": 3617099,
+      "name": "Jacob Yee",
+      "character": "Asgardian Kid",
+      "order": 121,
+      "profile_path": null
+    },
+    {
+      "id": 4735305,
+      "name": "Zhang Chongwei",
+      "character": "Asgardian / Indigarrian (uncredited)",
+      "order": 122,
+      "profile_path": "/akI5gU5zRiUkXsbU4PoXdY5ew1v.jpg"
+    },
+    {
+      "id": 5981609,
+      "name": "Nana Miya",
+      "character": "Asgardian Parent (uncredited)",
+      "order": 123,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 4209661,
+      "name": "Sooyeon Lim",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 4162684,
+      "name": "Michelle Chan Wong",
+      "job": "Executive Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2364526,
+      "name": "Michael Matthews",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 24192,
+      "name": "Dave Jordan",
+      "job": "Music Supervisor",
+      "department": "Sound",
+      "profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg"
+    },
+    {
+      "id": 57769,
+      "name": "Peter S. Elliot",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/duowPY21fzKWX1YNy39eHw200fc.jpg"
+    },
+    {
+      "id": 1459360,
+      "name": "Tim Roche",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/aGQWLBsbrybdkYeKksGH8C3T3PV.jpg"
+    },
+    {
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "id": 1467332,
+      "name": "Jake Morrison",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/7XDhwTphEl9YUhcLrQOhK0e6iX2.jpg"
+    },
+    {
+      "id": 1556346,
+      "name": "Jennifer Vecchiarello",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1753397,
+      "name": "Andy Park",
+      "job": "Visual Development",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1793535,
+      "name": "Brian Chapek",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/1Wf4pmBXP2yJnYEjNARDgZrJYo1.jpg"
+    },
+    {
+      "id": 1355525,
+      "name": "Matthew Schmidt",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1533708,
+      "name": "David J. Grant",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": "/a5xY0i1wyfU2Aiz2mtqzXaHWkY0.jpg"
+    },
+    {
+      "id": 1256726,
+      "name": "Brad Winderbaum",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg"
+    },
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "id": 1721377,
+      "name": "Jennifer Kaytin Robinson",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/lvNurtB8HROilnxDHUOCSfE1qfV.jpg"
+    },
+    {
+      "id": 1222509,
+      "name": "Keith Giffen",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1372782,
+      "name": "Steve Englehart",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/reQXsqd6qLpQHcWEiSeVBdYbX3W.jpg"
+    },
+    {
+      "id": 3016888,
+      "name": "Steve Gan",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/cUzygLhLljUprpRX9jMOe5nT7CX.jpg"
+    },
+    {
+      "id": 1768857,
+      "name": "Bill Mantlo",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 18876,
+      "name": "Larry Lieber",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/6zFjMrk50yZri9KiVqli477gWYB.jpg"
+    },
+    {
+      "id": 1713975,
+      "name": "Jim Starlin",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/r92EWrlL4EI1aMpEjWN9xjfrJ40.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 2074823,
+      "name": "Nami Melumad",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/px3NyOxUBbEZyRMYWYHymeOWqgK.jpg"
+    },
+    {
+      "id": 3618256,
+      "name": "Lisa Marra",
+      "job": "Visual Effects Producer",
+      "department": "Visual Effects",
+      "profile_path": "/vxMw691NJz8hxzoUUIhEr3qoTBe.jpg"
+    },
+    {
+      "id": 15347,
+      "name": "Michael Giacchino",
+      "job": "Other",
+      "department": "Sound",
+      "profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg"
+    },
+    {
+      "id": 1406766,
+      "name": "Barry Idoine",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": "/k12a8mxmefY54hQTzb2i3xIiuQQ.jpg"
+    },
+    {
+      "id": 2927638,
+      "name": "Kevin R. Wright",
+      "job": "Other",
+      "department": "Crew",
+      "profile_path": "/qKlpTCliuOmIO3L9hu1b5sFzOGG.jpg"
+    },
+    {
+      "id": 3237677,
+      "name": "Daniel Edery",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1467332,
+      "name": "Jake Morrison",
+      "job": "Second Unit Director",
+      "department": "Directing",
+      "profile_path": "/7XDhwTphEl9YUhcLrQOhK0e6iX2.jpg"
+    },
+    {
+      "id": 3194304,
+      "name": "Simona Paparelli",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": "/xEQxCB7vbuU0NiZjSsPEsTqZ6TX.jpg"
+    },
+    {
+      "id": 1412734,
+      "name": "Jennifer Cornwell",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 75736,
+      "name": "Deborah Antoniou",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1804321,
+      "name": "Roger Stern",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 16344,
+      "name": "Daniel Laurie",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": "/cZjLR3M9PjKRGgHPw5PFbHrZ3l6.jpg"
+    },
+    {
+      "id": 18877,
+      "name": "Don Heck",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/i6LYusY0feetOUeyUx4eftNCmpt.jpg"
+    },
+    {
+      "id": 7625,
+      "name": "Steve Ditko",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    },
+    {
+      "id": 236392,
+      "name": "Arnold Drake",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1222494,
+      "name": "Walt Simonson",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/5dD0gNaTQBmFUErEr4Wj7DpBbia.jpg"
+    },
+    {
+      "id": 1116441,
+      "name": "Gene Colan",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/f3N37BElhbJwjEY2EI0JMdK9PTU.jpg"
+    },
+    {
+      "id": 1352424,
+      "name": "Brandon Proctor",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/wqo6jIOx23KaLj4h9sPVUnb8oGL.jpg"
+    },
+    {
+      "id": 1352034,
+      "name": "Andy Lanning",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/zmb0su8N5xHZUGNb29mGJp3rNso.jpg"
+    },
+    {
+      "id": 1713958,
+      "name": "Danielle Daly",
+      "job": "Post Production Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1418439,
+      "name": "Evan Jacobs",
+      "job": "Stereoscopic Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/b9sGlCdQrNjctxsZ2042ffzFCe0.jpg"
+    },
+    {
+      "id": 2967425,
+      "name": "Russell Dauterman",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1356059,
+      "name": "Jason Aaron",
+      "job": "Creative Consultant",
+      "department": "Crew",
+      "profile_path": "/mz1Mhjml0GPky3sGfL5B1Gi5vr.jpg"
+    },
+    {
+      "id": 1145873,
+      "name": "John Buscema",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/npua00k99BIWDmIVw599jOGto6i.jpg"
+    },
+    {
+      "id": 30810,
+      "name": "Donald F. Glut",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/vB9aarmCk3ShjfjeyR1BxpIbpvR.jpg"
+    },
+    {
+      "id": 2727055,
+      "name": "Olivier Coipel",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3617067,
+      "name": "Te Kainga O'Te Hinekahu Waititi",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2017200,
+      "name": "Qianbaihui Yang",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3644676,
+      "name": "Butch Guice",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1088276,
+      "name": "Rick Hoberg",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 145170,
+      "name": "Dan Abnett",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/mql9kTYIjPOoCsLilrh9hSMV4pn.jpg"
+    },
+    {
+      "id": 931976,
+      "name": "Onnalee Blank",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/mtNZG3Ecv9KCXC34R98pLw2wva2.jpg"
+    },
+    {
+      "id": 1238004,
+      "name": "Sal Buscema",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1780801,
+      "name": "Esad Ribic",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3202365,
+      "name": "Mike Friedrich",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3243237,
+      "name": "Carlo Pagulayan",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 107629,
+      "name": "Greg Pak",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/yHrisoyyYJh9y3DCQBcnkr7gXym.jpg"
+    },
+    {
+      "id": 3519986,
+      "name": "Paul Pelletier",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1477146,
+      "name": "Lee Cleary",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2949656,
+      "name": "Emmeline Luka Bale",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/20jWJOFzvSnJgFaXzUcGPEcLxQL.jpg"
+    },
+    {
+      "id": 3644679,
+      "name": "Sebastian Chavira",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3476864,
+      "name": "Otis Hope Carey",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3613218,
+      "name": "India Rose Hemsworth",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3617008,
+      "name": "Mayzie Winderbaum",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/25iDJblL3iKH9mOlpwbk3JW9Cgh.jpg"
+    },
+    {
+      "id": 141359,
+      "name": "Roy Thomas",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/2ZzN71BDvknZKTkIYmwNCa2uQMQ.jpg"
+    },
+    {
+      "id": 3617085,
+      "name": "Aleph Millepied",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3644678,
+      "name": "Gabe Chavira",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2722092,
+      "name": "Wendy Gutierrez",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3617087,
+      "name": "Rex Bale",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1622657,
+      "name": "Mark Aaron Wagner",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/tLDjzuE1jy4p080igqybMFYrfq0.jpg"
+    },
+    {
+      "id": 33045,
+      "name": "J. Michael Straczynski",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/ezbudNhoJcgIGZdx74D6kPmu1Yp.jpg"
+    },
+    {
+      "id": 3617068,
+      "name": "Sasha Hemsworth",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3644677,
+      "name": "Olivia Alonso-Corcoran",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2178720,
+      "name": "Holly Dowell",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/6A6zWKA9Kd918zytyXIfwbk8fJU.jpg"
+    },
+    {
+      "id": 3617069,
+      "name": "Amalia Millepied",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2872781,
+      "name": "Zia Kelly",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/hrleo9Frp8qqQEpHjHowEmM7U4x.jpg"
+    },
+    {
+      "id": 3644698,
+      "name": "Kasiani Ngendawanga",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3617023,
+      "name": "Tristan Hemsworth",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3617084,
+      "name": "Matewa Kiritapu Waititi",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/4pZBA4orGaTPkOmbE35XoWsfjDq.jpg"
+    },
+    {
+      "id": 3617009,
+      "name": "Izaac Winderbaum",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/l55PlkZz1Ex1QgxM7Sy9xjMRzpf.jpg"
+    },
+    {
+      "id": 1381548,
+      "name": "Bobby Holland Hanton",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/qoAkLDUn43DhnyKv5uf0UGXJzpz.jpg"
+    },
+    {
+      "id": 1005944,
+      "name": "Mandy Kowalski",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/pWglkDC4t8TzNAxV7K2Ugniy7yp.jpg"
+    },
+    {
+      "id": 1830633,
+      "name": "Kyle Gardiner",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3644696,
+      "name": "Nigel Poulton",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2612360,
+      "name": "Ashlee Fidow",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/aE0xaTS879yfvK9FCU6SPX8UuMK.jpg"
+    },
+    {
+      "id": 3310642,
+      "name": "Mel Eckert",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1456723,
+      "name": "Dean Neistat",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/kxpdh3MKXci1KQtMoEnyVCrW3Zd.jpg"
+    },
+    {
+      "id": 3644695,
+      "name": "Tarah Smyth",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3529084,
+      "name": "Bronwyn Akhurst",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 590821,
+      "name": "Tara Macken",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/fwvb2DyvJpl51ssaBSiotgBTyPM.jpg"
+    },
+    {
+      "id": 2211786,
+      "name": "Ben Siemer",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/ezzb27944gwO8SVqWPIdSP0GOIa.jpg"
+    },
+    {
+      "id": 3485314,
+      "name": "Cecilia Johnson",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/pBp7ZVo0Jjub21Ycc1VKmVAXKnF.jpg"
+    },
+    {
+      "id": 2601160,
+      "name": "Jade Amantea",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1849385,
+      "name": "Justin Howell",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/fMo49t3T3AUaUDUAQqJqFbX1DOQ.jpg"
+    },
+    {
+      "id": 1840496,
+      "name": "Garreth Hadfield",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/7hDnAi2tqm9XZqEVoWRhQzDqc1w.jpg"
+    },
+    {
+      "id": 3528729,
+      "name": "Carla Thexton",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1737940,
+      "name": "Damien Bryson",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 6184,
+      "name": "Todd Hallowell",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/l5HU6JgdQ8a9RTsU07LEQGm4QZ4.jpg"
+    },
+    {
+      "id": 1518766,
+      "name": "Katie Sharrock",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1669139,
+      "name": "Samson Neslund",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": "/ijB0ydqIhpFz5J7IbNBMxLNEMbE.jpg"
+    },
+    {
+      "id": 6446,
+      "name": "Christopher Allen Nelson",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": "/chp4JPOJRMjJAfA5AjfHyhxdUsp.jpg"
+    },
+    {
+      "id": 1634542,
+      "name": "Rebecca Allen",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2109006,
+      "name": "Tia Stephanou",
+      "job": "Key Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2647141,
+      "name": "Micheala Macrae",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1430475,
+      "name": "Jon Moore",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 104028,
+      "name": "Bart Mixon",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1822520,
+      "name": "Michaela McAllister",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/ys7TRFyl7RpBziYZ7JVadSfawWT.jpg"
+    },
+    {
+      "id": 186573,
+      "name": "Zack Duhame",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/mI6sdZQaeHDi3jXinS4g1jizywk.jpg"
+    },
+    {
+      "id": 1518775,
+      "name": "Andrew Chan",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1816359,
+      "name": "Tony Drew",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 9583,
+      "name": "Charlie Revai",
+      "job": "Supervising Art Director",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1418283,
+      "name": "Jenny Hitchcock",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 15347,
+      "name": "Michael Giacchino",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg"
+    },
+    {
+      "id": 2891334,
+      "name": "Talayna Moana Nikora",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/3LS3qWouYEHFhFnkq4n6TGQcBg0.jpg"
+    },
+    {
+      "id": 1387252,
+      "name": "Chris O'Hara",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/fld3KCrYr9IOTrAiKYPXgybgk1d.jpg"
+    },
+    {
+      "id": 3889487,
+      "name": "Esme Coleman",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1687427,
+      "name": "Kate Anderson",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 4735305,
+      "name": "Zhang Chongwei",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/akI5gU5zRiUkXsbU4PoXdY5ew1v.jpg"
+    },
+    {
+      "id": 1321750,
+      "name": "Kurt D. Lott",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/lPUdu9RkkSy6xLxKRbVMV3Ruh2W.jpg"
+    },
+    {
+      "id": 1746449,
+      "name": "Dan Oliver",
+      "job": "Special Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/jM0vOodaL6rQ258atB6tGQfW7sP.jpg"
+    },
+    {
+      "id": 20494,
+      "name": "Zoë Bell",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": "/dax6Sutw8xFGnZCo011eejImdBO.jpg"
+    },
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "id": 57027,
+      "name": "Louis D'Esposito",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 113674,
+      "name": "Victoria Alonso",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg"
+    },
+    {
+      "id": 17675,
+      "name": "Mayes C. Rubeo",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": "/zq3OHlYKVGPQd1gbojz3xY6t5pT.jpg"
+    },
+    {
+      "id": 7232,
+      "name": "Sarah Halley Finn",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/66jHgjBqbjkjWwZEPbAs6k6yMGb.jpg"
+    },
+    {
+      "id": 9817,
+      "name": "Nigel Phelps",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1411839,
+      "name": "William Groebe",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/r9ygFRpbBSjonMSrIVn4cyv292e.jpg"
+    },
+    {
+      "id": 1935207,
+      "name": "Ryan Meinerding",
+      "job": "Visual Development",
+      "department": "Visual Effects",
+      "profile_path": "/cDfao2DmBHqvjysYZxuO5q6U0Pm.jpg"
+    },
+    {
+      "id": 2985703,
+      "name": "Michael Anthony Jackson",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/dgXusNWaZS9iIAfUEWZpJDlogm1.jpg"
+    },
+    {
+      "id": 1335195,
+      "name": "Frazer Churchill",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/gq1n84xhYTEae2yUSvP0Pm0yy0J.jpg"
+    },
+    {
+      "id": 1715713,
+      "name": "Hayden Landis",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/1JfU5rWSInV0erabcmMFt6qcxw6.jpg"
+    },
+    {
+      "id": 2578697,
+      "name": "Jeanie King",
+      "job": "Executive Visual Effects Producer",
+      "department": "Crew",
+      "profile_path": "/wpyjLm7lcyLaXcCyDg0DVkJ7NKv.jpg"
+    },
+    {
+      "id": 1463515,
+      "name": "Chad Hudson",
+      "job": "Visual Effects Producer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2177209,
+      "name": "Benjamin Last",
+      "job": "Concept Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1653682,
+      "name": "Molly Doyle",
+      "job": "Casting Associate",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1836083,
+      "name": "Matthew Twyford",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/7Qv9rU4cL6i86DR71EHiuQ1eq9e.jpg"
+    },
+    {
+      "id": 2881089,
+      "name": "Daniel Nelson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/jfVtAqELfncHRHomUrTuVVYXrg.jpg"
+    },
+    {
+      "id": 1476970,
+      "name": "Yasushi Asaya",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/fHA0xpagWu33twmJcEI02uCCXYp.jpg"
+    },
+    {
+      "id": 1433051,
+      "name": "Drew Jones",
+      "job": "Visual Effects Production Manager",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 5265966,
+      "name": "Caleb Knowles",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1395027,
+      "name": "Gregory D. Liegey",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4822823,
+      "name": "Sian Rhys Morgan",
+      "job": "Visual Effects Coordinator",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1400535,
+      "name": "Colin Anderson",
+      "job": "\"A\" Camera Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1349483,
+      "name": "Sara Holden",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/i6u9Iy6ZSMeyMSqYqYsBcnPAi6Z.jpg"
+    },
+    {
+      "id": 1719576,
+      "name": "Chris Morrison",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1480629,
+      "name": "Luca Vannella",
+      "job": "Hair Department Head",
+      "department": "Costume & Make-Up",
+      "profile_path": "/3V95IInYtScu9PkCdc4YwHWP2SH.jpg"
+    },
+    {
+      "id": 1094152,
+      "name": "Matthew J. Lloyd",
+      "job": "Additional Director of Photography",
+      "department": "Camera",
+      "profile_path": "/pNe3BEiuSBOcaog4yzzdN54tmJK.jpg"
+    },
+    {
+      "id": 9341,
+      "name": "Bill Pope",
+      "job": "Additional Director of Photography",
+      "department": "Camera",
+      "profile_path": "/kpakvuSrk1D9D8WMt5SOi4Rs2EV.jpg"
+    },
+    {
+      "id": 1715691,
+      "name": "Vasilios Tanis",
+      "job": "Makeup Department Head",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2721982,
+      "name": "Kathryn Prescott",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 5543117,
+      "name": "Benoît Chieusse",
+      "job": "Compositing Artist",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1407256,
+      "name": "Jeff King",
+      "job": "Additional Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1463510,
+      "name": "Sherry Hitch",
+      "job": "Compositing Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1431031,
+      "name": "Pete Dionne",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/1AT1qEVo5nLdFVgGK1raq0QUAOX.jpg"
+    },
+    {
+      "id": 3592579,
+      "name": "David W Wilson III",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": "/9TGZpSsUD19tycoxgKuC8d0vtNU.jpg"
+    },
+    {
+      "id": 3754406,
+      "name": "Ryan Makepeace",
+      "job": "Travel Coordinator",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1621393,
+      "name": "Craig McPherson",
+      "job": "Animation Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/eqeu0kRhETp0DOet4z608N0bMKr.jpg"
+    },
+    {
+      "id": 1399315,
+      "name": "John Clinton",
+      "job": "Visual Effects Producer",
+      "department": "Visual Effects",
+      "profile_path": "/gWYpvLvWP4IS8r48hDwh74WVEYA.jpg"
+    },
+    {
+      "id": 1439088,
+      "name": "David Wallace Allen",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2454671,
+      "name": "Graham Binding",
+      "job": "Senior Animator",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2141758,
+      "name": "Laura Sanchez Acosta",
+      "job": "Digital Compositor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1392722,
+      "name": "Reg Garside",
+      "job": "Gaffer",
+      "department": "Lighting",
+      "profile_path": null
+    },
+    {
+      "id": 1447624,
+      "name": "Harrison Goldstein",
+      "job": "Visual Effects Production Manager",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4213518,
+      "name": "Joseph Pepper",
+      "job": "CG Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1638562,
+      "name": "Austin Aplin",
+      "job": "Visual Effects Producer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3298918,
+      "name": "Sam Evenson",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1409491,
+      "name": "Ra Vincent",
+      "job": "Other",
+      "department": "Art",
+      "profile_path": "/tLhSr89VQuODVg5kMkG3bbqz6sk.jpg"
+    },
+    {
+      "id": 2153753,
+      "name": "Jason Greenblum",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 6171696,
+      "name": "Steven Leaute",
+      "job": "3D Animator",
+      "department": "Visual Effects",
+      "profile_path": "/rwIUXD3TTgVSPVcrJFoGjpUKvEs.jpg"
+    },
+    {
+      "id": 1815923,
+      "name": "Arslan Elver",
+      "job": "Animation Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/pWjRohC8Mjl36UayIKid6MRPbVZ.jpg"
+    },
+    {
+      "id": 1457326,
+      "name": "Luke Millar",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/j308WkdQgrXFP9o2fBXpeRa0N5E.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:43.173Z"
+}

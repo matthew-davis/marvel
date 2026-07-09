@@ -1,0 +1,342 @@
+{
+  "id": 26881,
+  "title": "The Incredible Hulk Returns",
+  "year": 1988,
+  "release_date": "1988-05-22",
+  "poster_path": "/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
+  "overview": "Years after the end of the original series, David Banner continues his wandering search for a cure for the condition that turns him into the Hulk. He reunites with former colleague Don Blake, unaware of his mystical connection to Thor. When a criminal organization threatens their lives, Banner is forced to unleash the Hulk once again, marking the character’s return after the series finale.",
+  "runtime": 94,
+  "genres": [
+    "Action",
+    "Drama",
+    "Adventure",
+    "TV Movie"
+  ],
+  "cast": [
+    {
+      "id": 19138,
+      "name": "Bill Bixby",
+      "character": "Dr. David Bruce Banner",
+      "order": 0,
+      "profile_path": "/eKcpqTutiVxQeAPbwupjSV5DXE.jpg"
+    },
+    {
+      "id": 19137,
+      "name": "Lou Ferrigno",
+      "character": "The Hulk",
+      "order": 1,
+      "profile_path": "/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg"
+    },
+    {
+      "id": 19139,
+      "name": "Jack Colvin",
+      "character": "Jack McGee",
+      "order": 2,
+      "profile_path": "/muGB3L9Nn7CAVeKnZwm79BVr1P3.jpg"
+    },
+    {
+      "id": 41246,
+      "name": "Lee Purcell",
+      "character": "Maggie Shaw",
+      "order": 3,
+      "profile_path": "/m3Hg7Ww0Sfd8UzqExtbuXpKqB8y.jpg"
+    },
+    {
+      "id": 16119,
+      "name": "Charles Napier",
+      "character": "Mike Fouche",
+      "order": 4,
+      "profile_path": "/w16LEJlHDtqGWeFCk5a7a2GDeBK.jpg"
+    },
+    {
+      "id": 50974,
+      "name": "John Gabriel",
+      "character": "Joshua Lambert",
+      "order": 5,
+      "profile_path": "/vroq8t0cv0fT2LbRJ3G1w0IIkHx.jpg"
+    },
+    {
+      "id": 81624,
+      "name": "Jay Baker",
+      "character": "Zack Lambert",
+      "order": 6,
+      "profile_path": "/a4uSS5ZYPJsMMFV1Q0pHOy8HltG.jpg"
+    },
+    {
+      "id": 29712,
+      "name": "Tim Thomerson",
+      "character": "Jack LeBeau",
+      "order": 7,
+      "profile_path": "/dCqpmO9nDA07NYSdyQF5JYnmxpL.jpg"
+    },
+    {
+      "id": 41125,
+      "name": "Eric Allan Kramer",
+      "character": "Thor",
+      "order": 8,
+      "profile_path": "/nqa9idbLT0AdhrIIu0o8bbxvoBk.jpg"
+    },
+    {
+      "id": 78384,
+      "name": "Steve Levitt",
+      "character": "Donald Blake",
+      "order": 9,
+      "profile_path": "/iIKahZI4i1aOjQpyJJC4O6XBeE0.jpg"
+    },
+    {
+      "id": 549251,
+      "name": "William Riley",
+      "character": "Sgt. Lindsey",
+      "order": 10,
+      "profile_path": null
+    },
+    {
+      "id": 154713,
+      "name": "Tom Finnegan",
+      "character": "Capt. Brills",
+      "order": 11,
+      "profile_path": "/uYbXwLibA17bmDq9aepXycBDNMW.jpg"
+    },
+    {
+      "id": 152977,
+      "name": "Donald Willis",
+      "character": "Elwood",
+      "order": 12,
+      "profile_path": null
+    },
+    {
+      "id": 42824,
+      "name": "Carl Ciarfalio",
+      "character": "Barner",
+      "order": 13,
+      "profile_path": "/yADROfK7uJkmd8p3GyjxH8WZqRL.jpg"
+    },
+    {
+      "id": 567076,
+      "name": "Bobby McLaughlin",
+      "character": "Roarke",
+      "order": 14,
+      "profile_path": null
+    },
+    {
+      "id": 567077,
+      "name": "Burke Denis",
+      "character": "Henchman",
+      "order": 15,
+      "profile_path": null
+    },
+    {
+      "id": 567078,
+      "name": "Nic Costa",
+      "character": "Henchman",
+      "order": 16,
+      "profile_path": "/fPOOYUViM4OGx87gzj89jmCdeDW.jpg"
+    },
+    {
+      "id": 183465,
+      "name": "Peisha Arten",
+      "character": "Girl in Party",
+      "order": 17,
+      "profile_path": null
+    },
+    {
+      "id": 57898,
+      "name": "William Malone",
+      "character": "Henchman",
+      "order": 18,
+      "profile_path": "/rPr1jOv9ru8rUMOiJwBwTyEq8nw.jpg"
+    },
+    {
+      "id": 567079,
+      "name": "Joan Douglas",
+      "character": "Reporter",
+      "order": 19,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 166073,
+      "name": "Nicholas Corea",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 166073,
+      "name": "Nicholas Corea",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1300651,
+      "name": "Debra Rubinstein",
+      "job": "Casting Director",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 4287766,
+      "name": "Michael Parker",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 95830,
+      "name": "Chris Ubick",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1330048,
+      "name": "John Casey",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 103076,
+      "name": "John Goodwin",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": "/5JEwbD0LWlWgnF4NkO8B0hIsdRC.jpg"
+    },
+    {
+      "id": 1868273,
+      "name": "Norman T. Leavitt",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 566658,
+      "name": "Pamela Peitzman",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1531872,
+      "name": "Darrell Redleaf-Fielder",
+      "job": "Assistant Hairstylist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 4287775,
+      "name": "Jay Wellington",
+      "job": "Hairstylist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1848399,
+      "name": "James Ragan",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 3649409,
+      "name": "Candace Allen",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2300792,
+      "name": "Jeffrey M. Ellis",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1505857,
+      "name": "Christopher Amy",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1619537,
+      "name": "Chuck Colwell",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Consulting Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 19138,
+      "name": "Bill Bixby",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/eKcpqTutiVxQeAPbwupjSV5DXE.jpg"
+    },
+    {
+      "id": 166073,
+      "name": "Nicholas Corea",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2032502,
+      "name": "Daniel McPhee",
+      "job": "Supervising Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 959524,
+      "name": "Lance Rubin",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2032503,
+      "name": "Janet Ashikaga",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 2032504,
+      "name": "Briana London",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 2322953,
+      "name": "Edward J. Ulrich",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:01.621Z"
+}

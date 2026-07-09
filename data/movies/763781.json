@@ -1,0 +1,38 @@
+{
+  "id": 763781,
+  "title": "Hardcase",
+  "year": 1993,
+  "release_date": "1993-06-01",
+  "poster_path": "/A3s0VOSAsIu0NcSf7LyY2o8j0V6.jpg",
+  "overview": "Malibu Films, in association with Wizard, released a 6-minute music video style short film, starring British kickboxer Gary Daniels as Hardcase, directed by Darren Doane.",
+  "runtime": 6,
+  "genres": [
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 68559,
+      "name": "Gary Daniels",
+      "character": "Hardcase",
+      "order": 0,
+      "profile_path": "/60RqnmK1eAICJgbmA0YtMef6iys.jpg"
+    },
+    {
+      "id": 12366,
+      "name": "Scott McElroy",
+      "character": "Fighter",
+      "order": 1,
+      "profile_path": "/koPGLKQpBcEuYzEUKjTZzFPJVak.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 99388,
+      "name": "Darren Doane",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/xvzu3IPursRG6pWIgYFpWH5747v.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:03.877Z"
+}

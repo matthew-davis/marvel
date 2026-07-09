@@ -1,0 +1,259 @@
+{
+  "id": 50468,
+  "title": "Dr. Strange",
+  "year": 1978,
+  "release_date": "1978-09-06",
+  "poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
+  "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
+  "runtime": 93,
+  "genres": [
+    "TV Movie",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 91624,
+      "name": "Peter Hooten",
+      "character": "Dr. Stephen Strange",
+      "order": 0,
+      "profile_path": "/lpl3ymXsh58rUmqRycJWgveSJOd.jpg"
+    },
+    {
+      "id": 2249,
+      "name": "Clyde Kusatsu",
+      "character": "Wong",
+      "order": 1,
+      "profile_path": "/5dTSe1F9cnReZGHYzbCbVy7vbcf.jpg"
+    },
+    {
+      "id": 41232,
+      "name": "Jessica Walter",
+      "character": "Morgan LeFay",
+      "order": 2,
+      "profile_path": "/dR7b2FmJGgjfSpwfz3AZzm6X13O.jpg"
+    },
+    {
+      "id": 9986,
+      "name": "Anne-Marie Martin",
+      "character": "Clea Lake",
+      "order": 3,
+      "profile_path": "/gEbQH0lKltnDdStdrXAP5ZjTy4l.jpg"
+    },
+    {
+      "id": 22437,
+      "name": "Philip Sterling",
+      "character": "Dr Frank Taylor, Chief of Psychiatry",
+      "order": 4,
+      "profile_path": "/r9i8O4VJfQRdkjPfzsVRRdMbBVH.jpg"
+    },
+    {
+      "id": 11859,
+      "name": "John Mills",
+      "character": "Thomas Lindmer",
+      "order": 5,
+      "profile_path": "/jMqhI1NeTwgdKsrj9vMshk1r5hP.jpg"
+    },
+    {
+      "id": 564081,
+      "name": "June Barrett",
+      "character": "Sarah",
+      "order": 6,
+      "profile_path": null
+    },
+    {
+      "id": 166055,
+      "name": "Sarah Rush",
+      "character": "Nurse",
+      "order": 7,
+      "profile_path": null
+    },
+    {
+      "id": 151731,
+      "name": "Diana Webster",
+      "character": "Head Nurse",
+      "order": 8,
+      "profile_path": null
+    },
+    {
+      "id": 154123,
+      "name": "Bob Delegall",
+      "character": "Intern",
+      "order": 9,
+      "profile_path": "/5a4W3FWDzGwcsuO4cm7jqRdruiI.jpg"
+    },
+    {
+      "id": 1213554,
+      "name": "Larry Anderson",
+      "character": "Magician",
+      "order": 10,
+      "profile_path": "/9r93h4qdyCMn5XCWmtpMWqmWKTh.jpg"
+    },
+    {
+      "id": 166068,
+      "name": "Blake Marion",
+      "character": "Department Chief",
+      "order": 11,
+      "profile_path": null
+    },
+    {
+      "id": 146711,
+      "name": "Lady Rowlands",
+      "character": "Mrs. Sullivan",
+      "order": 12,
+      "profile_path": "/cm4hu8MDD6xjoaK6QAnCrV2oqA8.jpg"
+    },
+    {
+      "id": 219057,
+      "name": "Ines Pedroza",
+      "character": "Announcer",
+      "order": 13,
+      "profile_path": null
+    },
+    {
+      "id": 1109703,
+      "name": "Michael Clark",
+      "character": "Taxi Driver",
+      "order": 14,
+      "profile_path": null
+    },
+    {
+      "id": 553770,
+      "name": "Frank Catalano",
+      "character": "Orderly",
+      "order": 15,
+      "profile_path": "/auwcsFXuvv2pBX7R3WgiMPC4r3V.jpg"
+    },
+    {
+      "id": 16074,
+      "name": "Michael Ansara",
+      "character": "The Ancient One (voice) (uncredited)",
+      "order": 16,
+      "profile_path": "/dxViGyLrbXBXQlGXjrDmOwPaiuo.jpg"
+    },
+    {
+      "id": 9600,
+      "name": "Ted Cassidy",
+      "character": "Demon Balzaroth (voice) (uncredited)",
+      "order": 17,
+      "profile_path": "/w3KffYtOTw4bf0a72FUFVkVa3au.jpg"
+    },
+    {
+      "id": 162167,
+      "name": "David Hooks",
+      "character": "The Nameless One (uncredited)",
+      "order": 18,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 162156,
+      "name": "Philip DeGuere Jr.",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 162156,
+      "name": "Philip DeGuere Jr.",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 124008,
+      "name": "Paul Chihara",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1334272,
+      "name": "Enzo A. Martinelli",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1434060,
+      "name": "Christopher Nelson",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1213440,
+      "name": "Alex Beaton",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 17812,
+      "name": "Gregory Hoblit",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": "/1YUF4UpcCX3j3J65a4L1KoLOHAl.jpg"
+    },
+    {
+      "id": 1483088,
+      "name": "Philip DeGuere Jr.",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 5842,
+      "name": "William H. Tuntke",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1318662,
+      "name": "Marc E. Meyer Jr.",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 417597,
+      "name": "Yvonne Wood",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": "/2EH2vfx2CgZeHctWCwkkQET5KvY.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Consulting Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 7625,
+      "name": "Steve Ditko",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    },
+    {
+      "id": 28912,
+      "name": "Joe Reich",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:36:33.395Z"
+}

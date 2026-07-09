@@ -1,0 +1,244 @@
+{
+  "id": 422153,
+  "title": "Hulk: Where Monsters Dwell",
+  "year": 2016,
+  "release_date": "2016-10-21",
+  "poster_path": "/udUnSnQKzYddDpU6WNdTMB5XVEE.jpg",
+  "overview": "This All Hallows’ Eve, Nightmare is bent on conquering our waking world by crossing through the Dream Dimension, and converting each dreamer into a monster. Can Dr. Strange, Hulk and the Howling Commandos hold the line and put an end to his nefarious scheme?",
+  "runtime": 75,
+  "genres": [
+    "Action",
+    "Animation",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "character": "Hulk (voice) / Countdown (voice)",
+      "order": 0,
+      "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "id": 89966,
+      "name": "Liam O'Brien",
+      "character": "Doctor Strange (voice)",
+      "order": 1,
+      "profile_path": "/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    },
+    {
+      "id": 1214389,
+      "name": "Jesse Burch",
+      "character": "Bruce Banner (voice) / Waiter (voice)",
+      "order": 2,
+      "profile_path": "/6H8a2ulXIDnwfjHdSKz2cJYt8y3.jpg"
+    },
+    {
+      "id": 1697431,
+      "name": "Edward Bosco",
+      "character": "Warwolf (voice) / Minotaur (voice) / Reveler (voice)",
+      "order": 3,
+      "profile_path": "/bdeYwiVuyStWiKRztvq0zixMbcU.jpg"
+    },
+    {
+      "id": 33053,
+      "name": "Chiara Zanni",
+      "character": "Nina Price / Vampire by Night (voice) / Bee Girl (voice) / Nurse (voice)",
+      "order": 4,
+      "profile_path": "/dq1rqHIpRV9F5guFupyxglIix4a.jpg"
+    },
+    {
+      "id": 1464399,
+      "name": "Mike Vaughn",
+      "character": "Zombie Jasper Sitwell (voice)",
+      "order": 5,
+      "profile_path": "/dos8n3mIUphmxFUOgyZQPzJ4i1N.jpg"
+    },
+    {
+      "id": 1836598,
+      "name": "Jon Olson",
+      "character": "Man-Thing (voice) / Rorgg (voice) / Sporr (voice) / Zzutak (voice)",
+      "order": 6,
+      "profile_path": "/crkYY5wcjoDn04BFlkF5WiR3d1A.jpg"
+    },
+    {
+      "id": 1662744,
+      "name": "Matthew Waterson",
+      "character": "Nightmare (voice)",
+      "order": 7,
+      "profile_path": "/eqL4KlMVQrL5yZrF1YDXKz5gHIj.jpg"
+    },
+    {
+      "id": 1691899,
+      "name": "Michael Robles",
+      "character": "Benito Serrano (voice)",
+      "order": 8,
+      "profile_path": null
+    },
+    {
+      "id": 75037,
+      "name": "Laura Bailey",
+      "character": "Ana (voice) / Football Player (voice) / Vampire (voice)",
+      "order": 9,
+      "profile_path": "/xrq33v9N78hhmApcfkoYx0TAw1A.jpg"
+    },
+    {
+      "id": 64450,
+      "name": "Hope Levy",
+      "character": "Gayle (voice) / Pirate (voice) / Princess (voice)",
+      "order": 10,
+      "profile_path": "/8Rq59XJY2YaAozw3d7qoQ5Lo8IR.jpg"
+    },
+    {
+      "id": 225863,
+      "name": "Zach Callison",
+      "character": "Eric (voice) / Ninja (voice)",
+      "order": 11,
+      "profile_path": "/nyUKVTJeIfcwIcZkdqmHjZOpLfE.jpg"
+    },
+    {
+      "id": 2178911,
+      "name": "Sean McKeever",
+      "character": "Benito Serrano (voice) / El Toro (voice) / Minotaur (voice)  (uncredited)",
+      "order": 12,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 175473,
+      "name": "Marty Isenberg",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1697432,
+      "name": "Dave McDermott",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1011028,
+      "name": "Dan Buckley",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/gM2unQVw1jxWFmMd438rNoJHgr0.jpg"
+    },
+    {
+      "id": 1187909,
+      "name": "Joe Quesada",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg"
+    },
+    {
+      "id": 17310,
+      "name": "Jeph Loeb",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg"
+    },
+    {
+      "id": 1283277,
+      "name": "Cort Lane",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1234311,
+      "name": "Mitch Schauer",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 35270,
+      "name": "Eric Radomski",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/z1vRonppwah0DVC4bvb711ukP4a.jpg"
+    },
+    {
+      "id": 1836593,
+      "name": "Stephen Wacker",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 1052082,
+      "name": "Jamie Simone",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 497701,
+      "name": "Kristopher Carter",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1521139,
+      "name": "Michael McCuistion",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1521143,
+      "name": "Mark Mattson",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2081607,
+      "name": "Howard Schwartz",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1376311,
+      "name": "Lolita Ritmanis",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:28.371Z"
+}

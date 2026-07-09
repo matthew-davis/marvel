@@ -1,0 +1,1335 @@
+{
+  "id": 539972,
+  "title": "Kraven the Hunter",
+  "year": 2024,
+  "release_date": "2024-12-11",
+  "poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+  "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+  "runtime": 127,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "cast": [
+    {
+      "id": 27428,
+      "name": "Aaron Taylor-Johnson",
+      "character": "Sergei Kravinoff / Kraven the Hunter",
+      "order": 0,
+      "profile_path": "/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "id": 1437491,
+      "name": "Ariana DeBose",
+      "character": "Calypso Ezili",
+      "order": 1,
+      "profile_path": "/sPJo4F7NxllcPD1oSi6uh9OpAyj.jpg"
+    },
+    {
+      "id": 2099497,
+      "name": "Fred Hechinger",
+      "character": "Dmitri Kravinoff",
+      "order": 2,
+      "profile_path": "/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+      "id": 4941,
+      "name": "Alessandro Nivola",
+      "character": "Aleksei Sytsevich",
+      "order": 3,
+      "profile_path": "/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+      "id": 984629,
+      "name": "Christopher Abbott",
+      "character": "The Foreigner",
+      "order": 4,
+      "profile_path": "/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+    },
+    {
+      "id": 934,
+      "name": "Russell Crowe",
+      "character": "Nikolai Kravinoff",
+      "order": 5,
+      "profile_path": "/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "id": 238130,
+      "name": "Yuri Kolokolnikov",
+      "character": "Semyon Chorney",
+      "order": 6,
+      "profile_path": "/77g4exFoU4FvCWoWVgn6aXR01rA.jpg"
+    },
+    {
+      "id": 1313583,
+      "name": "Levi Miller",
+      "character": "Young Sergei",
+      "order": 7,
+      "profile_path": "/5ovVnN2ffAWzwhZQKZWZWUgf6tZ.jpg"
+    },
+    {
+      "id": 1546022,
+      "name": "Tom Reed",
+      "character": "Bert",
+      "order": 8,
+      "profile_path": "/gDvNQXHOQNBM5HyK9GfKu0tzPP1.jpg"
+    },
+    {
+      "id": 1840063,
+      "name": "Billy Barratt",
+      "character": "Young Dmitri",
+      "order": 9,
+      "profile_path": "/h8XlTs26su2Rg3oLtShERYEnVc6.jpg"
+    },
+    {
+      "id": 2812421,
+      "name": "Diaana Babnicova",
+      "character": "Young Calypso",
+      "order": 10,
+      "profile_path": "/kWWQWs2EADkytaNnbiyTL0rxlvN.jpg"
+    },
+    {
+      "id": 1638603,
+      "name": "Murat Seven",
+      "character": "Ömer Ozdemir",
+      "order": 11,
+      "profile_path": "/7QkAmLKoS6SbtS8p3hLdHaOIln8.jpg"
+    },
+    {
+      "id": 1294465,
+      "name": "Greg Kolpakchi",
+      "character": "Transport Guard",
+      "order": 12,
+      "profile_path": "/dFsUvUUkasOu1iN2r2D0VZX3y5i.jpg"
+    },
+    {
+      "id": 1214787,
+      "name": "Mark Arden",
+      "character": "Oligarch",
+      "order": 13,
+      "profile_path": null
+    },
+    {
+      "id": 1688381,
+      "name": "Jack Brady",
+      "character": "Oligarch",
+      "order": 14,
+      "profile_path": "/4FD8dFS9usyl4Gv5qha1AbrXNjO.jpg"
+    },
+    {
+      "id": 4119385,
+      "name": "Alex Batareanu",
+      "character": "Lead Guard",
+      "order": 15,
+      "profile_path": "/n8Ieg0jn33pTlnNPmWE9rE0ORQ8.jpg"
+    },
+    {
+      "id": 16692,
+      "name": "Will Bowden",
+      "character": "Sniper #1",
+      "order": 16,
+      "profile_path": "/mlRniI5GaZVQiiNCy8hMsxdoyMw.jpg"
+    },
+    {
+      "id": 1693437,
+      "name": "Damola Adelaja",
+      "character": "Bahari Gama",
+      "order": 17,
+      "profile_path": "/z0lnvONgiejz18KYHwmap11xeTr.jpg"
+    },
+    {
+      "id": 1125601,
+      "name": "Guillaume Delaunay",
+      "character": "Mofo",
+      "order": 18,
+      "profile_path": "/hJObWrVBj0FEPdw2zWt8LWcfLJf.jpg"
+    },
+    {
+      "id": 1623272,
+      "name": "Duran Fulton Brown",
+      "character": "Sniper #2",
+      "order": 19,
+      "profile_path": "/hasK4qDs9aEWcJahT6QBj2WihAr.jpg"
+    },
+    {
+      "id": 5172997,
+      "name": "Tanaka Mandimika",
+      "character": "Kidnap Van Gunman #1",
+      "order": 20,
+      "profile_path": "/qgJG76P45A11596DT4kPVtOhH88.jpg"
+    },
+    {
+      "id": 2253054,
+      "name": "Robert Hladik",
+      "character": "Guard On Watch",
+      "order": 21,
+      "profile_path": "/gm974gzJRFdEjQa9Karaw2M3j8R.jpg"
+    },
+    {
+      "id": 2243734,
+      "name": "Thor Kjartansson",
+      "character": "Snowmobile Guard",
+      "order": 22,
+      "profile_path": null
+    },
+    {
+      "id": 2058108,
+      "name": "Christos Dante",
+      "character": "Tatted Inmate",
+      "order": 23,
+      "profile_path": "/u0lknOPyuYVi0epJpfYqFmgCnIo.jpg"
+    },
+    {
+      "id": 2752091,
+      "name": "Adam Bowman",
+      "character": "Tatted Inmate",
+      "order": 24,
+      "profile_path": "/hle3Xv26FtdQdm1rH3Dl9sJNegA.jpg"
+    },
+    {
+      "id": 2151830,
+      "name": "Bradley Farmer",
+      "character": "Gunman #2",
+      "order": 25,
+      "profile_path": "/jZ64teW7wZ7fAb2enjPjOieQLDW.jpg"
+    },
+    {
+      "id": 2236047,
+      "name": "Paul Bailey",
+      "character": "Driver",
+      "order": 26,
+      "profile_path": "/1ianeldEQZIXvaX6EVfjxCakpRx.jpg"
+    },
+    {
+      "id": 1601429,
+      "name": "Dritan Kastrati",
+      "character": "Oleksander",
+      "order": 27,
+      "profile_path": "/qXl8KKeNw2T4JLuj4TV1KmK3rTQ.jpg"
+    },
+    {
+      "id": 2138086,
+      "name": "Anita-Joy Uwajeh",
+      "character": "Dr. Aliya Kimani",
+      "order": 28,
+      "profile_path": "/vwMfsZ3oskcWhRhmlYXIpUTWOtj.jpg"
+    },
+    {
+      "id": 1187200,
+      "name": "Alex Skarbek",
+      "character": "Russian Captain #1",
+      "order": 29,
+      "profile_path": "/rpz4dnukNNBBvTVcP64VSsNlZPv.jpg"
+    },
+    {
+      "id": 5173060,
+      "name": "Ivan Ignatenko",
+      "character": "Corrupt Prison Guard",
+      "order": 30,
+      "profile_path": null
+    },
+    {
+      "id": 1920475,
+      "name": "Susan Aderin",
+      "character": "Grandmother",
+      "order": 31,
+      "profile_path": "/cahxDulco7YM2Gzv1CKGjGfqQ5I.jpg"
+    },
+    {
+      "id": 4577940,
+      "name": "Preslav Shipkaliev",
+      "character": "Prison Officer",
+      "order": 32,
+      "profile_path": "/95ouW6BHLl4Rpb9yLmNLujnGBia.jpg"
+    },
+    {
+      "id": 1721133,
+      "name": "Al Nedjari",
+      "character": "Turkish Policeman",
+      "order": 33,
+      "profile_path": "/bVgiaf7rzg9sbDzAEEDUSattttV.jpg"
+    },
+    {
+      "id": 2435794,
+      "name": "Elizabeth Appleby",
+      "character": "Cargo Plane Pilot",
+      "order": 34,
+      "profile_path": null
+    },
+    {
+      "id": 5173066,
+      "name": "Marie Hogle",
+      "character": "Cemetery Priest",
+      "order": 35,
+      "profile_path": null
+    },
+    {
+      "id": 2483272,
+      "name": "Jon Xue Zhang",
+      "character": "Russian Captain #3",
+      "order": 36,
+      "profile_path": "/olCEAjH9KeWte5ei24ej8MJAkZz.jpg"
+    },
+    {
+      "id": 2639622,
+      "name": "Elander Moore",
+      "character": "Law Firm Receptionist",
+      "order": 37,
+      "profile_path": "/zyNrvYh8QERFYQmhQGONHQauSPk.jpg"
+    },
+    {
+      "id": 1667354,
+      "name": "Bailey Patrick",
+      "character": "Law Firm Security Guard",
+      "order": 38,
+      "profile_path": "/zWd5n2gEOmV0aeFHJtjsRtQodHq.jpg"
+    },
+    {
+      "id": 1457459,
+      "name": "Christopher Whitlow",
+      "character": "Alarmed Guard",
+      "order": 39,
+      "profile_path": "/90Hc2hIhWYWRdEbbG0k0LXG914Y.jpg"
+    },
+    {
+      "id": 2190322,
+      "name": "Waleed Hammad",
+      "character": "Elevator Guy",
+      "order": 40,
+      "profile_path": "/tvXvQ5bOJ6qjposI4SnM7LucAxw.jpg"
+    },
+    {
+      "id": 2927244,
+      "name": "Toto Bruin",
+      "character": "Bystander",
+      "order": 41,
+      "profile_path": "/5kB5FjxgUcwoqyo8JleCrryfRM5.jpg"
+    },
+    {
+      "id": 2148596,
+      "name": "Maxine Whittaker",
+      "character": "Heiress Assassin",
+      "order": 42,
+      "profile_path": null
+    },
+    {
+      "id": 2752069,
+      "name": "Jonny James",
+      "character": "Bodyguard Assassin",
+      "order": 43,
+      "profile_path": "/yNLcisY7ThsxzIP0Lj54OPB9rw9.jpg"
+    },
+    {
+      "id": 1207614,
+      "name": "Rashid Phoenix",
+      "character": "Bodyguard Assassin",
+      "order": 44,
+      "profile_path": "/s7U6aOu2HW5WZJlbAIBfPK9YblT.jpg"
+    },
+    {
+      "id": 4182223,
+      "name": "George Surry",
+      "character": "Nikolai's Bodyguard",
+      "order": 45,
+      "profile_path": "/uXhc2YITGkwan5IKDLMmTNmzEe5.jpg"
+    },
+    {
+      "id": 2423283,
+      "name": "Yusuf Chaudhri",
+      "character": "Nikolai's Bodyguard",
+      "order": 46,
+      "profile_path": "/gND1CqtsigbvZTtxj1Y0gyiMrNx.jpg"
+    },
+    {
+      "id": 1790766,
+      "name": "Andrei Nazarenko",
+      "character": "Oleksander's Bodyguard",
+      "order": 47,
+      "profile_path": null
+    },
+    {
+      "id": 3528058,
+      "name": "Doren John Farmer",
+      "character": "Oleksander's Bodyguard",
+      "order": 48,
+      "profile_path": "/c3bsf8KJryw1GL08sGjFjeMLRss.jpg"
+    },
+    {
+      "id": 1405566,
+      "name": "Douglas Robson",
+      "character": "Oleksander's Bodyguard",
+      "order": 49,
+      "profile_path": "/A7dwhMhzmpk0o6tPW16ePZRaLjo.jpg"
+    },
+    {
+      "id": 1563431,
+      "name": "Michael Shaeffer",
+      "character": "Lead Poacher",
+      "order": 50,
+      "profile_path": "/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+    },
+    {
+      "id": 2503031,
+      "name": "Roderick Hill",
+      "character": "Barnum",
+      "order": 51,
+      "profile_path": "/eYvRKXAZEIjkSyHTVG4WBXfbw1V.jpg"
+    },
+    {
+      "id": 4744249,
+      "name": "Camilla Aiko",
+      "character": "Restaurant Woman",
+      "order": 52,
+      "profile_path": "/59BiamzqwVc5pilXpkLqmDdSoTQ.jpg"
+    },
+    {
+      "id": 1792454,
+      "name": "Neil Bishop",
+      "character": "Restaurant Man",
+      "order": 53,
+      "profile_path": "/z9bXADEqpoaxszD2wp3fzSIYac0.jpg"
+    },
+    {
+      "id": 1504937,
+      "name": "Rachel Handshaw",
+      "character": "Young Calypso Mum",
+      "order": 54,
+      "profile_path": "/8QWc14rdCg60eLKIbnuZchNuU7B.jpg"
+    },
+    {
+      "id": 3616434,
+      "name": "Odimegwu Okoye",
+      "character": "Young Calypso Dad",
+      "order": 55,
+      "profile_path": "/tHKOF0r6H1v1pv4haYc87gjjznH.jpg"
+    },
+    {
+      "id": 1667210,
+      "name": "Masha Vasyukova",
+      "character": "Kraven's Mother (voice)",
+      "order": 56,
+      "profile_path": null
+    },
+    {
+      "id": 2195057,
+      "name": "Rene Costa",
+      "character": "Passerby (uncredited)",
+      "order": 57,
+      "profile_path": "/5Kab6UmuAfnynI0I4QXkfFIP6PY.jpg"
+    },
+    {
+      "id": 4182037,
+      "name": "Stephane Fichet",
+      "character": "Passerby (uncredited)",
+      "order": 58,
+      "profile_path": "/oMQuRlyvhDue2MdtUlhmha2j4qR.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 22161,
+      "name": "Ben Davis",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": "/vkw9VRYWAjtEsTln2zDNn46fDZy.jpg"
+    },
+    {
+      "id": 18875,
+      "name": "Matt Holloway",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/m8R4mMuKCfG60ITXtLrw8TT7zCf.jpg"
+    },
+    {
+      "id": 22814,
+      "name": "Richard Wenk",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/tUH6K1QHmZKpZC2UGn7q1z20C4P.jpg"
+    },
+    {
+      "id": 18873,
+      "name": "Art Marcum",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/yX4gYCclvjBzGFKPVB8cp4eKksH.jpg"
+    },
+    {
+      "id": 6379,
+      "name": "Eve Stewart",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": "/bz8ZolLn6wGUv5FFFmmj8aiEMk5.jpg"
+    },
+    {
+      "id": 1574035,
+      "name": "Michael Standish",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": "/bTyX3IAIOJNDiIO4vpxEAVuUjsX.jpg"
+    },
+    {
+      "id": 11271,
+      "name": "Sammy Sheldon",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": "/srep7BYIU0mEAR3dpjgdDcrMnZP.jpg"
+    },
+    {
+      "id": 1113118,
+      "name": "Pancho Chamorro",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2174865,
+      "name": "Carley Armstrong",
+      "job": "Additional Script Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1640361,
+      "name": "Colin Nicolson",
+      "job": "Production Sound Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 22814,
+      "name": "Richard Wenk",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": "/tUH6K1QHmZKpZC2UGn7q1z20C4P.jpg"
+    },
+    {
+      "id": 1722,
+      "name": "Craig Wood",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 61107,
+      "name": "David B. Householter",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/42vuhQG58hZqZRArKjXJ1GUQnhC.jpg"
+    },
+    {
+      "id": 40825,
+      "name": "Benjamin Wallfisch",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/dWcshjk0OUi3stGFFrwZIsYKZfQ.jpg"
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "id": 5914,
+      "name": "Mary Vernieu",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg"
+    },
+    {
+      "id": 1574051,
+      "name": "Susannah Brough",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2062045,
+      "name": "Meg Jones",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1574052,
+      "name": "Patrick Harris",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2006476,
+      "name": "Raylin Sabo",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/wQxcb2haWoz7bhQEDj9n4m2Dmt9.jpg"
+    },
+    {
+      "id": 2137793,
+      "name": "Danielle Bayliss",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1932451,
+      "name": "Nicola Chisholm",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 3935542,
+      "name": "JJ Battell",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/yUZhn2NdjsUvDuXcQUkpuAkWwE5.jpg"
+    },
+    {
+      "id": 3239521,
+      "name": "Chloe Gonzalez",
+      "job": "Casting Assistant",
+      "department": "Production",
+      "profile_path": "/jvzp37cf4MATHJQICcfIEV1Os5z.jpg"
+    },
+    {
+      "id": 1992648,
+      "name": "Kieran Clarke",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1758947,
+      "name": "Martina Vazzoler",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1878826,
+      "name": "Kate Hefferman",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1337422,
+      "name": "Paula Casarin",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2236047,
+      "name": "Paul Bailey",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/1ianeldEQZIXvaX6EVfjxCakpRx.jpg"
+    },
+    {
+      "id": 3505013,
+      "name": "Marvin Berrembou",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/s7uRgWET3heeIHjft82jKkLaIe8.jpg"
+    },
+    {
+      "id": 1394100,
+      "name": "Daryn McLaughlan",
+      "job": "Supervising Art Director",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1384388,
+      "name": "James M. Churchman",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": "/aOp3mxBns6ktT03kx9y1OU08ZOY.jpg"
+    },
+    {
+      "id": 2480440,
+      "name": "Miles Anderson",
+      "job": "Colorist",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 3539198,
+      "name": "Peter Alberti",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/lmBLk9WzoDl31IGTLEq4XNfOqcD.jpg"
+    },
+    {
+      "id": 2752091,
+      "name": "Adam Bowman",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/hle3Xv26FtdQdm1rH3Dl9sJNegA.jpg"
+    },
+    {
+      "id": 2423283,
+      "name": "Yusuf Chaudhri",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/gND1CqtsigbvZTtxj1Y0gyiMrNx.jpg"
+    },
+    {
+      "id": 1330879,
+      "name": "Nacho Tomás",
+      "job": "Supervising Art Director",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1473160,
+      "name": "Ketan Waikar",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1113118,
+      "name": "Pancho Chamorro",
+      "job": "Assistant Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3725554,
+      "name": "Joe Zappia",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 63906,
+      "name": "Curt Sobel",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 237411,
+      "name": "Nellie Burroughes",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/A3gOCRPDKIZQpiVddbEwCokr5na.jpg"
+    },
+    {
+      "id": 3123638,
+      "name": "Tessa De Nicola",
+      "job": "Casting Associate",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2525025,
+      "name": "Andrea Trigo",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1608888,
+      "name": "Simon Morgan",
+      "job": "First Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1546457,
+      "name": "Andrew Silver",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3935542,
+      "name": "JJ Battell",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/yUZhn2NdjsUvDuXcQUkpuAkWwE5.jpg"
+    },
+    {
+      "id": 3815814,
+      "name": "Mikayla Theone Khramov",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 3757723,
+      "name": "Jason La Rocca",
+      "job": "Scoring Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1587383,
+      "name": "Spring Aspers",
+      "job": "Music Supervisor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3446430,
+      "name": "James Apps",
+      "job": "Utility Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2910276,
+      "name": "Mauro Calo",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3258510,
+      "name": "Carlos Castillo",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1301638,
+      "name": "Lee Charles",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/hPcEeF8mG9PiOJmnduVjq9yH9jD.jpg"
+    },
+    {
+      "id": 2174865,
+      "name": "Carley Armstrong",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 3528058,
+      "name": "Doren John Farmer",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/c3bsf8KJryw1GL08sGjFjeMLRss.jpg"
+    },
+    {
+      "id": 1396620,
+      "name": "George Kirby",
+      "job": "Fight Choreographer",
+      "department": "Crew",
+      "profile_path": "/1O4TP9RQBGqBgAHD0u1esBBLMG8.jpg"
+    },
+    {
+      "id": 2038955,
+      "name": "Nicholas Daines",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/mZz9J78mgdGCL0rdhFAiNzxrDSy.jpg"
+    },
+    {
+      "id": 1121204,
+      "name": "David Garrick",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/pEXvS6ze6bKAYuM4EHxDeTXYEw.jpg"
+    },
+    {
+      "id": 2752069,
+      "name": "Jonny James",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/yNLcisY7ThsxzIP0Lj54OPB9rw9.jpg"
+    },
+    {
+      "id": 2476295,
+      "name": "Liam Coote",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/e4Wj17jM6hoVmmT0ocd8cmFHNck.jpg"
+    },
+    {
+      "id": 2476295,
+      "name": "Liam Coote",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/e4Wj17jM6hoVmmT0ocd8cmFHNck.jpg"
+    },
+    {
+      "id": 1870653,
+      "name": "Rick English",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/oH1PKbLQwEwJBdeI8iOLdPgB9y6.jpg"
+    },
+    {
+      "id": 1359416,
+      "name": "Laura Swift",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/eMYeKkEYIQ2MCdw4puoHWo65xnn.jpg"
+    },
+    {
+      "id": 1753309,
+      "name": "Joel Conlan",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1835518,
+      "name": "Pete Ford",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/fYk6JB8piE8jgo5x9kJ3uvinKxG.jpg"
+    },
+    {
+      "id": 1394357,
+      "name": "Kenny Knight",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/o23Emg1L3Dstu3GgvnifuLNvM2J.jpg"
+    },
+    {
+      "id": 2503941,
+      "name": "Luke Gomes",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/sdRvQKOdtMaEWx9KfyOpyPL9Vxl.jpg"
+    },
+    {
+      "id": 4182193,
+      "name": "Madeleine Hance",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2630126,
+      "name": "Jan Holíček",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1394374,
+      "name": "Joe Kennard",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/x2JuSpBrKWNtNTFZWUpslhtA9Hl.jpg"
+    },
+    {
+      "id": 62108,
+      "name": "Mike Lambert",
+      "job": "Fight Choreographer",
+      "department": "Crew",
+      "profile_path": "/rqhAiWvTRZSWMtkzPjFLwJJaETn.jpg"
+    },
+    {
+      "id": 4182196,
+      "name": "Daniel Ilabaca",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2242008,
+      "name": "Ginger McCarthy",
+      "job": "Key Rigging Grip",
+      "department": "Lighting",
+      "profile_path": null
+    },
+    {
+      "id": 2295550,
+      "name": "Niki Faulkner",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1992656,
+      "name": "Cristian Knight",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/8Vm03kiiiOoTlSJOrdmu7UlVyzR.jpg"
+    },
+    {
+      "id": 2825360,
+      "name": "Catherine Peck",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2963838,
+      "name": "Tomás Paredes",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/9yBpddXX3ufnpeqkI5oDb93c9PY.jpg"
+    },
+    {
+      "id": 1630683,
+      "name": "Oliver Parsons",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1891243,
+      "name": "Erol Ismail",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/a8rZuQ3dZLgJGW5zWikNkdXBsz.jpg"
+    },
+    {
+      "id": 2744579,
+      "name": "Anthony Knight",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2770611,
+      "name": "Bogdan Kumšackij",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/bJSkpkpRSbb7DgIVovxKu2cagN6.jpg"
+    },
+    {
+      "id": 1486976,
+      "name": "Christina Low",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/c8mwAXsOPFxM6sXSVozUU0mEolJ.jpg"
+    },
+    {
+      "id": 1790766,
+      "name": "Andrei Nazarenko",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4154971,
+      "name": "Peter Robinson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3578402,
+      "name": "Arie Dekker",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2243616,
+      "name": "Xavier Lake",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/hw0Wbh7f3OoapDvz4n0AN4GEeye.jpg"
+    },
+    {
+      "id": 3258504,
+      "name": "Richard Leggett",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1246143,
+      "name": "Steven Lewington",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/laP3tjU7vLwhKHEGmvvJbBSEovS.jpg"
+    },
+    {
+      "id": 2507817,
+      "name": "Elmo Walker",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1344320,
+      "name": "Chi Lewis-Parry",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+    },
+    {
+      "id": 2483272,
+      "name": "Jon Xue Zhang",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/olCEAjH9KeWte5ei24ej8MJAkZz.jpg"
+    },
+    {
+      "id": 2309170,
+      "name": "Blake Sporne",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4182223,
+      "name": "George Surry",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/uXhc2YITGkwan5IKDLMmTNmzEe5.jpg"
+    },
+    {
+      "id": 7625,
+      "name": "Steve Ditko",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 3164741,
+      "name": "Dario Nolé",
+      "job": "Assistant Art Director",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 977941,
+      "name": "Matt Tolmach",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/8mniHJVwoJdVpwxW278yJwz8c1T.jpg"
+    },
+    {
+      "id": 556172,
+      "name": "J.C. Chandor",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/6oaCrcLpqAvuWci6kStnuuAc34I.jpg"
+    },
+    {
+      "id": 5096672,
+      "name": "Christopher Knight",
+      "job": "Drone Pilot",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1380002,
+      "name": "Jay Maidment",
+      "job": "Still Photographer",
+      "department": "Camera",
+      "profile_path": "/23wYKBGQoBRN219G2uQUCahLLWA.jpg"
+    },
+    {
+      "id": 1388897,
+      "name": "Julian Morson",
+      "job": "\"A\" Camera Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1388897,
+      "name": "Julian Morson",
+      "job": "Steadicam Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1352424,
+      "name": "Brandon Proctor",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/wqo6jIOx23KaLj4h9sPVUnb8oGL.jpg"
+    },
+    {
+      "id": 1428470,
+      "name": "Christine Blundell",
+      "job": "Makeup Designer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1428470,
+      "name": "Christine Blundell",
+      "job": "Hair Designer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1559588,
+      "name": "Dominic Fysh",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1591764,
+      "name": "Jamie Mills",
+      "job": "Gaffer",
+      "department": "Lighting",
+      "profile_path": null
+    },
+    {
+      "id": 1388898,
+      "name": "Sam Renton",
+      "job": "Second Unit Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2487730,
+      "name": "Elliot Hawkes",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/1tJUdoNm0iOjA9ubvjbkpiLX8pg.jpg"
+    },
+    {
+      "id": 2243512,
+      "name": "Karl Sigurdarson",
+      "job": "Line Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 4671122,
+      "name": "Nicol Shaw",
+      "job": "Transportation Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2624625,
+      "name": "Tom Edmondson",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 3394262,
+      "name": "Dan Ciprian",
+      "job": "Set Dresser",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1404875,
+      "name": "Jo Beckett",
+      "job": "Other",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1278128,
+      "name": "Luke Scott",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/aOuKuY9DAQnNd5sLZUQcNq9xhsz.jpg"
+    },
+    {
+      "id": 1180402,
+      "name": "Sacha Galperine",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/poyHoZx4yjCKXDsSqolY6v9EuTG.jpg"
+    },
+    {
+      "id": 41572,
+      "name": "Evgueni Galperine",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/y6ctWZaf1eWtLZHPxVDtIPfE8Hi.jpg"
+    },
+    {
+      "id": 5697099,
+      "name": "Laura Williams",
+      "job": "Dressing Prop",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1790331,
+      "name": "Joey Coughlin",
+      "job": "Second Unit First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1463387,
+      "name": "Benjamin A. Burtt",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": "/oIuGl1Bszg2iYCEn6RzX2lUXnYs.jpg"
+    },
+    {
+      "id": 7537,
+      "name": "Steve Boeddeker",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": "/djVxqpIMQkGi19htX1ObfMlterL.jpg"
+    },
+    {
+      "id": 548435,
+      "name": "Nerses Gezalyan",
+      "job": "Foley Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 18873,
+      "name": "Art Marcum",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/yX4gYCclvjBzGFKPVB8cp4eKksH.jpg"
+    },
+    {
+      "id": 18875,
+      "name": "Matt Holloway",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/m8R4mMuKCfG60ITXtLrw8TT7zCf.jpg"
+    },
+    {
+      "id": 6261921,
+      "name": "Ben Grund",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1099125,
+      "name": "Geoff Anderson",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 4098966,
+      "name": "Ethan Duffy",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 5175887,
+      "name": "Darpan Gupta",
+      "job": "CG Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:46.207Z"
+}

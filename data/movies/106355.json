@@ -1,0 +1,327 @@
+{
+  "id": 106355,
+  "title": "Captain America",
+  "year": 1944,
+  "release_date": "1944-02-05",
+  "poster_path": "/nBRcChS66NohR3x6KVYMp6Obutt.jpg",
+  "overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
+  "runtime": 244,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 13970,
+      "name": "Dick Purcell",
+      "character": "Captain America / Grant Gardner",
+      "order": 0,
+      "profile_path": "/p0RZAW7uh1dIwuTbmPuMLLM0E8p.jpg"
+    },
+    {
+      "id": 96719,
+      "name": "Lorna Gray",
+      "character": "Gail Richards",
+      "order": 1,
+      "profile_path": "/cdWxxF7weiJuccv7hv4Miw2zEH9.jpg"
+    },
+    {
+      "id": 2495,
+      "name": "Lionel Atwill",
+      "character": "Cyrus Maldor",
+      "order": 2,
+      "profile_path": "/2KFwXY3fsMWWyeTFxeU9GNnAIMc.jpg"
+    },
+    {
+      "id": 96721,
+      "name": "Charles Trowbridge",
+      "character": "Police Commissioner Dryden",
+      "order": 3,
+      "profile_path": "/l0pMZJiTfkxBOESbOAkAAedUzuJ.jpg"
+    },
+    {
+      "id": 13969,
+      "name": "Russell Hicks",
+      "character": "Mayor Randolph",
+      "order": 4,
+      "profile_path": "/5Pir7aPr3Iooqd8eYhHLlJWicZa.jpg"
+    },
+    {
+      "id": 120061,
+      "name": "George J. Lewis",
+      "character": "Bart Matson",
+      "order": 5,
+      "profile_path": "/cgo8gX8VDRoQV42rgQKJU4ceP3p.jpg"
+    },
+    {
+      "id": 120738,
+      "name": "John Davidson",
+      "character": "Gruber",
+      "order": 6,
+      "profile_path": "/bfM1Hzm6nPoTY8cm4mafA8ycpkf.jpg"
+    },
+    {
+      "id": 3245,
+      "name": "Frank Reicher",
+      "character": "Lyman",
+      "order": 7,
+      "profile_path": "/5q5kXKMDiBg7MrdcSdU5CZSQTgS.jpg"
+    },
+    {
+      "id": 1090894,
+      "name": "Al Ferguson",
+      "character": "Detective",
+      "order": 8,
+      "profile_path": "/pqsu8OuPrGPMwuvvPsL1cVMzEMr.jpg"
+    },
+    {
+      "id": 33025,
+      "name": "Howard Hickman",
+      "character": "Lyman’s Attorney",
+      "order": 9,
+      "profile_path": "/5dJMZuoWq1lYMNeXsf7iZjwHobv.jpg"
+    },
+    {
+      "id": 932309,
+      "name": "Tom London",
+      "character": "Mack",
+      "order": 10,
+      "profile_path": "/nfLW8J3AMasTu1Ahm0HftRgx9qy.jpg"
+    },
+    {
+      "id": 1550,
+      "name": "Edward Van Sloan",
+      "character": "Gregory",
+      "order": 11,
+      "profile_path": "/qZ9zAlgNlJ1vefUXb4KDVbC3kVh.jpg"
+    },
+    {
+      "id": 1471395,
+      "name": "James Carlisle",
+      "character": "J.V. Wilson (uncredited)",
+      "order": 12,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 32174,
+      "name": "John English",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 8838,
+      "name": "Elmer Clifton",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/v0q6wQawRIosMPcL2NqxdMEvANO.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 34094,
+      "name": "Dale Van Sickel",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/diCCqzyD7RcMWgCnQYjtwE5ORcs.jpg"
+    },
+    {
+      "id": 121234,
+      "name": "Joe Yrigoyen",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/4Rp0XtqOiymJuPhVXT7rh9QsE5X.jpg"
+    },
+    {
+      "id": 34103,
+      "name": "Eddie Parker",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/3bYBqTSjA1P1VayVMF2a90FmD8T.jpg"
+    },
+    {
+      "id": 120262,
+      "name": "John MacBurnie",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1009049,
+      "name": "Jesse Duffy",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 33959,
+      "name": "Joseph F. Poland",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 32188,
+      "name": "Bob Mark",
+      "job": "Makeup Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1468138,
+      "name": "Fred A. Ritter",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1098808,
+      "name": "William J. O'Sullivan",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 34076,
+      "name": "Mort Glickman",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 34079,
+      "name": "Earl Turner",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1234564,
+      "name": "Ken Terrell",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/7gyt6pjo1hVtQ9XAriGmcQrMsnW.jpg"
+    },
+    {
+      "id": 1116427,
+      "name": "Charles S. Thompson",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 34072,
+      "name": "Grant Nelson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 18996,
+      "name": "Joe Simon",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/vpKAE3AMzsV0HG3M8LHaLziwf09.jpg"
+    },
+    {
+      "id": 91218,
+      "name": "John Daheim",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/ci3PxMl0yKHurPcrMo79vBFrw21.jpg"
+    },
+    {
+      "id": 192458,
+      "name": "John Bagni",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/88AluVuh4VhcVSH0vWVoGuWD75l.jpg"
+    },
+    {
+      "id": 1007946,
+      "name": "Duke Green",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1034004,
+      "name": "Allen Pomeroy",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 34078,
+      "name": "Wallace Grissell",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 32178,
+      "name": "Ronald Davidson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7345,
+      "name": "Helen Thurston",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 111827,
+      "name": "Fred Graham",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/ygNqVn4LI0c08wF54e0ueOzwe4G.jpg"
+    },
+    {
+      "id": 1108831,
+      "name": "Bert LeBaron",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 33375,
+      "name": "Basil Dickey",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 34799,
+      "name": "Harry L. Fraser",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/5XkqsL4Uqj5jKkhnV3hVwb1EsAS.jpg"
+    },
+    {
+      "id": 33956,
+      "name": "Royal K. Cole",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 2242310,
+      "name": "Ed Borschell",
+      "job": "Sound",
+      "department": "Sound",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:36:33.032Z"
+}

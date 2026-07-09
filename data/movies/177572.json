@@ -1,0 +1,728 @@
+{
+  "id": 177572,
+  "title": "Big Hero 6",
+  "year": 2014,
+  "release_date": "2014-10-24",
+  "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+  "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+  "runtime": 102,
+  "genres": [
+    "Adventure",
+    "Family",
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "id": 66580,
+      "name": "Scott Adsit",
+      "character": "Baymax (voice)",
+      "order": 0,
+      "profile_path": "/hhFWlYAasLldXD1fvzwmmzo9X43.jpg"
+    },
+    {
+      "id": 515510,
+      "name": "Ryan Potter",
+      "character": "Hiro Hamada (voice)",
+      "order": 1,
+      "profile_path": "/f5AwjHKCWFD5K6YbesbMGSHEchs.jpg"
+    },
+    {
+      "id": 82093,
+      "name": "Daniel Henney",
+      "character": "Tadashi Hamada (voice)",
+      "order": 2,
+      "profile_path": "/elAolohpUG5nS99EZxHZjd44DsS.jpg"
+    },
+    {
+      "id": 51990,
+      "name": "T.J. Miller",
+      "character": "Fred (voice)",
+      "order": 3,
+      "profile_path": "/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "id": 78324,
+      "name": "Jamie Chung",
+      "character": "GoGo Tomago (voice)",
+      "order": 4,
+      "profile_path": "/5PWv7tbNtCR5PS7R14Geb71X6py.jpg"
+    },
+    {
+      "id": 87822,
+      "name": "Damon Wayans Jr.",
+      "character": "Wasabi (voice)",
+      "order": 5,
+      "profile_path": "/f6gNg71Js9XqCiXUtyFyXXbJ9ni.jpg"
+    },
+    {
+      "id": 589162,
+      "name": "Genesis Rodriguez",
+      "character": "Honey Lemon (voice)",
+      "order": 6,
+      "profile_path": "/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+    },
+    {
+      "id": 2505,
+      "name": "James Cromwell",
+      "character": "Professor Robert Callaghan (voice)",
+      "order": 7,
+      "profile_path": "/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "id": 21088,
+      "name": "Alan Tudyk",
+      "character": "Alistair Krei (voice)",
+      "order": 8,
+      "profile_path": "/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "id": 52792,
+      "name": "Maya Rudolph",
+      "character": "Aunt Cass (voice)",
+      "order": 9,
+      "profile_path": "/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    },
+    {
+      "id": 21132,
+      "name": "Abraham Benrubi",
+      "character": "General (voice)",
+      "order": 10,
+      "profile_path": "/d5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg"
+    },
+    {
+      "id": 108253,
+      "name": "Katie Lowes",
+      "character": "Abigail (voice)",
+      "order": 11,
+      "profile_path": "/5IqYIFfcZu7V4wrbzZKVtpkmuSw.jpg"
+    },
+    {
+      "id": 287341,
+      "name": "Billy Bush",
+      "character": "Newscaster (voice)",
+      "order": 12,
+      "profile_path": "/b1CYHiB4KpGmx6qOIVhvQSZwCYk.jpg"
+    },
+    {
+      "id": 7884,
+      "name": "Daniel Gerson",
+      "character": "Desk Sergeant (voice)",
+      "order": 13,
+      "profile_path": "/amOuK3ytWV7KXeWrpl9joCglRlF.jpg"
+    },
+    {
+      "id": 1340669,
+      "name": "Paul Briggs",
+      "character": "Yama (voice)",
+      "order": 14,
+      "profile_path": "/9kzPCzw7U47F9jvrZ7gStGQrtZ9.jpg"
+    },
+    {
+      "id": 81178,
+      "name": "Charlie Adler",
+      "character": "Yokai (voice)",
+      "order": 15,
+      "profile_path": "/hVENHdlEqsX6vhBW4MTpfYEFFQ3.jpg"
+    },
+    {
+      "id": 54698,
+      "name": "Marcella Lentz-Pope",
+      "character": "Additional Voices (voice)",
+      "order": 16,
+      "profile_path": "/vSzzdPYyGtZGj4RqKsDGdXZN6E0.jpg"
+    },
+    {
+      "id": 193254,
+      "name": "David Shaughnessy",
+      "character": "Heathcliff (voice)",
+      "order": 17,
+      "profile_path": "/pjevZtJQKWwwYGQa2pph409ePP3.jpg"
+    },
+    {
+      "id": 60272,
+      "name": "Cam Clarke",
+      "character": "Additional Voice (voice)",
+      "order": 18,
+      "profile_path": "/hScRMNVHAFge06mOfFEauKcthtO.jpg"
+    },
+    {
+      "id": 36821,
+      "name": "Nicholas Guest",
+      "character": "Additional Voice (voice)",
+      "order": 19,
+      "profile_path": "/dSA11Xw5JX7uJ3SSFWc1eimtoY4.jpg"
+    },
+    {
+      "id": 186605,
+      "name": "Terri Douglas",
+      "character": "Additional Voice (voice)",
+      "order": 20,
+      "profile_path": "/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg"
+    },
+    {
+      "id": 61958,
+      "name": "Tim Mertens",
+      "character": "Additional Voice (voice)",
+      "order": 21,
+      "profile_path": "/x8wRcwmplL0i9J1J31SgNulfLVG.jpg"
+    },
+    {
+      "id": 127387,
+      "name": "Yuri Lowenthal",
+      "character": "Additional Voice (voice)",
+      "order": 22,
+      "profile_path": "/aLgXm0kbbIC8I5OBmnsK8TgVKwy.jpg"
+    },
+    {
+      "id": 1225886,
+      "name": "Sundra Oakley",
+      "character": "Additional Voice (voice)",
+      "order": 23,
+      "profile_path": "/2PuJygrefIRfF7TDbcbALR0NAys.jpg"
+    },
+    {
+      "id": 1252466,
+      "name": "Brian R. Norris",
+      "character": "Additional Voice (voice)",
+      "order": 24,
+      "profile_path": "/uPMT5RPeFa39gZNToqHU96dFxQi.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "character": "Fred's Dad (voice)",
+      "order": 25,
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 158124,
+      "name": "Shane Sweet",
+      "character": "Additional Voice (voice)",
+      "order": 26,
+      "profile_path": "/3fVAoIbfMO2XKtMsIOVpo5fkXVq.jpg"
+    },
+    {
+      "id": 15831,
+      "name": "Frank Welker",
+      "character": "Mochi (voice) (uncredited)",
+      "order": 27,
+      "profile_path": "/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
+    },
+    {
+      "id": 60232,
+      "name": "David Cowgill",
+      "character": "Additional Voice (voice)",
+      "order": 28,
+      "profile_path": "/A3OFXT1LRCzIjvV7VXe4SDTg5U.jpg"
+    },
+    {
+      "id": 176035,
+      "name": "Kirk Baily",
+      "character": "Additional Voice (voice)",
+      "order": 29,
+      "profile_path": "/h2jB1FXZvCPiqkGGSf4l1jKKEwI.jpg"
+    },
+    {
+      "id": 1502447,
+      "name": "Charlotte Gulezian",
+      "character": "Ringleader (voice)",
+      "order": 30,
+      "profile_path": "/cQh2oNAOxeTfao5OVioJboBA1XV.jpg"
+    },
+    {
+      "id": 1114051,
+      "name": "Reed Buck",
+      "character": "Additional Voice (voice)",
+      "order": 31,
+      "profile_path": "/lw3sqTcIRPqg8aPpzkXLVhxFNwP.jpg"
+    },
+    {
+      "id": 56612,
+      "name": "Roy Conli",
+      "character": "Additional Voice (voice)",
+      "order": 32,
+      "profile_path": "/dGvEOrR2GtGiI95CHVQzgrPH1D5.jpg"
+    },
+    {
+      "id": 1502448,
+      "name": "Cooper Cowgill",
+      "character": "Additional Voice (voice)",
+      "order": 33,
+      "profile_path": null
+    },
+    {
+      "id": 950773,
+      "name": "Jackie Gonneau",
+      "character": "Additional Voice (voice)",
+      "order": 34,
+      "profile_path": "/kyFKdgHfT3JizvqmC0eFksSijIG.jpg"
+    },
+    {
+      "id": 1502449,
+      "name": "Marlie Crisafulli",
+      "character": "Additional Voice (voice)",
+      "order": 35,
+      "profile_path": "/yfdm5tcKxyF5n6Lkl6D4nmoSOyz.jpg"
+    },
+    {
+      "id": 173428,
+      "name": "Bridget Hoffman",
+      "character": "Additional Voice (voice)",
+      "order": 36,
+      "profile_path": "/fmA0h836dBXd6Uhh3kqfmbG3X0O.jpg"
+    },
+    {
+      "id": 1077829,
+      "name": "Kelly Hoover",
+      "character": "Additional Voice (voice)",
+      "order": 37,
+      "profile_path": "/sIoUvHr7si2Dpk7nM83xScqAruG.jpg"
+    },
+    {
+      "id": 1502450,
+      "name": "Leah Latham",
+      "character": "Additional Voice (voice)",
+      "order": 38,
+      "profile_path": "/gZDFLHGypGElfyOGeWufLHZjgi8.jpg"
+    },
+    {
+      "id": 1502451,
+      "name": "James Taku Leung",
+      "character": "Additional Voice (voice)",
+      "order": 39,
+      "profile_path": "/WLXW0hGrHkTwTI33dovxJOVFFi.jpg"
+    },
+    {
+      "id": 1502452,
+      "name": "Yumi Mizui",
+      "character": "Additional Voice (voice)",
+      "order": 40,
+      "profile_path": "/s09Tk67xL8FfGBXWStLJZnflixo.jpg"
+    },
+    {
+      "id": 1371667,
+      "name": "Michael Powers",
+      "character": "Additional Voice (voice)",
+      "order": 41,
+      "profile_path": "/7B6BvXETDWWDaNeHVJZHsFMXLZr.jpg"
+    },
+    {
+      "id": 1296646,
+      "name": "Lynwood Robinson",
+      "character": "Additional Voice (voice)",
+      "order": 42,
+      "profile_path": null
+    },
+    {
+      "id": 1447307,
+      "name": "Josie Trinidad",
+      "character": "Additional Voice (voice)",
+      "order": 43,
+      "profile_path": "/rMwIL53SKwZJu7WFW1fcYIVTxhP.jpg"
+    },
+    {
+      "id": 1502453,
+      "name": "Daniel Howell",
+      "character": "Male Technician #1 (voice) (uncredited)",
+      "order": 44,
+      "profile_path": "/ciuMCWrx33WAQ8FgOGuu6p90jvn.jpg"
+    },
+    {
+      "id": 172696,
+      "name": "June Christopher",
+      "character": "Additional Voices (voice)",
+      "order": 45,
+      "profile_path": "/2qKwPPLiDcpz0W3BxdCXOCZWLSi.jpg"
+    },
+    {
+      "id": 1688572,
+      "name": "Phil Lester",
+      "character": "Male Technician #1 (voice) (uncredited)",
+      "order": 46,
+      "profile_path": "/bAVlQvbWjaeVxFiIElGimPzftE2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 7879,
+      "name": "John Lasseter",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/xlrE4VD2VbZCDpaNdWCpH1ZihPS.jpg"
+    },
+    {
+      "id": 56612,
+      "name": "Roy Conli",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/dGvEOrR2GtGiI95CHVQzgrPH1D5.jpg"
+    },
+    {
+      "id": 1319965,
+      "name": "Jang Lee",
+      "job": "Visual Development",
+      "department": "Visual Effects",
+      "profile_path": "/x7q1jfk6qgocGeM8SJnEu4Qzt23.jpg"
+    },
+    {
+      "id": 7931,
+      "name": "Robert L. Baird",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": "/okdPZRcL1eZCxBb5BqkLRlTgK5v.jpg"
+    },
+    {
+      "id": 265415,
+      "name": "Duncan Rouleau",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/hGJdEQVMOdBD9erLCbJDvcKRwsH.jpg"
+    },
+    {
+      "id": 1237903,
+      "name": "Steven T. Seagle",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1112517,
+      "name": "Kristina Reed",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 96997,
+      "name": "Bradford Simonsen",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 227440,
+      "name": "Henry Jackman",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/wJYFGHG5Vsh8cbiyiS8zpO2SMHb.jpg"
+    },
+    {
+      "id": 61958,
+      "name": "Tim Mertens",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/x8wRcwmplL0i9J1J31SgNulfLVG.jpg"
+    },
+    {
+      "id": 78600,
+      "name": "Jordan Roberts",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/eH9IQLJuwFaOMcJEk2eXfHPbxYK.jpg"
+    },
+    {
+      "id": 7884,
+      "name": "Daniel Gerson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/amOuK3ytWV7KXeWrpl9joCglRlF.jpg"
+    },
+    {
+      "id": 7931,
+      "name": "Robert L. Baird",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/okdPZRcL1eZCxBb5BqkLRlTgK5v.jpg"
+    },
+    {
+      "id": 1077830,
+      "name": "Joseph Mateo",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 137198,
+      "name": "Jamie Sparer Roberts",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/qAXxHH7GIXTnySqB0GUi7hLxW89.jpg"
+    },
+    {
+      "id": 70240,
+      "name": "Paul A. Felix",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1459735,
+      "name": "Mitja Rabar",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1460478,
+      "name": "Jeff Williams",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1461416,
+      "name": "Cymbre Walk",
+      "job": "Casting Associate",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1232621,
+      "name": "Pamela Ribon",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": "/st45pOlgjQgi7GNUx6HJMuVC043.jpg"
+    },
+    {
+      "id": 1616082,
+      "name": "Andrew Kinney",
+      "job": "Orchestrator",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1018965,
+      "name": "Lisa Lassek",
+      "job": "Additional Editing",
+      "department": "Editing",
+      "profile_path": "/mbtXqnNEiUA8ixsLTjuwo3XVBLa.jpg"
+    },
+    {
+      "id": 1112515,
+      "name": "Jeff Turley",
+      "job": "Visual Development",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 112609,
+      "name": "David E. Fluhr",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/7SRpGwNkoLfRL7ygUunVe4N3tJr.jpg"
+    },
+    {
+      "id": 1397844,
+      "name": "Gabriel Guy",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/aVNCwdqmJmY8vjivPw4p4kLd3l0.jpg"
+    },
+    {
+      "id": 1618181,
+      "name": "Eliot Milbourn",
+      "job": "Color Timer",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 4627327,
+      "name": "Aaron Adams",
+      "job": "Technical Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1352422,
+      "name": "Kim Foscato",
+      "job": "Supervising Dialogue Editor",
+      "department": "Sound",
+      "profile_path": "/xBYuORzH9vQQ3EcPDfjBkfW184T.jpg"
+    },
+    {
+      "id": 16344,
+      "name": "Daniel Laurie",
+      "job": "Supervising ADR Editor",
+      "department": "Sound",
+      "profile_path": "/cZjLR3M9PjKRGgHPw5PFbHrZ3l6.jpg"
+    },
+    {
+      "id": 1615793,
+      "name": "Rob Dressel",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 186605,
+      "name": "Terri Douglas",
+      "job": "ADR Voice Casting",
+      "department": "Production",
+      "profile_path": "/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg"
+    },
+    {
+      "id": 1406872,
+      "name": "Nia Hansen",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": "/uBXQCbOt5iUl8EmAhR1J9ersvz8.jpg"
+    },
+    {
+      "id": 1399117,
+      "name": "David C. Hughes",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1394418,
+      "name": "Jeremy Bowker",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": "/en5kd72MYfcJNXsRT0hzZZjz3wr.jpg"
+    },
+    {
+      "id": 1360103,
+      "name": "Addison Teague",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": "/AuS7v1bP0Wt6R1xz9jx5H95vUO2.jpg"
+    },
+    {
+      "id": 1733495,
+      "name": "Chris Chae",
+      "job": "Sound Recordist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1995029,
+      "name": "Blair Bradley",
+      "job": "Special Effects Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 207269,
+      "name": "Joe Kelly",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1237905,
+      "name": "Joe Casey",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 574290,
+      "name": "Dave Bossert",
+      "job": "Technical Advisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 61677,
+      "name": "Burny Mattinson",
+      "job": "Story Artist",
+      "department": "Writing",
+      "profile_path": "/pSLTXjV6rkhEFFsRUW101tuHpQz.jpg"
+    },
+    {
+      "id": 1615783,
+      "name": "Jin Kim",
+      "job": "Character Designer",
+      "department": "Visual Effects",
+      "profile_path": "/yD5UpN5ieLZ8SJKqwaGYNlLcqbI.jpg"
+    },
+    {
+      "id": 1995179,
+      "name": "Marc Smith",
+      "job": "Story Artist",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1447483,
+      "name": "Rick Moore",
+      "job": "Layout",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1447503,
+      "name": "Matsune Suzuki",
+      "job": "Layout",
+      "department": "Directing",
+      "profile_path": "/fZGmNUudDcbMw3rbm09TQCv5BHi.jpg"
+    },
+    {
+      "id": 1447506,
+      "name": "Kendra Vander Vliet",
+      "job": "Layout",
+      "department": "Directing",
+      "profile_path": "/9lR66JwzSf23a2lx3PkH9JIEjTL.jpg"
+    },
+    {
+      "id": 227439,
+      "name": "Don Hall",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/wT8rqrI65ROqwuJUGEv1A0rLoE0.jpg"
+    },
+    {
+      "id": 70238,
+      "name": "Chris Williams",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg"
+    },
+    {
+      "id": 2126735,
+      "name": "Holly Sedillos",
+      "job": "Vocals",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1406872,
+      "name": "Nia Hansen",
+      "job": "Foley Editor",
+      "department": "Sound",
+      "profile_path": "/uBXQCbOt5iUl8EmAhR1J9ersvz8.jpg"
+    },
+    {
+      "id": 1406872,
+      "name": "Nia Hansen",
+      "job": "Sound Design Assistant",
+      "department": "Crew",
+      "profile_path": "/uBXQCbOt5iUl8EmAhR1J9ersvz8.jpg"
+    },
+    {
+      "id": 5427782,
+      "name": "James Newland",
+      "job": "Lighting Artist",
+      "department": "Lighting",
+      "profile_path": "/gOLSNvHhHkavpf1ZOwlplMLRBoQ.jpg"
+    },
+    {
+      "id": 1683370,
+      "name": "Micah Karns",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/4LicHDWhKkIP3HKGsrqpjoNYr2v.jpg"
+    },
+    {
+      "id": 2009610,
+      "name": "Andrew Millstein",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/tCFbpIxEHByM6iVI7RHYKF1Tgj.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:23.273Z"
+}

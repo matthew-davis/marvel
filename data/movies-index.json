@@ -1,1 +1,747 @@
-[]
+[
+  {
+    "title": "Captain America",
+    "year": 1944,
+    "tmdb_id": 106355
+  },
+  {
+    "title": "Dr. Strange",
+    "year": 1978,
+    "tmdb_id": 50468
+  },
+  {
+    "title": "Spider-Man",
+    "year": 1978,
+    "tmdb_id": 225914
+  },
+  {
+    "title": "Captain America",
+    "year": 1979,
+    "tmdb_id": 197467
+  },
+  {
+    "title": "Captain America II: Death Too Soon",
+    "year": 1979,
+    "tmdb_id": 197481
+  },
+  {
+    "title": "Dracula: Sovereign of the Damned",
+    "year": 1980,
+    "tmdb_id": null
+  },
+  {
+    "title": "Kyoufu Densetsu Kaiki! Frankenstein",
+    "year": 1981,
+    "tmdb_id": null
+  },
+  {
+    "title": "Howard the Duck",
+    "year": 1986,
+    "tmdb_id": 10658
+  },
+  {
+    "title": "The Incredible Hulk Returns",
+    "year": 1988,
+    "tmdb_id": 26881
+  },
+  {
+    "title": "The Punisher",
+    "year": 1989,
+    "tmdb_id": 8867
+  },
+  {
+    "title": "The Trial of the Incredible Hulk",
+    "year": 1989,
+    "tmdb_id": 26883
+  },
+  {
+    "title": "Captain America",
+    "year": 1990,
+    "tmdb_id": 13995
+  },
+  {
+    "title": "The Death of the Incredible Hulk",
+    "year": 1990,
+    "tmdb_id": 19593
+  },
+  {
+    "title": "Firearm",
+    "year": 1993,
+    "tmdb_id": 517485
+  },
+  {
+    "title": "Hardcase",
+    "year": 1993,
+    "tmdb_id": 763781
+  },
+  {
+    "title": "The Fantastic Four",
+    "year": 1994,
+    "tmdb_id": 22059
+  },
+  {
+    "title": "Generation X",
+    "year": 1996,
+    "tmdb_id": null
+  },
+  {
+    "title": "Men in Black",
+    "year": 1997,
+    "tmdb_id": 607
+  },
+  {
+    "title": "Nightman: World Premiere",
+    "year": 1997,
+    "tmdb_id": null
+  },
+  {
+    "title": "Blade",
+    "year": 1998,
+    "tmdb_id": null
+  },
+  {
+    "title": "Nick Fury: Agent of S.H.I.E.L.D.",
+    "year": 1998,
+    "tmdb_id": 27460
+  },
+  {
+    "title": "X-Men",
+    "year": 2000,
+    "tmdb_id": 36657
+  },
+  {
+    "title": "Blade II",
+    "year": 2002,
+    "tmdb_id": 36586
+  },
+  {
+    "title": "Men in Black II",
+    "year": 2002,
+    "tmdb_id": 608
+  },
+  {
+    "title": "Spider-Man",
+    "year": 2002,
+    "tmdb_id": 557
+  },
+  {
+    "title": "Daredevil",
+    "year": 2003,
+    "tmdb_id": null
+  },
+  {
+    "title": "Hulk",
+    "year": 2003,
+    "tmdb_id": 1927
+  },
+  {
+    "title": "X2",
+    "year": 2003,
+    "tmdb_id": 36658
+  },
+  {
+    "title": "Blade: Trinity",
+    "year": 2004,
+    "tmdb_id": 36648
+  },
+  {
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "tmdb_id": 558
+  },
+  {
+    "title": "The Punisher",
+    "year": 2004,
+    "tmdb_id": 7220
+  },
+  {
+    "title": "Elektra",
+    "year": 2005,
+    "tmdb_id": null
+  },
+  {
+    "title": "Fantastic Four",
+    "year": 2005,
+    "tmdb_id": 9738
+  },
+  {
+    "title": "Man-Thing",
+    "year": 2005,
+    "tmdb_id": 18882
+  },
+  {
+    "title": "Ultimate Avengers",
+    "year": 2006,
+    "tmdb_id": null
+  },
+  {
+    "title": "Ultimate Avengers 2",
+    "year": 2006,
+    "tmdb_id": 14611
+  },
+  {
+    "title": "X-Men: The Last Stand",
+    "year": 2006,
+    "tmdb_id": 36668
+  },
+  {
+    "title": "Doctor Strange: The Sorcerer Supreme",
+    "year": 2007,
+    "tmdb_id": null
+  },
+  {
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "year": 2007,
+    "tmdb_id": 1979
+  },
+  {
+    "title": "Ghost Rider",
+    "year": 2007,
+    "tmdb_id": 1250
+  },
+  {
+    "title": "Spider-Man 3",
+    "year": 2007,
+    "tmdb_id": 559
+  },
+  {
+    "title": "The Invincible Iron Man",
+    "year": 2007,
+    "tmdb_id": null
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "tmdb_id": null
+  },
+  {
+    "title": "Next Avengers: Heroes of Tomorrow",
+    "year": 2008,
+    "tmdb_id": 14613
+  },
+  {
+    "title": "Punisher: War Zone",
+    "year": 2008,
+    "tmdb_id": 13056
+  },
+  {
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "tmdb_id": 1724
+  },
+  {
+    "title": "Hulk Versus",
+    "year": 2009,
+    "tmdb_id": null
+  },
+  {
+    "title": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "tmdb_id": 2080
+  },
+  {
+    "title": "Iron Man 2",
+    "year": 2010,
+    "tmdb_id": 10138
+  },
+  {
+    "title": "Kick-Ass",
+    "year": 2010,
+    "tmdb_id": 23483
+  },
+  {
+    "title": "Marvel Super Heroes 4D (London)",
+    "year": 2010,
+    "tmdb_id": null
+  },
+  {
+    "title": "Planet Hulk",
+    "year": 2010,
+    "tmdb_id": 30675
+  },
+  {
+    "title": "A Funny Thing Happened on the Way to Thor's Hammer",
+    "year": 2011,
+    "tmdb_id": null
+  },
+  {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "tmdb_id": 1771
+  },
+  {
+    "title": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "tmdb_id": 71676
+  },
+  {
+    "title": "The Consultant",
+    "year": 2011,
+    "tmdb_id": null
+  },
+  {
+    "title": "Thor",
+    "year": 2011,
+    "tmdb_id": 10195
+  },
+  {
+    "title": "Thor: Tales of Asgard",
+    "year": 2011,
+    "tmdb_id": 63686
+  },
+  {
+    "title": "X-Men: First Class",
+    "year": 2011,
+    "tmdb_id": 49538
+  },
+  {
+    "title": "Item 47",
+    "year": 2012,
+    "tmdb_id": null
+  },
+  {
+    "title": "Marvel Super Heroes 4D (New York)",
+    "year": 2012,
+    "tmdb_id": null
+  },
+  {
+    "title": "Men in Black 3",
+    "year": 2012,
+    "tmdb_id": 41154
+  },
+  {
+    "title": "The Amazing Spider-Man",
+    "year": 2012,
+    "tmdb_id": 1930
+  },
+  {
+    "title": "The Avengers",
+    "year": 2012,
+    "tmdb_id": 24428
+  },
+  {
+    "title": "Agent Carter",
+    "year": 2013,
+    "tmdb_id": null
+  },
+  {
+    "title": "Iron Man & Hulk: Heroes United",
+    "year": 2013,
+    "tmdb_id": 230896
+  },
+  {
+    "title": "Iron Man 3",
+    "year": 2013,
+    "tmdb_id": 68721
+  },
+  {
+    "title": "Iron Man: Rise of Technovore",
+    "year": 2013,
+    "tmdb_id": 169934
+  },
+  {
+    "title": "Kick-Ass 2",
+    "year": 2013,
+    "tmdb_id": 59859
+  },
+  {
+    "title": "Marvel Super Heroes 4D (Bali)",
+    "year": 2013,
+    "tmdb_id": null
+  },
+  {
+    "title": "Marvel Super Heroes 4D (Las Vegas)",
+    "year": 2013,
+    "tmdb_id": null
+  },
+  {
+    "title": "The Wolverine",
+    "year": 2013,
+    "tmdb_id": 76170
+  },
+  {
+    "title": "Thor: The Dark World",
+    "year": 2013,
+    "tmdb_id": 76338
+  },
+  {
+    "title": "All Hail the King",
+    "year": 2014,
+    "tmdb_id": null
+  },
+  {
+    "title": "Avengers Confidential: Black Widow & Punisher",
+    "year": 2014,
+    "tmdb_id": 257346
+  },
+  {
+    "title": "Big Hero 6",
+    "year": 2014,
+    "tmdb_id": 177572
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "tmdb_id": 100402
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "tmdb_id": 118340
+  },
+  {
+    "title": "Iron Man & Captain America: Heroes United",
+    "year": 2014,
+    "tmdb_id": 284274
+  },
+  {
+    "title": "Kingsman: The Secret Service",
+    "year": 2014,
+    "tmdb_id": 207703
+  },
+  {
+    "title": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "tmdb_id": 102382
+  },
+  {
+    "title": "X-Men: Days of Future Past",
+    "year": 2014,
+    "tmdb_id": 127585
+  },
+  {
+    "title": "Ant-Man",
+    "year": 2015,
+    "tmdb_id": 102899
+  },
+  {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "tmdb_id": 99861
+  },
+  {
+    "title": "Fantastic Four",
+    "year": 2015,
+    "tmdb_id": 166424
+  },
+  {
+    "title": "Marvel Super Hero Adventures: Frost Fight!",
+    "year": 2015,
+    "tmdb_id": 372631
+  },
+  {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "tmdb_id": 271110
+  },
+  {
+    "title": "Deadpool",
+    "year": 2016,
+    "tmdb_id": 293660
+  },
+  {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "tmdb_id": 284052
+  },
+  {
+    "title": "Hulk: Where Monsters Dwell",
+    "year": 2016,
+    "tmdb_id": 422153
+  },
+  {
+    "title": "Team Thor",
+    "year": 2016,
+    "tmdb_id": 413279
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": 2016,
+    "tmdb_id": 246655
+  },
+  {
+    "title": "#TBT to That Time Archer Met Kingsman",
+    "year": 2017,
+    "tmdb_id": null
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "tmdb_id": 283995
+  },
+  {
+    "title": "Kingsman: The Golden Circle",
+    "year": 2017,
+    "tmdb_id": 343668
+  },
+  {
+    "title": "Logan",
+    "year": 2017,
+    "tmdb_id": null
+  },
+  {
+    "title": "Marvel Super Heroes 4D (Sentosa)",
+    "year": 2017,
+    "tmdb_id": null
+  },
+  {
+    "title": "No Good Deed",
+    "year": 2017,
+    "tmdb_id": null
+  },
+  {
+    "title": "Spider-Man: Homecoming",
+    "year": 2017,
+    "tmdb_id": 315635
+  },
+  {
+    "title": "Team Thor: Part 2",
+    "year": 2017,
+    "tmdb_id": 441829
+  },
+  {
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "tmdb_id": 284053
+  },
+  {
+    "title": "Ant-Man and the Wasp",
+    "year": 2018,
+    "tmdb_id": 363088
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018,
+    "tmdb_id": 299536
+  },
+  {
+    "title": "Black Panther",
+    "year": 2018,
+    "tmdb_id": 284054
+  },
+  {
+    "title": "Deadpool 2",
+    "year": 2018,
+    "tmdb_id": 383498
+  },
+  {
+    "title": "Marvel Rising: Secret Warriors",
+    "year": 2018,
+    "tmdb_id": 491633
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "tmdb_id": 324857
+  },
+  {
+    "title": "Team Darryl",
+    "year": 2018,
+    "tmdb_id": 505945
+  },
+  {
+    "title": "Venom",
+    "year": 2018,
+    "tmdb_id": null
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "tmdb_id": 299534
+  },
+  {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "tmdb_id": 299537
+  },
+  {
+    "title": "Dark Phoenix",
+    "year": 2019,
+    "tmdb_id": 320288
+  },
+  {
+    "title": "Marvel Rising: Battle of the Bands",
+    "year": 2019,
+    "tmdb_id": 592687
+  },
+  {
+    "title": "Marvel Rising: Chasing Ghosts",
+    "year": 2019,
+    "tmdb_id": 576743
+  },
+  {
+    "title": "Marvel Rising: Heart of Iron",
+    "year": 2019,
+    "tmdb_id": 583209
+  },
+  {
+    "title": "Marvel Rising: Operation Shuri",
+    "year": 2019,
+    "tmdb_id": 592688
+  },
+  {
+    "title": "Marvel Rising: Playing with Fire",
+    "year": 2019,
+    "tmdb_id": 592689
+  },
+  {
+    "title": "Men in Black: International",
+    "year": 2019,
+    "tmdb_id": 479455
+  },
+  {
+    "title": "Peter's To-Do List",
+    "year": 2019,
+    "tmdb_id": 758025
+  },
+  {
+    "title": "Spider-Ham: Caught in a Ham",
+    "year": 2019,
+    "tmdb_id": 583055
+  },
+  {
+    "title": "Spider-Man: Far From Home",
+    "year": 2019,
+    "tmdb_id": 429617
+  },
+  {
+    "title": "The New Mutants",
+    "year": 2020,
+    "tmdb_id": 340102
+  },
+  {
+    "title": "Black Widow",
+    "year": 2021,
+    "tmdb_id": null
+  },
+  {
+    "title": "Deadpool and Korg React",
+    "year": 2021,
+    "tmdb_id": 1595289
+  },
+  {
+    "title": "Eternals",
+    "year": 2021,
+    "tmdb_id": null
+  },
+  {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "tmdb_id": 566525
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "year": 2021,
+    "tmdb_id": 634649
+  },
+  {
+    "title": "The King's Man",
+    "year": 2021,
+    "tmdb_id": 476669
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "tmdb_id": 580489
+  },
+  {
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "tmdb_id": 505642
+  },
+  {
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "tmdb_id": 453395
+  },
+  {
+    "title": "Morbius",
+    "year": 2022,
+    "tmdb_id": 526896
+  },
+  {
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "tmdb_id": 616037
+  },
+  {
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "tmdb_id": 640146
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "tmdb_id": 447365
+  },
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "tmdb_id": 569094
+  },
+  {
+    "title": "The Marvels",
+    "year": 2023,
+    "tmdb_id": 609681
+  },
+  {
+    "title": "The Spider Within: A Spider-Verse Story",
+    "year": 2023,
+    "tmdb_id": 1106299
+  },
+  {
+    "title": "Argylle",
+    "year": 2024,
+    "tmdb_id": 848538
+  },
+  {
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "tmdb_id": 533535
+  },
+  {
+    "title": "Kraven the Hunter",
+    "year": 2024,
+    "tmdb_id": 539972
+  },
+  {
+    "title": "Madame Web",
+    "year": 2024,
+    "tmdb_id": 634492
+  },
+  {
+    "title": "Venom: The Last Dance",
+    "year": 2024,
+    "tmdb_id": 912649
+  },
+  {
+    "title": "Captain America: Brave New World",
+    "year": 2025,
+    "tmdb_id": 822119
+  },
+  {
+    "title": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "tmdb_id": null
+  },
+  {
+    "title": "Thunderbolts*",
+    "year": 2025,
+    "tmdb_id": 986056
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "year": 2026,
+    "tmdb_id": 1003596
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "tmdb_id": 969681
+  },
+  {
+    "title": "Spider-Man: Beyond the Spider-Verse",
+    "year": 2027,
+    "tmdb_id": 911916
+  }
+]

@@ -1,0 +1,845 @@
+{
+  "id": 10658,
+  "title": "Howard the Duck",
+  "year": 1986,
+  "release_date": "1986-08-01",
+  "poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
+  "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar-smoking drake, Howard, from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet, but then a much less friendly being arrives through the beam...",
+  "runtime": 110,
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 1063,
+      "name": "Lea Thompson",
+      "character": "Beverly Switzler",
+      "order": 0,
+      "profile_path": "/vsi9xdehaMWMoPKyq1qKxqN9Zz4.jpg"
+    },
+    {
+      "id": 4004,
+      "name": "Jeffrey Jones",
+      "character": "Dr. Walter Jenning",
+      "order": 1,
+      "profile_path": "/2vlQDwmMlAAEKqdFIey0liR0T1E.jpg"
+    },
+    {
+      "id": 504,
+      "name": "Tim Robbins",
+      "character": "Phil Blumburtt",
+      "order": 2,
+      "profile_path": "/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+    },
+    {
+      "id": 1471,
+      "name": "Ed Gale",
+      "character": "Howard T. Duck",
+      "order": 3,
+      "profile_path": "/pTX4hpATB8F9lrH17OkFCB9DBjR.jpg"
+    },
+    {
+      "id": 90039,
+      "name": "Chip Zien",
+      "character": "Howard T. Duck (voice)",
+      "order": 4,
+      "profile_path": "/3D3WJOj7dfoIVLStJttNMFNm6c3.jpg"
+    },
+    {
+      "id": 114761,
+      "name": "Tim Rose",
+      "character": "Howard T. Duck",
+      "order": 5,
+      "profile_path": "/7sRwkGOjXq56CUfaXbgtrHwdpoJ.jpg"
+    },
+    {
+      "id": 4706922,
+      "name": "Steve Sleap",
+      "character": "Howard T. Duck",
+      "order": 6,
+      "profile_path": null
+    },
+    {
+      "id": 2596475,
+      "name": "Peter Baird",
+      "character": "Howard T. Duck",
+      "order": 7,
+      "profile_path": null
+    },
+    {
+      "id": 4706924,
+      "name": "Mary Wells",
+      "character": "Howard T. Duck",
+      "order": 8,
+      "profile_path": null
+    },
+    {
+      "id": 1573112,
+      "name": "Lisa Sturz",
+      "character": "Howard T. Duck",
+      "order": 9,
+      "profile_path": null
+    },
+    {
+      "id": 54476,
+      "name": "Jordan Prentice",
+      "character": "Howard T. Duck",
+      "order": 10,
+      "profile_path": "/HiDMnnTk03wjmzrkL5RR9CCnld.jpg"
+    },
+    {
+      "id": 925,
+      "name": "Paul Guilfoyle",
+      "character": "Lieutenant Welker",
+      "order": 11,
+      "profile_path": "/c7unxeM13lF9pMhZhYwlNsSFjFe.jpg"
+    },
+    {
+      "id": 1027773,
+      "name": "Liz Sagal",
+      "character": "Ronette",
+      "order": 12,
+      "profile_path": "/t4YiF2Ezhv6AtAPcOpL07Rp2aNJ.jpg"
+    },
+    {
+      "id": 1012338,
+      "name": "Dominique Davalos",
+      "character": "Cal",
+      "order": 13,
+      "profile_path": "/eSGd7j883MqhzHejQw6aL3s3xed.jpg"
+    },
+    {
+      "id": 168581,
+      "name": "Holly Robinson Peete",
+      "character": "K.C.",
+      "order": 14,
+      "profile_path": "/kIIPNgWLBb5jXLceEeKM3wwhJzL.jpg"
+    },
+    {
+      "id": 12965,
+      "name": "Tommy Swerdlow",
+      "character": "Ginger Moss",
+      "order": 15,
+      "profile_path": "/35Nlzsk4uI1A9zOtvu4tYZcLGT.jpg"
+    },
+    {
+      "id": 6396,
+      "name": "Richard Edson",
+      "character": "Ritchie",
+      "order": 16,
+      "profile_path": "/at6HIxt1D0QWy6rMbrGZuVa30zi.jpg"
+    },
+    {
+      "id": 104418,
+      "name": "Miles Chapin",
+      "character": "Carter",
+      "order": 17,
+      "profile_path": "/pIVjWKncoQtIhXMXZ5x5lzfsFLH.jpg"
+    },
+    {
+      "id": 80416,
+      "name": "Richard McGonagle",
+      "character": "First Cop",
+      "order": 18,
+      "profile_path": "/eso1WgiZiqwOb1vp2sOF6uJyJn1.jpg"
+    },
+    {
+      "id": 80990,
+      "name": "Virginia Capers",
+      "character": "Coramae",
+      "order": 19,
+      "profile_path": "/hX4gKz8BQVgYI7I47PnyMxjUmJs.jpg"
+    },
+    {
+      "id": 19753,
+      "name": "Debbie Lee Carrington",
+      "character": "Additional Ducks (voice)",
+      "order": 20,
+      "profile_path": "/qTKOgUUKPiSXdT09slpONbLMRsE.jpg"
+    },
+    {
+      "id": 4706929,
+      "name": "Jorli McLain",
+      "character": "Waitress",
+      "order": 21,
+      "profile_path": null
+    },
+    {
+      "id": 30488,
+      "name": "Miguel Sandoval",
+      "character": "Club Owner",
+      "order": 22,
+      "profile_path": "/v5tHxTkgOqcdWgjoEhUj0a50NIK.jpg"
+    },
+    {
+      "id": 1577043,
+      "name": "Sheldon Feldner",
+      "character": "Hot Tub Spa Owner",
+      "order": 23,
+      "profile_path": "/smadIoua6o650P7CTHyBGIHkETd.jpg"
+    },
+    {
+      "id": 3263636,
+      "name": "Lee Anthony",
+      "character": "Grossbach",
+      "order": 24,
+      "profile_path": null
+    },
+    {
+      "id": 153675,
+      "name": "Paul Comi",
+      "character": "Dr. Chapin",
+      "order": 25,
+      "profile_path": "/t7Zi4gKsFwAeeIBx4zwEJeXMHQr.jpg"
+    },
+    {
+      "id": 3248018,
+      "name": "Maureen Coyne",
+      "character": "Teacher",
+      "order": 26,
+      "profile_path": null
+    },
+    {
+      "id": 69502,
+      "name": "James Lashly",
+      "character": "State Trooper",
+      "order": 27,
+      "profile_path": "/v3xrMhBpy5kAxJX4opc3CDzjCIj.jpg"
+    },
+    {
+      "id": 2490735,
+      "name": "Tom Parker",
+      "character": "Steve Kanelli",
+      "order": 28,
+      "profile_path": null
+    },
+    {
+      "id": 1748787,
+      "name": "Ed Holmes",
+      "character": "TV Duck Hunter",
+      "order": 29,
+      "profile_path": null
+    },
+    {
+      "id": 19839,
+      "name": "David Paymer",
+      "character": "Larry, Scientist",
+      "order": 30,
+      "profile_path": "/owoOdDFgXpls1OFKwmQ104Nkl5.jpg"
+    },
+    {
+      "id": 1977762,
+      "name": "William Hall",
+      "character": "Hanson",
+      "order": 31,
+      "profile_path": "/9mXhH1YkBTpwhO7fkRdvdRaTajg.jpg"
+    },
+    {
+      "id": 2644938,
+      "name": "Denny Delk",
+      "character": "Sergeant",
+      "order": 32,
+      "profile_path": null
+    },
+    {
+      "id": 4706941,
+      "name": "Martin Ganapoler",
+      "character": "First Trucker",
+      "order": 33,
+      "profile_path": null
+    },
+    {
+      "id": 954362,
+      "name": "Tom Rayhall",
+      "character": "Second Trucker",
+      "order": 34,
+      "profile_path": null
+    },
+    {
+      "id": 33058,
+      "name": "Gary Littlejohn",
+      "character": "Third Trucker",
+      "order": 35,
+      "profile_path": "/912cR3a9VyTViaGFp6ABEWdHtHs.jpg"
+    },
+    {
+      "id": 228814,
+      "name": "Thomas Dolby",
+      "character": "Bartender in Rock Club",
+      "order": 36,
+      "profile_path": "/nfvJX96gEa9FMY5EmKxVHiooZwI.jpg"
+    },
+    {
+      "id": 98554,
+      "name": "Kristopher Logan",
+      "character": "Punk",
+      "order": 37,
+      "profile_path": "/hpOFbwkiA3Cf2ZQFxm0vcGtm00a.jpg"
+    },
+    {
+      "id": 3616068,
+      "name": "Reed Kirk Rahlmann",
+      "character": "Bender",
+      "order": 38,
+      "profile_path": null
+    },
+    {
+      "id": 84312,
+      "name": "John Fleck",
+      "character": "Pimples",
+      "order": 39,
+      "profile_path": "/yA0dLIhTdm1YtD45uK4c43uyJKR.jpg"
+    },
+    {
+      "id": 4706944,
+      "name": "William McCoy",
+      "character": "Skin Head",
+      "order": 40,
+      "profile_path": null
+    },
+    {
+      "id": 1648832,
+      "name": "Steven Kravitz",
+      "character": "Lover Boy",
+      "order": 41,
+      "profile_path": null
+    },
+    {
+      "id": 4706947,
+      "name": "Anne Tofflemire",
+      "character": "Lover Girl",
+      "order": 42,
+      "profile_path": null
+    },
+    {
+      "id": 4706948,
+      "name": "Marcia Banks",
+      "character": "Mama Biker",
+      "order": 43,
+      "profile_path": null
+    },
+    {
+      "id": 42168,
+      "name": "Nancy Fish",
+      "character": "Bag Lady",
+      "order": 44,
+      "profile_path": "/4hsbpX8MaxXDQBh9T4IJZD3wGza.jpg"
+    },
+    {
+      "id": 559654,
+      "name": "Monty Hoffman",
+      "character": "Club Bouncer",
+      "order": 45,
+      "profile_path": "/oRyV4oVZAPLfT3snshlXuPFSQ05.jpg"
+    },
+    {
+      "id": 4706950,
+      "name": "Ted Kurtz",
+      "character": "Kirby",
+      "order": 46,
+      "profile_path": null
+    },
+    {
+      "id": 123175,
+      "name": "Wood Moy",
+      "character": "Chef",
+      "order": 47,
+      "profile_path": "/i2EzNRVr4BJnTRSK6j3uwSt92gZ.jpg"
+    },
+    {
+      "id": 4706952,
+      "name": "Wanda McCaddon",
+      "character": "Hostess",
+      "order": 48,
+      "profile_path": null
+    },
+    {
+      "id": 3248017,
+      "name": "James Brady",
+      "character": "First Tour Guide",
+      "order": 49,
+      "profile_path": null
+    },
+    {
+      "id": 1769340,
+      "name": "Carol McElheney",
+      "character": "Screaming Woman",
+      "order": 50,
+      "profile_path": null
+    },
+    {
+      "id": 3378890,
+      "name": "Jeanne Lauren",
+      "character": "Bear",
+      "order": 51,
+      "profile_path": null
+    },
+    {
+      "id": 26660,
+      "name": "Richard Kiley",
+      "character": "The Cosmos (voice)",
+      "order": 52,
+      "profile_path": "/1s24x1TsT8DxBKGksTeeaCmKYvU.jpg"
+    },
+    {
+      "id": 33923,
+      "name": "Mel Blanc",
+      "character": "Daffy Duck (voice) (archive sound)",
+      "order": 53,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg"
+    },
+    {
+      "id": 6329905,
+      "name": "Carlos Gómez",
+      "character": "Extra",
+      "order": 54,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 686,
+      "name": "Willard Huyck",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/mGf5F0y0a9A0so2E1CrvPSUyqQo.jpg"
+    },
+    {
+      "id": 686,
+      "name": "Willard Huyck",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/mGf5F0y0a9A0so2E1CrvPSUyqQo.jpg"
+    },
+    {
+      "id": 687,
+      "name": "Gloria Katz",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/6al4WOYceO9Cp0vxSwDmUaOZrdJ.jpg"
+    },
+    {
+      "id": 687,
+      "name": "Gloria Katz",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/6al4WOYceO9Cp0vxSwDmUaOZrdJ.jpg"
+    },
+    {
+      "id": 2289,
+      "name": "John Barry",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/5ZDkrb8pj67sD65F5W8J32LT2NO.jpg"
+    },
+    {
+      "id": 1762,
+      "name": "Richard H. Kline",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 4009,
+      "name": "Michael Chandler",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 22483,
+      "name": "Sidney Wolinsky",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/tSEnHb4weVj3kI0uOGCnS8fande.jpg"
+    },
+    {
+      "id": 1,
+      "name": "George Lucas",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg"
+    },
+    {
+      "id": 34933,
+      "name": "Steve Gerber",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1740491,
+      "name": "Gracie Atherton",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 15014,
+      "name": "Peter Jamison",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 19753,
+      "name": "Debbie Lee Carrington",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/qTKOgUUKPiSXdT09slpONbLMRsE.jpg"
+    },
+    {
+      "id": 1862956,
+      "name": "John Watson",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 228814,
+      "name": "Thomas Dolby",
+      "job": "Songs",
+      "department": "Sound",
+      "profile_path": "/nfvJX96gEa9FMY5EmKxVHiooZwI.jpg"
+    },
+    {
+      "id": 7727,
+      "name": "Phil Tippett",
+      "job": "Visual Effects",
+      "department": "Visual Effects",
+      "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg"
+    },
+    {
+      "id": 7727,
+      "name": "Phil Tippett",
+      "job": "Creature Design",
+      "department": "Visual Effects",
+      "profile_path": "/qIjrlRrM6MwNkbCYwRbPYbvq9P7.jpg"
+    },
+    {
+      "id": 9987,
+      "name": "Ian Bryce",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": "/y45uZM4RTXmC02XwsMseFMObUAF.jpg"
+    },
+    {
+      "id": 14654,
+      "name": "Robert Latham Brown",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 13585,
+      "name": "Nancy Nayor",
+      "job": "Additional Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1221,
+      "name": "Dianne Crittenden",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2497606,
+      "name": "Gary Heider",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 26984,
+      "name": "Joe I. Tompkins",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2507275,
+      "name": "Rodney Allen Hooks",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 3777829,
+      "name": "John Liberti",
+      "job": "Second Unit First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1961865,
+      "name": "Margarita Farrell",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1644474,
+      "name": "Paul M. Lane",
+      "job": "Stunt Driver",
+      "department": "Crew",
+      "profile_path": "/4Jq34nGCw6YcEUPm550aiT3dogY.jpg"
+    },
+    {
+      "id": 3851020,
+      "name": "Bill Yarbrough",
+      "job": "Utility Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 91242,
+      "name": "Bob Herron",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/uY9xIZFTlVd41PzUSC39IH5tidh.jpg"
+    },
+    {
+      "id": 1340327,
+      "name": "Don Ruffin",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/dHi2WgbxQoIOodiUvJFm0BISKS2.jpg"
+    },
+    {
+      "id": 25459,
+      "name": "Michael J. McAlister",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 42267,
+      "name": "Randy Thom",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg"
+    },
+    {
+      "id": 42267,
+      "name": "Randy Thom",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg"
+    },
+    {
+      "id": 670,
+      "name": "Ben Burtt",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/7asFDWjls2bYQSfXJf5StjXmlhI.jpg"
+    },
+    {
+      "id": 670,
+      "name": "Ben Burtt",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": "/7asFDWjls2bYQSfXJf5StjXmlhI.jpg"
+    },
+    {
+      "id": 1425978,
+      "name": "Gary Summers",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1442504,
+      "name": "Robert Bonino",
+      "job": "Construction Foreman",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1378162,
+      "name": "Stacey S. McIntosh",
+      "job": "Construction Foreman",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2940288,
+      "name": "Dwight Williams",
+      "job": "Construction Foreman",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1458533,
+      "name": "Christopher Brooks",
+      "job": "Supervising Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3992,
+      "name": "Gloria S. Borders",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1589724,
+      "name": "Rory Enke",
+      "job": "Location Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 14654,
+      "name": "Robert Latham Brown",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 12843,
+      "name": "Richard Hashimoto",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 11815,
+      "name": "Dan Kolsrud",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2324806,
+      "name": "Patrick Cosgrove",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1546454,
+      "name": "L. Dean Jones Jr.",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1640689,
+      "name": "Phillip Norwood",
+      "job": "Visual Effects Art Director",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1563432,
+      "name": "Louise Jaffe",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 8573,
+      "name": "Thomas J. Wright",
+      "job": "Second Unit Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 4056,
+      "name": "Bobby Byrne",
+      "job": "Second Unit Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1338109,
+      "name": "Everett Creach",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 10628,
+      "name": "Mark Billerman",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2940209,
+      "name": "Blake Russell",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 7888,
+      "name": "Harley Jessup",
+      "job": "Assistant Production Design",
+      "department": "Art",
+      "profile_path": "/ukDqqxb9jmVdzkMLjlDGfb2xcu9.jpg"
+    },
+    {
+      "id": 14608,
+      "name": "John Warnke",
+      "job": "Assistant Art Director",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 12652,
+      "name": "Jim Pohl",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1891627,
+      "name": "Pamela Marcotte",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2940228,
+      "name": "Chuck Roseberry",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 12437,
+      "name": "Phil Abramson",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 960971,
+      "name": "Jim Poynter",
+      "job": "Leadman",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2540081,
+      "name": "Robert Krume",
+      "job": "Construction Coordinator",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 13223,
+      "name": "Jim Passon",
+      "job": "Color Timer",
+      "department": "Editing",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:01.252Z"
+}

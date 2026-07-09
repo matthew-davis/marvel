@@ -1,0 +1,334 @@
+{
+  "id": 169934,
+  "title": "Iron Man: Rise of Technovore",
+  "year": 2013,
+  "release_date": "2013-04-24",
+  "poster_path": "/eHDez1uN5X2ZAq4niX7HvhyZIIO.jpg",
+  "overview": "Iron Man enlists the help of ruthless vigilante the Punisher to track down War Machine's murderer. All the while, he's being pursued by S.H.I.E.L.D. agents Black Widow and Hawkeye, who suspect his involvement in a recent terrorist plot.",
+  "runtime": 88,
+  "genres": [
+    "Science Fiction",
+    "Animation",
+    "Action"
+  ],
+  "cast": [
+    {
+      "id": 1681,
+      "name": "Tessyo Genda",
+      "character": "Frank Castle / The Punisher (voice)",
+      "order": 0,
+      "profile_path": "/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    },
+    {
+      "id": 9708,
+      "name": "Keiji Fujiwara",
+      "character": "Tony Stark / Iron Man (voice)",
+      "order": 1,
+      "profile_path": "/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "id": 19588,
+      "name": "Miyu Irino",
+      "character": "Ezekiel Stane / Technovore (voice)",
+      "order": 2,
+      "profile_path": "/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "id": 1254147,
+      "name": "Hiroe Oka",
+      "character": "Pepper Potts (voice)",
+      "order": 3,
+      "profile_path": "/uaYG3IGiIpDpz9P7C9fkL2Z7kAr.jpg"
+    },
+    {
+      "id": 216448,
+      "name": "Hiroki Yasumoto",
+      "character": "James \"Rhodey\" Rhodes / War Machine (voice)",
+      "order": 4,
+      "profile_path": "/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+    },
+    {
+      "id": 228234,
+      "name": "Junko Minagawa",
+      "character": "Maria Hill (voice)",
+      "order": 5,
+      "profile_path": "/vylNOlXVmYFW8TJgq3Dvgoq1dy5.jpg"
+    },
+    {
+      "id": 186341,
+      "name": "Miyuki Sawashiro",
+      "character": "Natasha Romanoff / Black Widow (voice)",
+      "order": 6,
+      "profile_path": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+    },
+    {
+      "id": 1251544,
+      "name": "Shuhei Sakaguchi",
+      "character": "Clint Barton / Hawkeye (voice)",
+      "order": 7,
+      "profile_path": "/nMhYPT9sRr8TFHWkEggzXrzqgPe.jpg"
+    },
+    {
+      "id": 111375,
+      "name": "Yasuyuki Kase",
+      "character": "JARVIS (voice)",
+      "order": 8,
+      "profile_path": "/sERtaipUjauSd4WgP9RQwHoAamO.jpg"
+    },
+    {
+      "id": 220710,
+      "name": "Houko Kuwashima",
+      "character": "Sasha Hammer (voice)",
+      "order": 9,
+      "profile_path": "/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
+    },
+    {
+      "id": 111373,
+      "name": "Takaya Hashi",
+      "character": "Obadiah Stane (voice)",
+      "order": 10,
+      "profile_path": "/qHt0Q7755oez1yvtShBalcXDv2h.jpg"
+    },
+    {
+      "id": 224454,
+      "name": "Hideaki Tezuka",
+      "character": "Nick Fury (voice)",
+      "order": 11,
+      "profile_path": "/9zJhLamvMx9cUgBAl8i0lmXUfo0.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 2364898,
+      "name": "Masanori Shino",
+      "job": "Character Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 108953,
+      "name": "Brandon Auman",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": "/vLrQ1R2A0Kabgm4i4oA7ac9soaF.jpg"
+    },
+    {
+      "id": 550621,
+      "name": "Hiroshi Hamasaki",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/mnjtGa8F6tIwIWosILZ7m2GFZ4o.jpg"
+    },
+    {
+      "id": 69293,
+      "name": "Kengo Kaji",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1509979,
+      "name": "Shingo Natsume",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/jkrKdmxG7H7DFh9LchDhZFAmYOD.jpg"
+    },
+    {
+      "id": 1243953,
+      "name": "Kenichi Kawamura",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 550621,
+      "name": "Hiroshi Hamasaki",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/mnjtGa8F6tIwIWosILZ7m2GFZ4o.jpg"
+    },
+    {
+      "id": 56339,
+      "name": "Yoshiaki Kawajiri",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/nre4oIwHX9k2sIcfRh5zSP62MWl.jpg"
+    },
+    {
+      "id": 1572958,
+      "name": "Iwao Teraoka",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1083854,
+      "name": "Tetsuya Takahashi",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3154064,
+      "name": "Romed Irmler",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1011028,
+      "name": "Dan Buckley",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/gM2unQVw1jxWFmMd438rNoJHgr0.jpg"
+    },
+    {
+      "id": 1187909,
+      "name": "Joe Quesada",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg"
+    },
+    {
+      "id": 17310,
+      "name": "Jeph Loeb",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg"
+    },
+    {
+      "id": 1693211,
+      "name": "Megan Thomas Bradner",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1693200,
+      "name": "Simon Phillips",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 40343,
+      "name": "Masao Takiyama",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1693212,
+      "name": "Harrison Wilcox",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1693196,
+      "name": "Hiroyuki Okada",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1693210,
+      "name": "Taro Morishima",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 40344,
+      "name": "Satoshi Hashimoto",
+      "job": "Color Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1694230,
+      "name": "Scott Dolph",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1442215,
+      "name": "Yasushi Nirasawa",
+      "job": "Creature Design",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1243953,
+      "name": "Kenichi Kawamura",
+      "job": "Other",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1309258,
+      "name": "Takaharu Ozaki",
+      "job": "Conceptual Design",
+      "department": "Art",
+      "profile_path": "/1SZhEOeg7oZ90HI1zYBTC99QWN.jpg"
+    },
+    {
+      "id": 1509979,
+      "name": "Shingo Natsume",
+      "job": "Other",
+      "department": "Directing",
+      "profile_path": "/jkrKdmxG7H7DFh9LchDhZFAmYOD.jpg"
+    },
+    {
+      "id": 40340,
+      "name": "Masafumi Mima",
+      "job": "Sound Director",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1694223,
+      "name": "Mariko Tsukatsune",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 79738,
+      "name": "Shigemi Ikeda",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1352117,
+      "name": "Kashiko Kimura",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:20.863Z"
+}

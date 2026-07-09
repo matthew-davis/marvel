@@ -1,0 +1,474 @@
+{
+  "id": 27460,
+  "title": "Nick Fury: Agent of S.H.I.E.L.D.",
+  "year": 1998,
+  "release_date": "1998-05-26",
+  "poster_path": "/4T0YjvnBaMASZkkRKxMIe6IoWO0.jpg",
+  "overview": "Marvel's hard-boiled hero is brought back to fight the menace of Hydra after exiling himself in the Yukon since the end of the Cold War. The children of the former Hydra head, Baron Von Stucker, have taken charge of the terrorist organization. Under the lead of his vicious daughter, Viper, Hydra has seized a deadly virus and threatens the destruction of America.",
+  "runtime": 91,
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "TV Movie"
+  ],
+  "cast": [
+    {
+      "id": 28238,
+      "name": "David Hasselhoff",
+      "character": "Colonel Nick Fury",
+      "order": 0,
+      "profile_path": "/gRcqYNBUQWFxRoAVRNY7xHzOONP.jpg"
+    },
+    {
+      "id": 97783,
+      "name": "Lisa Rinna",
+      "character": "Countessa Valentina 'Val' de Allegro Fontaine",
+      "order": 1,
+      "profile_path": "/e1reRbSRgIEUDp56LwyEgID2sfc.jpg"
+    },
+    {
+      "id": 59642,
+      "name": "Sandra Hess",
+      "character": "Andrea Von Strucker / Viper",
+      "order": 2,
+      "profile_path": "/qqXxOm6UzrjxQ4yQ9jhApHw8ZXD.jpg"
+    },
+    {
+      "id": 97784,
+      "name": "Neil Roberts",
+      "character": "Alexander Goodwin Pierce",
+      "order": 3,
+      "profile_path": "/veUDk8f5qcYmGmCNRfKm4MwFC19.jpg"
+    },
+    {
+      "id": 26089,
+      "name": "Garry Chalk",
+      "character": "Timothy Dugan",
+      "order": 4,
+      "profile_path": "/gz2bmjjEAhqeMQJBQJUABrcGD2u.jpg"
+    },
+    {
+      "id": 177579,
+      "name": "Tracy Waterhouse",
+      "character": "Kate Neville",
+      "order": 5,
+      "profile_path": "/4IEjzCIRiI10TOGNXbiLK820PFh.jpg"
+    },
+    {
+      "id": 158575,
+      "name": "Tom McBeath",
+      "character": "Director General Jack Pincer",
+      "order": 6,
+      "profile_path": "/vKeYC2KlMiq4S48ZafMll7jl9CJ.jpg"
+    },
+    {
+      "id": 85170,
+      "name": "Ron Canada",
+      "character": "Gabriel Jones",
+      "order": 7,
+      "profile_path": "/2B8fFweT0PGcA1sj3duMzPpLgD6.jpg"
+    },
+    {
+      "id": 1235532,
+      "name": "Bill Croft",
+      "character": "Garotte",
+      "order": 8,
+      "profile_path": "/xDgAWtePgX0sMY1vxjy5jfZgv71.jpg"
+    },
+    {
+      "id": 25877,
+      "name": "Roger Cross",
+      "character": "Shield Agent #1",
+      "order": 9,
+      "profile_path": "/gLbHM7JH2nWCeEzSjzAYBUOSkT8.jpg"
+    },
+    {
+      "id": 27134,
+      "name": "Peter Haworth",
+      "character": "Dr. Arnim Zola",
+      "order": 10,
+      "profile_path": null
+    },
+    {
+      "id": 10869,
+      "name": "Scott Heindl",
+      "character": "Werner Von Strucker",
+      "order": 11,
+      "profile_path": "/tb3s5z20aUfPtSqonio3RB3lYIT.jpg"
+    },
+    {
+      "id": 1015896,
+      "name": "Adrian G. Griffiths",
+      "character": "Quartermain",
+      "order": 12,
+      "profile_path": "/poAUvX24DOwr0xDIzwIWqCH1MY8.jpg"
+    },
+    {
+      "id": 158356,
+      "name": "Campbell Lane",
+      "character": "Baron Von Strucker",
+      "order": 13,
+      "profile_path": "/qK8GdBBGLnVZf1TKD7Sghq1gc0H.jpg"
+    },
+    {
+      "id": 43555,
+      "name": "Mina E. Mina",
+      "character": "Cairo",
+      "order": 14,
+      "profile_path": null
+    },
+    {
+      "id": 158377,
+      "name": "Terry David Mulligan",
+      "character": "The President",
+      "order": 15,
+      "profile_path": "/AlLaTNpdGN8mcraWoF2wD6NRRz.jpg"
+    },
+    {
+      "id": 65730,
+      "name": "Rick Ravanello",
+      "character": "Agent Vaughn",
+      "order": 16,
+      "profile_path": "/6ZU0HRkii8oTOMdT02dYnrgCn5s.jpg"
+    },
+    {
+      "id": 21060,
+      "name": "Stellina Rusich",
+      "character": "Inspector Runciter",
+      "order": 17,
+      "profile_path": "/8e3JWwcUzkpyA7Lzqc21bmI5Hrc.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 29078,
+      "name": "Rod Hardy",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/8KAJxjUVspj5zJImDUhlKRrdgBi.jpg"
+    },
+    {
+      "id": 3893,
+      "name": "David S. Goyer",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg"
+    },
+    {
+      "id": 1007395,
+      "name": "J.J. Makaro",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": "/y1Ec2iASfEU4Mr3I05xXHl0PmDQ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "id": 1991200,
+      "name": "Matthew Edelman",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1286008,
+      "name": "Tarquin Gotch",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1849230,
+      "name": "Bob Lemchen",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 68612,
+      "name": "David Roessell",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 51588,
+      "name": "Kevin Kiner",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/FtGnTCUaMTNDESIuwhEmzCNIpp.jpg"
+    },
+    {
+      "id": 1051611,
+      "name": "Gary Lionelli",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 29083,
+      "name": "Drake Silliman",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 14540,
+      "name": "Douglas Higgins",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 11823,
+      "name": "Monique Prudhomme",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1246236,
+      "name": "Jim Steranko",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 2032516,
+      "name": "Bob Harras",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 2032517,
+      "name": "Paul Neary",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 29080,
+      "name": "James Bartle",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 46916,
+      "name": "Mark Paladini",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/42fl3sSDpKBZLeG5HoKJ3z5bAt8.jpg"
+    },
+    {
+      "id": 12942,
+      "name": "Fern Champion",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/8sZ4LBckRrhrCX0BS1YFTOoAQ9.jpg"
+    },
+    {
+      "id": 17831,
+      "name": "Grant Van Der Slagt",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1441341,
+      "name": "Mark Lane",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": "/j8RMfZCecgeUGEzFAjYC7WsRm7g.jpg"
+    },
+    {
+      "id": 1836728,
+      "name": "Brian Giddens",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 4864882,
+      "name": "Judy Slattery",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1422105,
+      "name": "Celia Bond",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/bIMopw1GtotwAk4Q2E8xozD0VnZ.jpg"
+    },
+    {
+      "id": 105791,
+      "name": "Charles Andre",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/ehfEA8Lth54VM5fwZeYdbRx2d9f.jpg"
+    },
+    {
+      "id": 1302173,
+      "name": "Yves Cameron",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1422107,
+      "name": "Jim Dunn",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3717106,
+      "name": "Charn Gandam",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1769446,
+      "name": "Dave Hospes",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1232945,
+      "name": "George Josef",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/7FDBotxWDrUxCq5hTYldoM4nGPr.jpg"
+    },
+    {
+      "id": 50094,
+      "name": "Ken Kirzinger",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/h9PfH9SP4gO7H7RPEpLvQWLY3zW.jpg"
+    },
+    {
+      "id": 1868932,
+      "name": "Michael Langlois",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1235397,
+      "name": "Randy Lee",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/mt9PRY8ymXw0wSt110WOcThkv87.jpg"
+    },
+    {
+      "id": 172855,
+      "name": "Terrance Leigh",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/k5gZ2VgfhEsuaM3r6AcsP3Mj2eJ.jpg"
+    },
+    {
+      "id": 113204,
+      "name": "Tony Morelli",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/jeh4YbLQgFg8Au5albydEPeNNG1.jpg"
+    },
+    {
+      "id": 1407839,
+      "name": "Scott Nicholson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/3KHAHF21X657FL7hOsTEx7PzzAs.jpg"
+    },
+    {
+      "id": 1248077,
+      "name": "Fred Perron",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4037889,
+      "name": "Ray Pichette",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 229167,
+      "name": "Jacob Rupp",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2726007,
+      "name": "Bill Stewart",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 113208,
+      "name": "Melissa R. Stubbs",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/ZBRTEgjBIc03yWnQHhVL0TGZA3.jpg"
+    },
+    {
+      "id": 2247844,
+      "name": "Claire Webb",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1397300,
+      "name": "Cristina Weigmann",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2041695,
+      "name": "Hugh Spencer-Phillips",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:05.596Z"
+}

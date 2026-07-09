@@ -1,0 +1,158 @@
+{
+  "id": 372631,
+  "title": "Marvel Super Hero Adventures: Frost Fight!",
+  "year": 2015,
+  "release_date": "2015-12-15",
+  "poster_path": "/h7pgMFwnx2dhSZypbBYdoVCV1eT.jpg",
+  "overview": "The holiday season gets extra chilly as Loki and the frost giant Ymir plot to conquer the world. Marvel heroes Iron Man, Captain America, Hulk, Thor and others must stop the villains from stealing Santa's power – if anyone can actually find the mysterious Mr. Claus. Fortunately, Rocket Raccoon and Groot are also hot on Santa's trail. Heroes, villains, elves and cosmic bounty hunters collide in an epic quest that leaves the fate of the holiday and the world in the balance.",
+  "runtime": 73,
+  "genres": [
+    "Animation",
+    "Fantasy"
+  ],
+  "cast": [
+    {
+      "id": 556275,
+      "name": "Matthew Mercer",
+      "character": "Captain America / Gingerbread Men",
+      "order": 0,
+      "profile_path": "/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
+    },
+    {
+      "id": 1221888,
+      "name": "Travis Willingham",
+      "character": "Thor",
+      "order": 1,
+      "profile_path": "/clvP30k6cUMf4hukRQqZD3k9z4S.jpg"
+    },
+    {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "character": "The Hulk / Ymir",
+      "order": 2,
+      "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "id": 963818,
+      "name": "Troy Baker",
+      "character": "Loki",
+      "order": 3,
+      "profile_path": "/t2mbkuXXRojfMrC8mqqtU2ISUbt.jpg"
+    },
+    {
+      "id": 15761,
+      "name": "Grey DeLisle",
+      "character": "Captain Marvel (voice)",
+      "order": 4,
+      "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "id": 1112043,
+      "name": "Antony Del Rio",
+      "character": "Reptil",
+      "order": 5,
+      "profile_path": null
+    },
+    {
+      "id": 971877,
+      "name": "Mick Wingert",
+      "character": "Iron Man / Athidel (voice)",
+      "order": 6,
+      "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg"
+    },
+    {
+      "id": 82816,
+      "name": "Trevor Devall",
+      "character": "Rocket Raccoon / Jarvis / Malitri",
+      "order": 7,
+      "profile_path": "/iCFqgVzkhLkMOw9DKmUmfQ3OyCZ.jpg"
+    },
+    {
+      "id": 24362,
+      "name": "Kevin Michael Richardson",
+      "character": "Groot",
+      "order": 8,
+      "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "id": 571562,
+      "name": "Steve Blum",
+      "character": "Santa Claus (Jolnir) / Nick",
+      "order": 9,
+      "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "id": 193140,
+      "name": "Jane Singer",
+      "character": "Mrs. Claus",
+      "order": 10,
+      "profile_path": "/qDM8MO6l0Dlk9pWQ1tD0LvUcERj.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 1234311,
+      "name": "Mitch Schauer",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1214600,
+      "name": "Mark Banker",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 17310,
+      "name": "Jeph Loeb",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg"
+    },
+    {
+      "id": 2139953,
+      "name": "Evan Burse",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 497701,
+      "name": "Kristopher Carter",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1521139,
+      "name": "Michael McCuistion",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2139954,
+      "name": "Marcos Abrom",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1376311,
+      "name": "Lolita Ritmanis",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:26.891Z"
+}

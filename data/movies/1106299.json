@@ -1,0 +1,599 @@
+{
+  "id": 1106299,
+  "title": "The Spider Within: A Spider-Verse Story",
+  "year": 2023,
+  "release_date": "2023-06-12",
+  "poster_path": "/2xlk27ZW2WI6Q77SLEmwhUpz190.jpg",
+  "overview": "After a particularly challenging day, Miles experiences a panic attack that forces him to confront the manifestations of his anxiety and learn that reaching out for help can be just as brave an act as protecting his city from evil.",
+  "runtime": 8,
+  "genres": [
+    "Animation",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "id": 587506,
+      "name": "Shameik Moore",
+      "character": "Miles Morales (voice)",
+      "order": 0,
+      "profile_path": "/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+    },
+    {
+      "id": 226366,
+      "name": "Brian Tyree Henry",
+      "character": "Jefferson Davis (voice)",
+      "order": 1,
+      "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 4368181,
+      "name": "Chris Tenzis",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": "/tznY12TiFWNpWXZDzXmzpSGpBnW.jpg"
+    },
+    {
+      "id": 3659438,
+      "name": "Nicole K. Brisson",
+      "job": "Animation Coordinator",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4617879,
+      "name": "Alyd Maximilian Thierry Llewelyn",
+      "job": "Lighting Coordinator",
+      "department": "Lighting",
+      "profile_path": null
+    },
+    {
+      "id": 1440822,
+      "name": "John Pospisil",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3538072,
+      "name": "Khaila Amazan",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1378828,
+      "name": "Michael Semanick",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/poGaVc3vdZmkZCvSLNIkkIsxffj.jpg"
+    },
+    {
+      "id": 1634460,
+      "name": "Natasha Leonnet",
+      "job": "Digital Colorist",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1370749,
+      "name": "Craig Berry",
+      "job": "Story Artist",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 76748,
+      "name": "Peter Zaslav",
+      "job": "Visual Development",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3659440,
+      "name": "Ian Parra Patino",
+      "job": "Compositing Lead",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4098962,
+      "name": "Derek Moorhouse",
+      "job": "Matte Painter",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1413092,
+      "name": "James Morioka",
+      "job": "Supervising Dialogue Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2597608,
+      "name": "Vincent G. Scotti",
+      "job": "Post Production Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2555580,
+      "name": "Kasey Fagerquist",
+      "job": "Story Artist",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 4617883,
+      "name": "Sophie Dafesh",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1984636,
+      "name": "Aaron Hasson",
+      "job": "ADR Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2042120,
+      "name": "Brian Smith",
+      "job": "ADR Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1371064,
+      "name": "Gregg Barbanell",
+      "job": "Foley Artist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1127833,
+      "name": "Arthur D. Noda",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 3551560,
+      "name": "Bret Allen",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1049333,
+      "name": "Del Spiva",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 4098965,
+      "name": "Nina Vazquez",
+      "job": "Matte Painter",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4582193,
+      "name": "Kai Scheer",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1451654,
+      "name": "Howard London",
+      "job": "ADR Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1703174,
+      "name": "Miguel Jiron",
+      "job": "Story Artist",
+      "department": "Writing",
+      "profile_path": "/sBEHuSRFK6T9DqBYQX93qSAFAFU.jpg"
+    },
+    {
+      "id": 2011007,
+      "name": "Alec Rubay",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1407812,
+      "name": "Geoffrey G. Rubay",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1775687,
+      "name": "Stacey Newton",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2270197,
+      "name": "Karen Rupert Toliver",
+      "job": "Thanks",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4098925,
+      "name": "Guillaume Fuentes",
+      "job": "Modeling",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1459790,
+      "name": "Adam Holmes",
+      "job": "Layout",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2149232,
+      "name": "Tiberius Viris",
+      "job": "Matte Painter",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2014054,
+      "name": "Taehyun Park",
+      "job": "Modeling",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 548445,
+      "name": "Jeffrey Wilhoit",
+      "job": "Foley Artist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 4617894,
+      "name": "Michael V. Schrayder",
+      "job": "Title Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1462677,
+      "name": "Stéphane Couture",
+      "job": "Layout",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 4096084,
+      "name": "Daniel McNamara",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1120755,
+      "name": "Jacky Priddle",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 4617882,
+      "name": "Sophia Gelfant",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2233196,
+      "name": "Thomas Thistlethwaite",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3290243,
+      "name": "Gerard Manresa Ortega",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095983,
+      "name": "Dan Mao",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4618297,
+      "name": "Michael Morgan",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095993,
+      "name": "Ryan Pfeifenroth",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1762345,
+      "name": "Cynthia Collins",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2199351,
+      "name": "Kentaro Komiya",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1274309,
+      "name": "Randy K. Singer",
+      "job": "Foley Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2199277,
+      "name": "Federico Abib",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095985,
+      "name": "Domitille Mellac",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095963,
+      "name": "Sangyeong Jeong",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095971,
+      "name": "Saul Latorre Sebastian",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1840323,
+      "name": "Mike Feil",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4618296,
+      "name": "Narumi Someno",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095987,
+      "name": "Alex Olea",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095997,
+      "name": "Leonardo Quert",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095975,
+      "name": "Yishen Li",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095937,
+      "name": "Jesse Cnockaert",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2002366,
+      "name": "Morgan N. Greene",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4096012,
+      "name": "Eulrang Song",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2014825,
+      "name": "Jeff Panko",
+      "job": "Lead Animator",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095998,
+      "name": "Sinu Raghavan",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095979,
+      "name": "Remus Low",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4096004,
+      "name": "Cody Schiebelbein",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095991,
+      "name": "Eura Pancaldi",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095916,
+      "name": "Nataliia Alekseieva",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095976,
+      "name": "James Jian-Hua Lin",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4618293,
+      "name": "Anggun Rustinya",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4096086,
+      "name": "Ashley N. Rubay",
+      "job": "Foley Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3290245,
+      "name": "Mònica Eggert Roig",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095955,
+      "name": "Lucia Guirado Rubio",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4618317,
+      "name": "Malachi Cohen",
+      "job": "Songs",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 4618300,
+      "name": "Yaegee Suhl",
+      "job": "Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4618321,
+      "name": "Malachiii",
+      "job": "Songs",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 4618875,
+      "name": "Thomas Johnson",
+      "job": "Matte Painter",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1265058,
+      "name": "Eric Favela",
+      "job": "Story Artist",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 3194358,
+      "name": "Jarelle Dampier",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/npoTUEiYLmGutr6uC2TKdz6nZj5.jpg"
+    },
+    {
+      "id": 2256272,
+      "name": "David Schulenburg",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1743063,
+      "name": "Michelle Raimo Kouyate",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/4P1eg0mhXPN8aDTqFuih0Cj0vSb.jpg"
+    },
+    {
+      "id": 4036656,
+      "name": "Joe Darko",
+      "job": "Animation Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4617864,
+      "name": "Clara Chan",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 4095797,
+      "name": "Patrick Cohen",
+      "job": "CG Supervisor",
+      "department": "Crew",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:45.077Z"
+}

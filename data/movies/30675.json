@@ -1,0 +1,642 @@
+{
+  "id": 30675,
+  "title": "Planet Hulk",
+  "year": 2010,
+  "release_date": "2010-02-02",
+  "poster_path": "/5wCzY3sAs6zHIzzHIcTKN2g0pu8.jpg",
+  "overview": "When the Hulk's presence on Earth becomes too great a risk, the Illuminati trick him to board a shuttle destined for a planet where he will be able to live in peace, and launch it into space. The Hulk's struggle to escape causes the shuttle to malfunction and crash land on the planet Sakaar, however, where he is sold into slavery and trained as a gladiator.",
+  "runtime": 81,
+  "genres": [
+    "Science Fiction",
+    "Animation",
+    "Action"
+  ],
+  "cast": [
+    {
+      "id": 106774,
+      "name": "Rick D. Wasserman",
+      "character": "Hulk (voice)",
+      "order": 0,
+      "profile_path": "/nopjtbzgBB97uD9V3sDjRTi8rBP.jpg"
+    },
+    {
+      "id": 89545,
+      "name": "Lisa Ann Beley",
+      "character": "Caiera (voice)",
+      "order": 1,
+      "profile_path": "/5Lz5k8JKoCE4NFK82gMOlMx6cK2.jpg"
+    },
+    {
+      "id": 59311,
+      "name": "Mark Hildreth",
+      "character": "Red King (voice)",
+      "order": 2,
+      "profile_path": "/pHkXbCjIPbUSeOZLV3z6dnj8WVB.jpg"
+    },
+    {
+      "id": 89966,
+      "name": "Liam O'Brien",
+      "character": "Hiroim (voice)",
+      "order": 3,
+      "profile_path": "/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    },
+    {
+      "id": 24362,
+      "name": "Kevin Michael Richardson",
+      "character": "Korg (voice)",
+      "order": 4,
+      "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "id": 106776,
+      "name": "Sam Vincent",
+      "character": "Miek (voice)",
+      "order": 5,
+      "profile_path": "/eJadsFcztqQZQIKzL5cMyasi1oa.jpg"
+    },
+    {
+      "id": 106777,
+      "name": "Advah Soudack",
+      "character": "Elloe Kaifi (voice)",
+      "order": 6,
+      "profile_path": "/wY9wZdQ6a3kTA0CnNGjDEEcDHrD.jpg"
+    },
+    {
+      "id": 583061,
+      "name": "Michael Kopsa",
+      "character": "Lavin Skee (voice)",
+      "order": 7,
+      "profile_path": "/eGoaXyQMd9mfAkhc6PqMhFxef5m.jpg"
+    },
+    {
+      "id": 52283,
+      "name": "Paul Dobson",
+      "character": "Beta Ray Bill (voice)",
+      "order": 8,
+      "profile_path": "/huQqiIHgnswYR9x5V1e46FTYfSI.jpg"
+    },
+    {
+      "id": 31536,
+      "name": "Marc Worden",
+      "character": "Iron Man (voice)",
+      "order": 9,
+      "profile_path": "/d91IoBbnS5HX2I8lzGosvc39PgS.jpg"
+    },
+    {
+      "id": 74359,
+      "name": "Lee Tockar",
+      "character": "Android (voice)",
+      "order": 10,
+      "profile_path": "/eloBMEfs9q0ypUzXueVg5qe4CJe.jpg"
+    },
+    {
+      "id": 172776,
+      "name": "Russell Roberts",
+      "character": "Primus Vand (voice)",
+      "order": 11,
+      "profile_path": "/2ABWQGor0siDRrX0XQooqipoZi.jpg"
+    },
+    {
+      "id": 3343526,
+      "name": "Donald Adams",
+      "character": "Governor Churik (voice)",
+      "order": 12,
+      "profile_path": null
+    },
+    {
+      "id": 27138,
+      "name": "Doug Abrahams",
+      "character": "(voice)",
+      "order": 13,
+      "profile_path": "/u4M8YZGbZdJfqTttOGNDiVRa0MP.jpg"
+    },
+    {
+      "id": 84490,
+      "name": "David Kaye",
+      "character": "(voice)",
+      "order": 14,
+      "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "id": 126224,
+      "name": "Ellen Kennedy",
+      "character": "(voice)",
+      "order": 15,
+      "profile_path": "/GMbnND7ZOi7J9Dnk2hVI3Rqzlc.jpg"
+    },
+    {
+      "id": 158356,
+      "name": "Campbell Lane",
+      "character": "(voice)",
+      "order": 16,
+      "profile_path": "/qK8GdBBGLnVZf1TKD7Sghq1gc0H.jpg"
+    },
+    {
+      "id": 85431,
+      "name": "Chantal Strand",
+      "character": "(voice)",
+      "order": 17,
+      "profile_path": "/4YAzGdCDiLPS7Imz2D0MF1AGnI5.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 90367,
+      "name": "Sam Liu",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg"
+    },
+    {
+      "id": 1215939,
+      "name": "Greg Johnson",
+      "job": "Screenstory",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1215939,
+      "name": "Greg Johnson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 3343532,
+      "name": "Fred Reyes",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1405233,
+      "name": "Pamela Kahn",
+      "job": "Foley Artist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343542,
+      "name": "Steve Ingram",
+      "job": "Additional Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 3343543,
+      "name": "Jonathan Polk",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 3343516,
+      "name": "Rachel James",
+      "job": "Orchestrator",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343552,
+      "name": "Adam Nunez",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3243237,
+      "name": "Carlo Pagulayan",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 87173,
+      "name": "Craig Kyle",
+      "job": "Screenstory",
+      "department": "Writing",
+      "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg"
+    },
+    {
+      "id": 1242435,
+      "name": "Patrick Archibald",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1357061,
+      "name": "Tim Walston",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3327829,
+      "name": "Fedja Jovanovic",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3343554,
+      "name": "Kristina Star",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 105642,
+      "name": "Rick Morales",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/qmzubkG4gb89WeFelMpa1VKvjfs.jpg"
+    },
+    {
+      "id": 1812134,
+      "name": "Nancy Parker",
+      "job": "Foley Artist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1396864,
+      "name": "Mark Ryan",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343535,
+      "name": "Aldo Martinez",
+      "job": "Assistant Sound Engineer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1534549,
+      "name": "Joel Moser",
+      "job": "Additional Visual Effects",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 87169,
+      "name": "Steven E. Gordon",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": "/5Y2YSf1atpDVFsgGFRDKqsONRVV.jpg"
+    },
+    {
+      "id": 1214725,
+      "name": "Gary Hartle",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1260274,
+      "name": "Carrie Wassenaar",
+      "job": "Line Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 142570,
+      "name": "Guy Michelmore",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 74863,
+      "name": "Lauren Montgomery",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": "/tKq2IYbMr5pHrWMS99fCXQbVlrt.jpg"
+    },
+    {
+      "id": 1959905,
+      "name": "Adam Van Wyk",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1408867,
+      "name": "Mike Draghi",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 91014,
+      "name": "Terry Reiff",
+      "job": "Dialogue Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2685741,
+      "name": "Matthew Bordenave",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 107629,
+      "name": "Greg Pak",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": "/yHrisoyyYJh9y3DCQBcnkr7gXym.jpg"
+    },
+    {
+      "id": 1408867,
+      "name": "Mike Draghi",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1448299,
+      "name": "Thomas D. Moser",
+      "job": "3D Modeller",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3343551,
+      "name": "Amy Le Vay",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1009838,
+      "name": "George Rizkallah",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1172887,
+      "name": "Cory Gustke",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1943094,
+      "name": "Derek Simpson",
+      "job": "Sound Engineer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343539,
+      "name": "Lucas Ribeiro Fernandes",
+      "job": "Opening Title Sequence",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 43094,
+      "name": "Ken Katsumoto",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 3343541,
+      "name": "Stephen Nicodemus",
+      "job": "Lead Painter",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2689250,
+      "name": "David Ari Leon",
+      "job": "Music Supervisor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1448299,
+      "name": "Thomas D. Moser",
+      "job": "Visual Effects",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1970998,
+      "name": "Kirk Tingblad",
+      "job": "Animation Director",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1213648,
+      "name": "Joshua Fine",
+      "job": "Supervising Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2685739,
+      "name": "Bret Johns",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343536,
+      "name": "Nickolas Meade",
+      "job": "Foley Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343550,
+      "name": "Matthew Jung",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 87173,
+      "name": "Craig Kyle",
+      "job": "Supervising Producer",
+      "department": "Production",
+      "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg"
+    },
+    {
+      "id": 1640689,
+      "name": "Phillip Norwood",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1437315,
+      "name": "Kyle Clausen",
+      "job": "Foley Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343509,
+      "name": "Derek Seaborn",
+      "job": "Sound Engineer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2104085,
+      "name": "Phil Bourassa",
+      "job": "Character Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3343547,
+      "name": "Joseph Cervenka",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1213648,
+      "name": "Joshua Fine",
+      "job": "Screenstory",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 69664,
+      "name": "Eric S. Rollman",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 3343533,
+      "name": "Craig Wilson",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1085297,
+      "name": "Kyle Billingsley",
+      "job": "Foley Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3327886,
+      "name": "Eric Lewis",
+      "job": "ADR Recordist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2766163,
+      "name": "Zachary C. Ross",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 3343544,
+      "name": "Leonardo Alannis",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3343549,
+      "name": "Maeve Currin",
+      "job": "Production Intern",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 35268,
+      "name": "Frank Paur",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1052082,
+      "name": "Jamie Simone",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1316466,
+      "name": "Vinton Heuck",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": "/n25Co5AV7xUbr2dBw6wXgr0aUXK.jpg"
+    },
+    {
+      "id": 3327841,
+      "name": "James Peters",
+      "job": "Colorist",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 124279,
+      "name": "Brandon Vietti",
+      "job": "Additional Storyboarding",
+      "department": "Art",
+      "profile_path": "/3aQCKuGIGzs7yJiD3z12EatL7P8.jpg"
+    },
+    {
+      "id": 3343555,
+      "name": "Adam Tootla",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2145873,
+      "name": "Jan Holzner",
+      "job": "Score Engineer",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2262751,
+      "name": "Kalia Cheng",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:15.820Z"
+}

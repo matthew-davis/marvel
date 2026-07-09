@@ -1,0 +1,965 @@
+{
+  "id": 13995,
+  "title": "Captain America",
+  "year": 1990,
+  "release_date": "1990-12-14",
+  "poster_path": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
+  "overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
+  "runtime": 97,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "War"
+  ],
+  "cast": [
+    {
+      "id": 76234,
+      "name": "Matt Salinger",
+      "character": "Steve Rogers / Captain America",
+      "order": 0,
+      "profile_path": "/6XekW5u9FAKKkEMiWmsyxCNcoXm.jpg"
+    },
+    {
+      "id": 780,
+      "name": "Ronny Cox",
+      "character": "Tom Kimball",
+      "order": 1,
+      "profile_path": "/cKkVkqft2RacSDhsKxO8nMFgeAd.jpg"
+    },
+    {
+      "id": 13726,
+      "name": "Ned Beatty",
+      "character": "Sam Kolawetz",
+      "order": 2,
+      "profile_path": "/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+    },
+    {
+      "id": 7333,
+      "name": "Darren McGavin",
+      "character": "General Fleming",
+      "order": 3,
+      "profile_path": "/xD9rZ6SLGPVs6QHjart68QhjVTt.jpg"
+    },
+    {
+      "id": 8699,
+      "name": "Michael Nouri",
+      "character": "Lt. Colonel Louis",
+      "order": 4,
+      "profile_path": "/cbrDZMRb7DRsiVcuoU0VDbLL6qj.jpg"
+    },
+    {
+      "id": 48810,
+      "name": "Scott Paulin",
+      "character": "The Red Skull / Army Doctor",
+      "order": 5,
+      "profile_path": "/cGSy2R21wL02JzTbEQl4DxyMDNZ.jpg"
+    },
+    {
+      "id": 76235,
+      "name": "Kim Gillingham",
+      "character": "Bernice Stewart / Sharon",
+      "order": 6,
+      "profile_path": "/r7Palfscdt6ob1UVTs4qJOwBkEZ.jpg"
+    },
+    {
+      "id": 4778,
+      "name": "Melinda Dillon",
+      "character": "Mrs. Rogers",
+      "order": 7,
+      "profile_path": "/3ZExGr8OpI6s9ON1FPbSdxQGmcp.jpg"
+    },
+    {
+      "id": 49357,
+      "name": "Bill Mumy",
+      "character": "Young General Fleming",
+      "order": 8,
+      "profile_path": "/pxjz9MOh1PMGV2SYu2hw7cmpO9e.jpg"
+    },
+    {
+      "id": 3809,
+      "name": "Francesca Neri",
+      "character": "Valentina de Santis",
+      "order": 9,
+      "profile_path": "/1aDT4mtTdnp6xh60NnjUXI62Poy.jpg"
+    },
+    {
+      "id": 76236,
+      "name": "Carla Cassola",
+      "character": "Dr. Maria Vaselli",
+      "order": 10,
+      "profile_path": "/mzx7jVIzGOVQUVxXdvq9NVHQloS.jpg"
+    },
+    {
+      "id": 76237,
+      "name": "Massimilio Massimi",
+      "character": "Tadzio de Santis",
+      "order": 11,
+      "profile_path": null
+    },
+    {
+      "id": 76238,
+      "name": "Wayde Preston",
+      "character": "Jack",
+      "order": 12,
+      "profile_path": "/pefnI6YemIhOQ9FFGN66acmknbh.jpg"
+    },
+    {
+      "id": 6701,
+      "name": "Norbert Weisser",
+      "character": "Alaskan Surveyor",
+      "order": 13,
+      "profile_path": "/A2QeLaigXmj1dtJHVLl27N8qNFd.jpg"
+    },
+    {
+      "id": 76239,
+      "name": "Garette Ratliff Henson",
+      "character": "Young Tom Kimball",
+      "order": 14,
+      "profile_path": "/J9R9AU4rAPq9lhOpWdf9uemJuG.jpg"
+    },
+    {
+      "id": 1301977,
+      "name": "Bernarda Oman",
+      "character": "Tadzio's Mother",
+      "order": 15,
+      "profile_path": "/roVdDnOMaPSodH41aH5Ww3jRtVv.jpg"
+    },
+    {
+      "id": 1156167,
+      "name": "Tonko Lonza",
+      "character": "Tadzio's Mentor",
+      "order": 16,
+      "profile_path": null
+    },
+    {
+      "id": 1473557,
+      "name": "Galiano Pahor",
+      "character": "Facist General",
+      "order": 17,
+      "profile_path": null
+    },
+    {
+      "id": 4864763,
+      "name": "Milan Kristofic",
+      "character": "Nazi General #1",
+      "order": 18,
+      "profile_path": null
+    },
+    {
+      "id": 1181117,
+      "name": "Antun Nalis",
+      "character": "Old Repairman",
+      "order": 19,
+      "profile_path": "/5pyc3OyEkXamd8wTyLla9oRGxnb.jpg"
+    },
+    {
+      "id": 1550016,
+      "name": "Mario Kovač",
+      "character": "Repairman as a Boy",
+      "order": 20,
+      "profile_path": "/AwofxunpcJ0Mja4xrJUowSxq8o7.jpg"
+    },
+    {
+      "id": 1579672,
+      "name": "Zoran Pokupec",
+      "character": "Implant Doctor",
+      "order": 21,
+      "profile_path": null
+    },
+    {
+      "id": 4864764,
+      "name": "Catherine Farrell",
+      "character": "Roz",
+      "order": 22,
+      "profile_path": null
+    },
+    {
+      "id": 569948,
+      "name": "Mia Begović",
+      "character": "Young Italian Woman",
+      "order": 23,
+      "profile_path": null
+    },
+    {
+      "id": 1156502,
+      "name": "Matko Raguž",
+      "character": "Italian Woman's Husband",
+      "order": 24,
+      "profile_path": null
+    },
+    {
+      "id": 185406,
+      "name": "Donald Standen",
+      "character": "Red Skull's Bodyguard",
+      "order": 25,
+      "profile_path": "/zy2kIP00ZrnSCm0dV6sJ8NOTHCf.jpg"
+    },
+    {
+      "id": 4864766,
+      "name": "Dragana Zigic",
+      "character": "Perfect Young Italian",
+      "order": 26,
+      "profile_path": null
+    },
+    {
+      "id": 4864769,
+      "name": "Judranka Katusa",
+      "character": "Perfect Young Italian",
+      "order": 27,
+      "profile_path": null
+    },
+    {
+      "id": 1203706,
+      "name": "Raffaele Buranelli",
+      "character": "Perfect Young Italian",
+      "order": 28,
+      "profile_path": "/5D71NJ8xQitGRx4YJ2DvQqVPIYI.jpg"
+    },
+    {
+      "id": 106638,
+      "name": "Robert Egon",
+      "character": "Perfect Young Italian",
+      "order": 29,
+      "profile_path": null
+    },
+    {
+      "id": 1470073,
+      "name": "Igor Serdar",
+      "character": "Perfect Young Italian",
+      "order": 30,
+      "profile_path": null
+    },
+    {
+      "id": 161597,
+      "name": "Gary Epper",
+      "character": "Mr. Erlich",
+      "order": 31,
+      "profile_path": "/6Jp2FF14bmoLdg4JdGuHyY1lRpW.jpg"
+    },
+    {
+      "id": 4864778,
+      "name": "Sonja Gregus",
+      "character": "Resistance Fighter",
+      "order": 32,
+      "profile_path": null
+    },
+    {
+      "id": 1008309,
+      "name": "Rene Medvešek",
+      "character": "Resistance Fighter",
+      "order": 33,
+      "profile_path": "/l7xYyv03CVSSxnOOeUnagwXiTFo.jpg"
+    },
+    {
+      "id": 584933,
+      "name": "Demeter Bitenc",
+      "character": "Industrialist",
+      "order": 34,
+      "profile_path": null
+    },
+    {
+      "id": 1046833,
+      "name": "Relja Bašić",
+      "character": "Industrialist",
+      "order": 35,
+      "profile_path": "/32xXPLgDeDgODlrLS5fbcNIQzIl.jpg"
+    },
+    {
+      "id": 1496318,
+      "name": "Velimir Chytil",
+      "character": "Industrialist",
+      "order": 36,
+      "profile_path": null
+    },
+    {
+      "id": 4864784,
+      "name": "Drago Klobucar",
+      "character": "Industrialist",
+      "order": 37,
+      "profile_path": null
+    },
+    {
+      "id": 1525401,
+      "name": "Gordan Piculjan",
+      "character": "Industrialist",
+      "order": 38,
+      "profile_path": null
+    },
+    {
+      "id": 3198071,
+      "name": "Frank Papia",
+      "character": "Paramedic",
+      "order": 39,
+      "profile_path": null
+    },
+    {
+      "id": 1284954,
+      "name": "Thomas Beatty",
+      "character": "Young Sam Kolawetz",
+      "order": 40,
+      "profile_path": null
+    },
+    {
+      "id": 4864791,
+      "name": "Jon Beatty",
+      "character": "War Veteran",
+      "order": 41,
+      "profile_path": null
+    },
+    {
+      "id": 1406970,
+      "name": "Ann Bell",
+      "character": "Tom Kimball's Mother",
+      "order": 42,
+      "profile_path": null
+    },
+    {
+      "id": 75334,
+      "name": "Jann Carl",
+      "character": "Newscaster",
+      "order": 43,
+      "profile_path": "/ffpmDOBkvYXa8ehv0ifaRfLkjSn.jpg"
+    },
+    {
+      "id": 4864792,
+      "name": "Gerda Shepherd",
+      "character": "Jack's Nurse",
+      "order": 44,
+      "profile_path": null
+    },
+    {
+      "id": 1812181,
+      "name": "Beth Ann Bowen",
+      "character": "Girl at Beach",
+      "order": 45,
+      "profile_path": null
+    },
+    {
+      "id": 2885279,
+      "name": "Christopher Whitney",
+      "character": "Boy at Beach",
+      "order": 46,
+      "profile_path": null
+    },
+    {
+      "id": 87013,
+      "name": "Mustafa Nadarević",
+      "character": "Tadzio's Father",
+      "order": 47,
+      "profile_path": "/xZMFVOJNbNcnsB2ApSy3hLKOrAj.jpg"
+    },
+    {
+      "id": 1980240,
+      "name": "Edita Lipovšek",
+      "character": "Tadzio's Aunt",
+      "order": 48,
+      "profile_path": null
+    },
+    {
+      "id": 4864794,
+      "name": "Ljubica Dujmovic",
+      "character": "Tadzio's Grandmother",
+      "order": 49,
+      "profile_path": null
+    },
+    {
+      "id": 4864795,
+      "name": "Aldo Galleazzi",
+      "character": "German Scientist",
+      "order": 50,
+      "profile_path": null
+    },
+    {
+      "id": 2566504,
+      "name": "Ljubomir Strgačić",
+      "character": "German Scientist",
+      "order": 51,
+      "profile_path": null
+    },
+    {
+      "id": 1880857,
+      "name": "Slavko Šestak",
+      "character": "German Scientist",
+      "order": 52,
+      "profile_path": null
+    },
+    {
+      "id": 4864797,
+      "name": "Petar Tomac",
+      "character": "Italian Vendor",
+      "order": 53,
+      "profile_path": null
+    },
+    {
+      "id": 4864798,
+      "name": "Bruno Grdadolnik",
+      "character": "Italian Vendor",
+      "order": 54,
+      "profile_path": null
+    },
+    {
+      "id": 1866202,
+      "name": "Giulio Marini",
+      "character": "Nazi General #2",
+      "order": 55,
+      "profile_path": null
+    },
+    {
+      "id": 4864800,
+      "name": "Fay Finver",
+      "character": "Lab Technician",
+      "order": 56,
+      "profile_path": null
+    },
+    {
+      "id": 4864801,
+      "name": "Frank Finver",
+      "character": "Lab Technician",
+      "order": 57,
+      "profile_path": null
+    },
+    {
+      "id": 4864802,
+      "name": "Peter Mulrean",
+      "character": "Lab Technician",
+      "order": 58,
+      "profile_path": null
+    },
+    {
+      "id": 4864803,
+      "name": "Trek Potter",
+      "character": "Boy Scout",
+      "order": 59,
+      "profile_path": null
+    },
+    {
+      "id": 4864804,
+      "name": "Sarah Wasson",
+      "character": "Little Girl",
+      "order": 60,
+      "profile_path": null
+    },
+    {
+      "id": 194679,
+      "name": "Scott Del Amo",
+      "character": "Tom Kimball's Father",
+      "order": 61,
+      "profile_path": null
+    },
+    {
+      "id": 4864805,
+      "name": "Robert Reitmeier",
+      "character": "Bandstand Musician",
+      "order": 62,
+      "profile_path": null
+    },
+    {
+      "id": 4864806,
+      "name": "John S. Reynolds",
+      "character": "Bandstand Musician",
+      "order": 63,
+      "profile_path": null
+    },
+    {
+      "id": 4864807,
+      "name": "Lee Westenhofer",
+      "character": "Bandstand Musician",
+      "order": 64,
+      "profile_path": null
+    },
+    {
+      "id": 1862460,
+      "name": "Mike Johnson",
+      "character": "Bandstand Musician",
+      "order": 65,
+      "profile_path": null
+    },
+    {
+      "id": 154748,
+      "name": "Jason Brooks",
+      "character": "Spa Man #1 (uncredited)",
+      "order": 66,
+      "profile_path": "/56jMhjMsKDZWZmyQjwRKfe2jmLU.jpg"
+    },
+    {
+      "id": 2280744,
+      "name": "Robert Hammond",
+      "character": "Nazi Soldier (uncredited)",
+      "order": 67,
+      "profile_path": null
+    },
+    {
+      "id": 1015385,
+      "name": "Sven Medvešek",
+      "character": "Pietro (uncredited)",
+      "order": 68,
+      "profile_path": "/e6X1tWxZWiWzQz2eqd6VYd2MxuI.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 18996,
+      "name": "Joe Simon",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/vpKAE3AMzsV0HG3M8LHaLziwf09.jpg"
+    },
+    {
+      "id": 76240,
+      "name": "Stephen Tolkin",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/uo0efRNUQGbKJSqNPOxs0uSJxiv.jpg"
+    },
+    {
+      "id": 63937,
+      "name": "Albert Pyun",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/fkoTtOlaaImNh5c8VZ1uNTtKfoR.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 9466,
+      "name": "Matt McColm",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/9SlVkQdWGURamicfGScV8BJNs2M.jpg"
+    },
+    {
+      "id": 113900,
+      "name": "Petar Buntić",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1820234,
+      "name": "Danny Wynands",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/wZLIy6s36pbPoV5OvKjuo6ImBlo.jpg"
+    },
+    {
+      "id": 1462675,
+      "name": "Pat Romano",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/woxz6mrLAWq7u22lSPSdvEFbEmy.jpg"
+    },
+    {
+      "id": 2148423,
+      "name": "Bob McGovern",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1367436,
+      "name": "Ignacio Carreño",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/jxsOrZMTaMkPRhBgINp072wpmkZ.jpg"
+    },
+    {
+      "id": 61690,
+      "name": "George Mooradian",
+      "job": "Additional Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 161597,
+      "name": "Gary Epper",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/6Jp2FF14bmoLdg4JdGuHyY1lRpW.jpg"
+    },
+    {
+      "id": 1099845,
+      "name": "Tom Elliott",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 33008,
+      "name": "Menahem Golan",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg"
+    },
+    {
+      "id": 169628,
+      "name": "Jeff Imada",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/sUNSaNQreSHYaJvKr0SfiBqMPDV.jpg"
+    },
+    {
+      "id": 91243,
+      "name": "Charlie Picerni",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/kRO5tGbhZOPnUH46keu01i5UYd.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 122106,
+      "name": "Gary McLarty",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/4xSAT88lbNV8BJHDOhXiFqpeZiD.jpg"
+    },
+    {
+      "id": 2378154,
+      "name": "Lawrence J. Block",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": "/piad34x6ybw9oxMNsmqh92iXszm.jpg"
+    },
+    {
+      "id": 76240,
+      "name": "Stephen Tolkin",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": "/uo0efRNUQGbKJSqNPOxs0uSJxiv.jpg"
+    },
+    {
+      "id": 1406970,
+      "name": "Ann Bell",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1099845,
+      "name": "Tom Elliott",
+      "job": "Second Unit Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 24962,
+      "name": "Teri Blythe",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1839583,
+      "name": "Vesna Kreber",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 2507275,
+      "name": "Rodney Allen Hooks",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 570130,
+      "name": "Aldo Tončić",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 10393,
+      "name": "Alan Baumgarten",
+      "job": "Additional Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 4864817,
+      "name": "Marc Goldman",
+      "job": "Additional Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 42131,
+      "name": "Jim Bedford",
+      "job": "Additional Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 3197885,
+      "name": "Sharon McNamara",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 4864808,
+      "name": "Anna Dunn",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 4864818,
+      "name": "Mirna Supek",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1754957,
+      "name": "Sydney Conrad Shapiro",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 4864814,
+      "name": "Cole McLarty",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 35971,
+      "name": "Michael Katleman",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": "/p6AJsa5dT8GIGVu068yDvIiQD7T.jpg"
+    },
+    {
+      "id": 1303325,
+      "name": "Zoran Sudar",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2494244,
+      "name": "Elizabeth Schmidt",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1553014,
+      "name": "Curtis Croeni",
+      "job": "First Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1341403,
+      "name": "Richard King",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": "/6gR9Q5Tj0LbGP3YQJegdKJvds4u.jpg"
+    },
+    {
+      "id": 69900,
+      "name": "Barry Goldberg",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 63939,
+      "name": "Philip Alan Waters",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1201858,
+      "name": "Heidi Kaczenski",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 15527,
+      "name": "Tony Martinez",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1545414,
+      "name": "A. Rosalind Crew",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 4844,
+      "name": "Tom Karnowski",
+      "job": "Line Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 10395,
+      "name": "Jon Poll",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/pFJizsdnopXmNziTPz5Lbj1se5r.jpg"
+    },
+    {
+      "id": 76240,
+      "name": "Stephen Tolkin",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": "/uo0efRNUQGbKJSqNPOxs0uSJxiv.jpg"
+    },
+    {
+      "id": 1599797,
+      "name": "Jolanda Buhin",
+      "job": "Key Hair Stylist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1599493,
+      "name": "Halid Redžebašić",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 50726,
+      "name": "Greg Cannom",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1545414,
+      "name": "A. Rosalind Crew",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 11374,
+      "name": "Marc Dabe",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 994637,
+      "name": "Joseph Calamari",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1920054,
+      "name": "Michael Steinfeld",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 24962,
+      "name": "Teri Blythe",
+      "job": "Key Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 15332,
+      "name": "Mark P. Stoeckinger",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": "/xUhfOhTK4yN5AfD3zkzRgtmFzGp.jpg"
+    },
+    {
+      "id": 1565156,
+      "name": "Ann Ducommun",
+      "job": "Assistant Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2082937,
+      "name": "Paul Berg",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2766777,
+      "name": "Keith Edmier",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1404892,
+      "name": "Mitch Devane",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1358075,
+      "name": "Nancy J. Hvasta Leonardi",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1567317,
+      "name": "Christopher Warren",
+      "job": "Visual Effects Production Assistant",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2052527,
+      "name": "Jan Brodin",
+      "job": "Sound Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 559319,
+      "name": "Douglas H. Leonard",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 960832,
+      "name": "Nenad Pečur",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1413509,
+      "name": "Gene Warren Jr.",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:02.747Z"
+}

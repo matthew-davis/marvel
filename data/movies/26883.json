@@ -1,0 +1,372 @@
+{
+  "id": 26883,
+  "title": "The Trial of the Incredible Hulk",
+  "year": 1989,
+  "release_date": "1989-05-07",
+  "poster_path": "/jaaeLvonWry3TdTXaGSu2VveNEG.jpg",
+  "overview": "Falsely accused of assault, Dr. David Banner is arrested and placed on trial, facing the possibility of a long prison sentence. Blind attorney Matt Murdock takes on his defence, while secretly operating as the vigilante Daredevil. As the courtroom battle unfolds, Banner’s struggle to control the Hulk leads to a dangerous confrontation with criminal mastermind Wilson Fisk.",
+  "runtime": 95,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama",
+    "Action",
+    "Science Fiction",
+    "TV Movie"
+  ],
+  "cast": [
+    {
+      "id": 19138,
+      "name": "Bill Bixby",
+      "character": "David Banner",
+      "order": 0,
+      "profile_path": "/eKcpqTutiVxQeAPbwupjSV5DXE.jpg"
+    },
+    {
+      "id": 19137,
+      "name": "Lou Ferrigno",
+      "character": "The Hulk",
+      "order": 1,
+      "profile_path": "/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg"
+    },
+    {
+      "id": 175628,
+      "name": "Marta DuBois",
+      "character": "Ellie Mendez",
+      "order": 2,
+      "profile_path": "/kUmj0ooPSyrEEVg7MMAYFkgrO6a.jpg"
+    },
+    {
+      "id": 64778,
+      "name": "Nancy Everhard",
+      "character": "Christa Klein",
+      "order": 3,
+      "profile_path": "/nnusgoUuzDD4vXfl2wmg6I7ebeF.jpg"
+    },
+    {
+      "id": 150213,
+      "name": "Nicholas Hormann",
+      "character": "Edgar",
+      "order": 4,
+      "profile_path": "/848yxKuL6S9ulnlpqLd7pAbgBR5.jpg"
+    },
+    {
+      "id": 58496,
+      "name": "Richard Cummings Jr.",
+      "character": "Al Pettiman",
+      "order": 5,
+      "profile_path": "/6WzxSJWNTQfkp02X63qsY5K9I6J.jpg"
+    },
+    {
+      "id": 6769,
+      "name": "Joseph Mascolo",
+      "character": "Albert G. Tendelli",
+      "order": 6,
+      "profile_path": "/emCWuicsILiYypNmkOU4BBeqJKZ.jpg"
+    },
+    {
+      "id": 655,
+      "name": "John Rhys-Davies",
+      "character": "Wilson Fisk",
+      "order": 7,
+      "profile_path": "/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "id": 87028,
+      "name": "Rex Smith",
+      "character": "Mat Murdock / Daredevil",
+      "order": 8,
+      "profile_path": "/xxwTepFwKpYkJeky40PuxMBcHDl.jpg"
+    },
+    {
+      "id": 64678,
+      "name": "Linda Darlow",
+      "character": "Fake Nurse",
+      "order": 9,
+      "profile_path": "/772LteU4MZU1hLIT4ZRBdAyUpq2.jpg"
+    },
+    {
+      "id": 37431,
+      "name": "John Novak",
+      "character": "Denny",
+      "order": 10,
+      "profile_path": "/xh8EyWCDggvZkyAlNGsTvH6KarE.jpg"
+    },
+    {
+      "id": 189679,
+      "name": "Dwight Koss",
+      "character": "John",
+      "order": 11,
+      "profile_path": "/lz3nWzntgq6xkNqpBsNuYy7QEPo.jpg"
+    },
+    {
+      "id": 1235581,
+      "name": "Meredith Bain Woodward",
+      "character": "Farm Supervisor",
+      "order": 12,
+      "profile_path": "/pZr48wiftmPQsNnNaEXVbduhpAK.jpg"
+    },
+    {
+      "id": 32751,
+      "name": "Mark Acheson",
+      "character": "Turk",
+      "order": 13,
+      "profile_path": "/gY6VEIa7BoLjzMCaO3slSnocuah.jpg"
+    },
+    {
+      "id": 46995,
+      "name": "Richard Newman",
+      "character": "Apartment Owner",
+      "order": 14,
+      "profile_path": "/t7fBQZH581NgM1DCQYPEqzkqZ3D.jpg"
+    },
+    {
+      "id": 16562,
+      "name": "Don MacKay",
+      "character": "Judge",
+      "order": 15,
+      "profile_path": null
+    },
+    {
+      "id": 27138,
+      "name": "Doug Abrahams",
+      "character": "Trial Prosecutor",
+      "order": 16,
+      "profile_path": "/u4M8YZGbZdJfqTttOGNDiVRa0MP.jpg"
+    },
+    {
+      "id": 1182649,
+      "name": "Mitchell Kosterman",
+      "character": "Henchman",
+      "order": 17,
+      "profile_path": "/p51PutuetrahDVYaQRmdVyPVgQ2.jpg"
+    },
+    {
+      "id": 87737,
+      "name": "Beatrice Zeilinger",
+      "character": "Henchwoman",
+      "order": 18,
+      "profile_path": "/uXASYYMczrmktpe3sVlHeDT6Qdd.jpg"
+    },
+    {
+      "id": 106789,
+      "name": "Ken Camroux-Taylor",
+      "character": "Crime Boss #1",
+      "order": 19,
+      "profile_path": "/nZzftcT77lqVCevGprQirn1BFYw.jpg"
+    },
+    {
+      "id": 105791,
+      "name": "Charles Andre",
+      "character": "Trial Policeman #1",
+      "order": 20,
+      "profile_path": "/ehfEA8Lth54VM5fwZeYdbRx2d9f.jpg"
+    },
+    {
+      "id": 1237724,
+      "name": "John 'Bear' Curtis",
+      "character": "Crime Boss #2",
+      "order": 21,
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "character": "Jury Foreman (uncredited)",
+      "order": 22,
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 46086,
+      "name": "Gerald Di Pego",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 19138,
+      "name": "Bill Bixby",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/eKcpqTutiVxQeAPbwupjSV5DXE.jpg"
+    },
+    {
+      "id": 1235815,
+      "name": "Owen Walstrom",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/95b5hRbxXzQx7uDSwDmySwxBJZ8.jpg"
+    },
+    {
+      "id": 1619537,
+      "name": "Chuck Colwell",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 19138,
+      "name": "Bill Bixby",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/eKcpqTutiVxQeAPbwupjSV5DXE.jpg"
+    },
+    {
+      "id": 10857,
+      "name": "Eric Fraser",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1711572,
+      "name": "Kim MacKenzie",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1596886,
+      "name": "Lee Knippelberg",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1345971,
+      "name": "Richard Cowan",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 14540,
+      "name": "Douglas Higgins",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2041696,
+      "name": "Robert Ewing",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2032503,
+      "name": "Janet Ashikaga",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 2041695,
+      "name": "Hugh Spencer-Phillips",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1549293,
+      "name": "Judy Truchan",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 959524,
+      "name": "Lance Rubin",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2041695,
+      "name": "Hugh Spencer-Phillips",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Consulting Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 27160,
+      "name": "Jori Woodman",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 46086,
+      "name": "Gerald Di Pego",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2268407,
+      "name": "Curt Bonn",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2322953,
+      "name": "Edward J. Ulrich",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1397285,
+      "name": "Ben Derrick",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/dQm68d07LQ5stMAPexVawMh50zL.jpg"
+    },
+    {
+      "id": 1441665,
+      "name": "Mark Saks",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": "/j6ggawKfGMEEE2LJPgSEf6yFula.jpg"
+    },
+    {
+      "id": 959257,
+      "name": "Barbara Claman",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1422107,
+      "name": "Jim Dunn",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1676151,
+      "name": "Dan Redford",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/wvu3OvqWVmtebdVytsi545eDFMQ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:02.378Z"
+}

@@ -1,0 +1,307 @@
+{
+  "id": 197467,
+  "title": "Captain America",
+  "year": 1979,
+  "release_date": "1979-01-19",
+  "poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
+  "overview": "Artist Steve Rogers is nearly murdered by spies, seeking his late father's national secrets. He is saved during surgery via a secret formula; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
+  "runtime": 97,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction",
+    "TV Movie"
+  ],
+  "cast": [
+    {
+      "id": 61144,
+      "name": "Reb Brown",
+      "character": "Captain America / Steve Rogers",
+      "order": 0,
+      "profile_path": "/qffYtpWE8PmbTpLlEuhh2YUG7Gl.jpg"
+    },
+    {
+      "id": 136104,
+      "name": "Len Birman",
+      "character": "Dr. Simon Mills",
+      "order": 1,
+      "profile_path": "/7GuXOQXUVafIkW1goUMDfwGBov4.jpg"
+    },
+    {
+      "id": 92691,
+      "name": "Heather Menzies",
+      "character": "Dr. Wendy Day",
+      "order": 2,
+      "profile_path": "/dqvVyBGvfelVSSHR6azFAUn4Xfu.jpg"
+    },
+    {
+      "id": 106762,
+      "name": "Robin Mattson",
+      "character": "Tina Hayden",
+      "order": 3,
+      "profile_path": "/82Tgtz6ksKHoDWxYvTz3HjSbYbr.jpg"
+    },
+    {
+      "id": 15998,
+      "name": "Joseph Ruskin",
+      "character": "Rudy Sandrini",
+      "order": 4,
+      "profile_path": "/CmELizKF9uR62w5zhiB5Gl65RV.jpg"
+    },
+    {
+      "id": 119776,
+      "name": "Lance LeGault",
+      "character": "Harley",
+      "order": 5,
+      "profile_path": "/dQOCLWXsB1VKFtg4TZqC9QCxpLJ.jpg"
+    },
+    {
+      "id": 1219270,
+      "name": "Frank Marth",
+      "character": "Charles Barber",
+      "order": 6,
+      "profile_path": null
+    },
+    {
+      "id": 44998,
+      "name": "Steve Forrest",
+      "character": "Lou Brackett",
+      "order": 7,
+      "profile_path": "/gIAQMiYS5n9ULS7D363kJvStqlR.jpg"
+    },
+    {
+      "id": 159135,
+      "name": "Harry Johnson",
+      "character": "Jerry",
+      "order": 8,
+      "profile_path": "/oQbzBnu9ScnPfEJfo2kYnL1VScQ.jpg"
+    },
+    {
+      "id": 1542614,
+      "name": "James Ingersoll",
+      "character": "Lester Wiant",
+      "order": 9,
+      "profile_path": "/5A0vwHd04tf5ss9CNfDj4JI6sjG.jpg"
+    },
+    {
+      "id": 2642128,
+      "name": "Jim B. Smith",
+      "character": "F.B.I. Assistant",
+      "order": 10,
+      "profile_path": null
+    },
+    {
+      "id": 151529,
+      "name": "Jason Wingreen",
+      "character": "Surgeon",
+      "order": 11,
+      "profile_path": "/9fQvZAPmOd6p0GGLaP2NIjxWwUq.jpg"
+    },
+    {
+      "id": 161326,
+      "name": "June Dayton",
+      "character": "Secretary",
+      "order": 12,
+      "profile_path": "/znjsrAcSLaQvAkHJkcLB20wrWCO.jpg"
+    },
+    {
+      "id": 151731,
+      "name": "Diana Webster",
+      "character": "Nurse",
+      "order": 13,
+      "profile_path": null
+    },
+    {
+      "id": 160578,
+      "name": "Dan Barton",
+      "character": "Jeff Haden",
+      "order": 14,
+      "profile_path": "/3E5MUwWpI57fJs2I1qLBoYriNpY.jpg"
+    },
+    {
+      "id": 183027,
+      "name": "Ken Chandler",
+      "character": "1st Doctor",
+      "order": 15,
+      "profile_path": null
+    },
+    {
+      "id": 1216857,
+      "name": "Buster Jones",
+      "character": "Anesthetist",
+      "order": 16,
+      "profile_path": "/hbJs5xn6XZy1SVTAimmNnxqNrza.jpg"
+    },
+    {
+      "id": 3396644,
+      "name": "Nocana Aranda",
+      "character": "Throckmorton (uncredited)",
+      "order": 17,
+      "profile_path": null
+    },
+    {
+      "id": 10087,
+      "name": "Michael McManus",
+      "character": "Ortho (uncredited)",
+      "order": 18,
+      "profile_path": null
+    },
+    {
+      "id": 1612339,
+      "name": "Lonnie Pense",
+      "character": "Wino in Park (uncredited)",
+      "order": 19,
+      "profile_path": null
+    },
+    {
+      "id": 16563,
+      "name": "Charles A. Tamburro",
+      "character": "Helicopter Pilot (uncredited)",
+      "order": 20,
+      "profile_path": "/iCygZNkwUc2wSEIT58qUpiIkIC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 39460,
+      "name": "Rod Holcomb",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/64NC2XPSYsFpmpQxpXflAwMbOYk.jpg"
+    },
+    {
+      "id": 1822894,
+      "name": "Jean Coulter",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 74764,
+      "name": "Richard Reams",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 9554,
+      "name": "Bruce Paul Barbour",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/xuUULbtInXX3q3S2VF0lSbrGgwL.jpg"
+    },
+    {
+      "id": 3606095,
+      "name": "Louis Montejano",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1433924,
+      "name": "Charles Waldo",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2609141,
+      "name": "Tim Culbertson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1213146,
+      "name": "Allan Balter",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 1507136,
+      "name": "Chester Krumholz",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 45106,
+      "name": "Peter Carpenter",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 935631,
+      "name": "Mike Post",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 15773,
+      "name": "Don Ingalls",
+      "job": "Teleplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 18996,
+      "name": "Joe Simon",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/vpKAE3AMzsV0HG3M8LHaLziwf09.jpg"
+    },
+    {
+      "id": 175802,
+      "name": "Martin M. Goldstein",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1299591,
+      "name": "Michael S. Murphy",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 15773,
+      "name": "Don Ingalls",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Consulting Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 56223,
+      "name": "Ronald W. Browne",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 28912,
+      "name": "Joe Reich",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:41:59.976Z"
+}

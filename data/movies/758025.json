@@ -1,0 +1,124 @@
+{
+  "id": 758025,
+  "title": "Peter's To-Do List",
+  "year": 2019,
+  "release_date": "2019-09-17",
+  "poster_path": "/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg",
+  "overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
+  "runtime": 4,
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "cast": [
+    {
+      "id": 1136406,
+      "name": "Tom Holland",
+      "character": "Peter Parker / Spider-Man",
+      "order": 0,
+      "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "id": 1649152,
+      "name": "Jacob Batalon",
+      "character": "Ned Leeds",
+      "order": 1,
+      "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "id": 164208,
+      "name": "Hemky Madera",
+      "character": "Mr. Delmar",
+      "order": 2,
+      "profile_path": "/net1kEEpSrr9QC9be6YRhLGuM0k.jpg"
+    },
+    {
+      "id": 1291350,
+      "name": "Tony Revolori",
+      "character": "Eugene 'Flash' Thompson",
+      "order": 3,
+      "profile_path": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    },
+    {
+      "id": 2355285,
+      "name": "Tuwaine Barrett",
+      "character": "Police Officer",
+      "order": 4,
+      "profile_path": "/ljNqJkfo1bH21WF5JfQxHSqyapO.jpg"
+    },
+    {
+      "id": 2355287,
+      "name": "Kristen Alminta",
+      "character": "Police Officer",
+      "order": 5,
+      "profile_path": "/oraWOSaJPufdGa0TzEAfGOzyGvS.jpg"
+    },
+    {
+      "id": 2355250,
+      "name": "Brendan Murphy",
+      "character": "Police Officer",
+      "order": 6,
+      "profile_path": "/610WzE4EjTcAZ2vN3LB6GQwIjPP.jpg"
+    },
+    {
+      "id": 1265629,
+      "name": "Angourie Rice",
+      "character": "Betty Brant",
+      "order": 7,
+      "profile_path": "/iHZzyhvIYW9CSsMSLnxm9FsJohL.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 1293994,
+      "name": "Jon Watts",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/l0t4YtvyRAj35R5hoIp8cs8maCr.jpg"
+    },
+    {
+      "id": 1425616,
+      "name": "Amy Pascal",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 1246890,
+      "name": "Chris McKenna",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/2yzbdhnpLdJg8NIh4SWqy6wGbZV.jpg"
+    },
+    {
+      "id": 1350918,
+      "name": "Erik Sommers",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 7625,
+      "name": "Steve Ditko",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:38.372Z"
+}

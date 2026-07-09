@@ -1,0 +1,1006 @@
+{
+  "id": 8867,
+  "title": "The Punisher",
+  "year": 1989,
+  "release_date": "1989-10-05",
+  "poster_path": "/tA0O0hYyHX7Hl2Fl8VEtGtfBtjI.jpg",
+  "overview": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
+  "runtime": 89,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "cast": [
+    {
+      "id": 16644,
+      "name": "Dolph Lundgren",
+      "character": "Frank Castle",
+      "order": 0,
+      "profile_path": "/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "id": 20959,
+      "name": "Louis Gossett Jr.",
+      "character": "Jake Berkowitz",
+      "order": 1,
+      "profile_path": "/gNdTmckVFDz5M9k9zMiwCFb2cl9.jpg"
+    },
+    {
+      "id": 1924,
+      "name": "Jeroen Krabbé",
+      "character": "Gianni Franco",
+      "order": 2,
+      "profile_path": "/r26lZKUeLIaUt8DMotm4mdc4EaY.jpg"
+    },
+    {
+      "id": 56182,
+      "name": "Kim Miyori",
+      "character": "Lady Tanaka",
+      "order": 3,
+      "profile_path": "/9ObH7PKyl3DsnWABHUF1rZUCOS8.jpg"
+    },
+    {
+      "id": 76184,
+      "name": "Bryan Marshall",
+      "character": "Dino Moretti",
+      "order": 4,
+      "profile_path": "/7g6rBCW7N49J9wwuFxoUr3KSeFk.jpg"
+    },
+    {
+      "id": 64778,
+      "name": "Nancy Everhard",
+      "character": "Sam Leary",
+      "order": 5,
+      "profile_path": "/nnusgoUuzDD4vXfl2wmg6I7ebeF.jpg"
+    },
+    {
+      "id": 150536,
+      "name": "Barry Otto",
+      "character": "Shake",
+      "order": 6,
+      "profile_path": "/mj26EPgD1Yi5VA9N1T5Jpln57Ju.jpg"
+    },
+    {
+      "id": 214545,
+      "name": "Brian Rooney",
+      "character": "Tommy Franco",
+      "order": 7,
+      "profile_path": "/bOcNWQJKXwzdlvW3BwLwu7cMWUP.jpg"
+    },
+    {
+      "id": 1026588,
+      "name": "Zoshka Mizak",
+      "character": "Tanaka's Daughter",
+      "order": 8,
+      "profile_path": "/wjoo0zv3jf4OiHeCP9wSJ1s7y4u.jpg"
+    },
+    {
+      "id": 1086329,
+      "name": "Kenji Yamaki",
+      "character": "Sato",
+      "order": 9,
+      "profile_path": "/dkf8woUjDnOb9m9Q3e0OxJEqUgl.jpg"
+    },
+    {
+      "id": 1086330,
+      "name": "Hirofumi Kanayama",
+      "character": "Tomio",
+      "order": 10,
+      "profile_path": null
+    },
+    {
+      "id": 157303,
+      "name": "Larry McCormick",
+      "character": "TV Newsreader",
+      "order": 11,
+      "profile_path": "/12mmY3wVA0v7wlifrYhTXQho7l9.jpg"
+    },
+    {
+      "id": 17354,
+      "name": "Todd Boyce",
+      "character": "Tarrone",
+      "order": 12,
+      "profile_path": "/kM5syx6Xry0q23Dh1MP3NBJLKvr.jpg"
+    },
+    {
+      "id": 29480,
+      "name": "Lani John Tupu",
+      "character": "Laccone",
+      "order": 13,
+      "profile_path": "/qeYfpXFFTqbHTPiykB5UPpPmobj.jpg"
+    },
+    {
+      "id": 1086335,
+      "name": "Gianfranco Negroponte",
+      "character": "Musso",
+      "order": 14,
+      "profile_path": null
+    },
+    {
+      "id": 1322628,
+      "name": "Noga Bernstein",
+      "character": "Ginny",
+      "order": 15,
+      "profile_path": null
+    },
+    {
+      "id": 4863720,
+      "name": "Emma Soloman",
+      "character": "Ginny's Girlfriend",
+      "order": 16,
+      "profile_path": null
+    },
+    {
+      "id": 4863725,
+      "name": "Courtney Keiler",
+      "character": "Sophia",
+      "order": 17,
+      "profile_path": null
+    },
+    {
+      "id": 4082631,
+      "name": "Emily Nicol",
+      "character": "Cathy",
+      "order": 18,
+      "profile_path": null
+    },
+    {
+      "id": 4863731,
+      "name": "Cathy Stirk",
+      "character": "Caterina",
+      "order": 19,
+      "profile_path": null
+    },
+    {
+      "id": 4863733,
+      "name": "Dominic Baudish",
+      "character": "Dominic",
+      "order": 20,
+      "profile_path": null
+    },
+    {
+      "id": 4863735,
+      "name": "Robert Fraser",
+      "character": "Robert",
+      "order": 21,
+      "profile_path": null
+    },
+    {
+      "id": 3080981,
+      "name": "James Klein",
+      "character": "Nicholas",
+      "order": 22,
+      "profile_path": null
+    },
+    {
+      "id": 3455584,
+      "name": "Fotis Pelekis",
+      "character": "Mario",
+      "order": 23,
+      "profile_path": null
+    },
+    {
+      "id": 1451740,
+      "name": "Christian Manon",
+      "character": "French Leader",
+      "order": 24,
+      "profile_path": "/8Q2frzg8EQQEVqebV0GLZO7vDcp.jpg"
+    },
+    {
+      "id": 4863737,
+      "name": "Colin Leong",
+      "character": "Cutter Captain",
+      "order": 25,
+      "profile_path": null
+    },
+    {
+      "id": 156321,
+      "name": "Brian McDermott",
+      "character": "O'Banion",
+      "order": 26,
+      "profile_path": "/mn2AXfNi3o3pt1Qf8aCaDI6MSzs.jpg"
+    },
+    {
+      "id": 220488,
+      "name": "May Lloyd",
+      "character": "Julie Castle",
+      "order": 27,
+      "profile_path": "/cOpTy5NzGpyotPqiKxGo7n4LWbO.jpg"
+    },
+    {
+      "id": 4863741,
+      "name": "Holly Rogers",
+      "character": "Felice Castle",
+      "order": 28,
+      "profile_path": null
+    },
+    {
+      "id": 205366,
+      "name": "Brooke Anderson",
+      "character": "Annie Castle",
+      "order": 29,
+      "profile_path": "/rLlFfXkpPHczXiqBBXNIHCEiLcF.jpg"
+    },
+    {
+      "id": 1972135,
+      "name": "Lois Larimore",
+      "character": "Nanny",
+      "order": 30,
+      "profile_path": "/2GyvWmvThiZXRS7TAtRznN5Wabr.jpg"
+    },
+    {
+      "id": 2530580,
+      "name": "Harry Weiss",
+      "character": "Maitre d'",
+      "order": 31,
+      "profile_path": null
+    },
+    {
+      "id": 1550980,
+      "name": "John Samaha",
+      "character": "Elevator Repairman",
+      "order": 32,
+      "profile_path": "/ndAxQ2a0OOsczVZwYn1quJPWnV7.jpg"
+    },
+    {
+      "id": 26753,
+      "name": "Robert Simper",
+      "character": "Danny",
+      "order": 33,
+      "profile_path": null
+    },
+    {
+      "id": 1153741,
+      "name": "Johnny Raaen",
+      "character": "Joey",
+      "order": 34,
+      "profile_path": null
+    },
+    {
+      "id": 75715,
+      "name": "Lawrence Woodward",
+      "character": "Mickey",
+      "order": 35,
+      "profile_path": null
+    },
+    {
+      "id": 1530795,
+      "name": "Tom Coltraine",
+      "character": "Peeing Man",
+      "order": 36,
+      "profile_path": null
+    },
+    {
+      "id": 110315,
+      "name": "Donal Gibson",
+      "character": "Bill",
+      "order": 37,
+      "profile_path": "/wSOxeGfjLtma9sBp3B71renm19c.jpg"
+    },
+    {
+      "id": 3460683,
+      "name": "David Arnett",
+      "character": "Joe",
+      "order": 38,
+      "profile_path": null
+    },
+    {
+      "id": 5385927,
+      "name": "Brett Williams",
+      "character": "Tim",
+      "order": 39,
+      "profile_path": null
+    },
+    {
+      "id": 4863753,
+      "name": "Al Gockimen",
+      "character": "Hood",
+      "order": 40,
+      "profile_path": null
+    },
+    {
+      "id": 3019789,
+      "name": "Colin Handley",
+      "character": "Mafia Man",
+      "order": 41,
+      "profile_path": null
+    },
+    {
+      "id": 4863757,
+      "name": "Isao Hirata",
+      "character": "Ito",
+      "order": 42,
+      "profile_path": null
+    },
+    {
+      "id": 1120634,
+      "name": "Ken Wayne",
+      "character": "Bartender",
+      "order": 43,
+      "profile_path": "/p3wrLRNfUP7BuL1QxCPy0f1BgHO.jpg"
+    },
+    {
+      "id": 3763466,
+      "name": "David Morris",
+      "character": "Man in Bar",
+      "order": 44,
+      "profile_path": null
+    },
+    {
+      "id": 44838,
+      "name": "Richard Carter",
+      "character": "Cop",
+      "order": 45,
+      "profile_path": "/2TxGLBCLWYyZDXSiqVnbuGt9lhi.jpg"
+    },
+    {
+      "id": 1245900,
+      "name": "Char Fontane",
+      "character": "Laurie Silvers",
+      "order": 46,
+      "profile_path": "/qU0Aoiq14qygBWYcNVL43XNjw4F.jpg"
+    },
+    {
+      "id": 1836889,
+      "name": "Aku Kadogo",
+      "character": "Reporter",
+      "order": 47,
+      "profile_path": "/payltZuju6ecxBy9pCX6fUNFtXl.jpg"
+    },
+    {
+      "id": 1842295,
+      "name": "Steve Kuhn",
+      "character": "Reporter",
+      "order": 48,
+      "profile_path": null
+    },
+    {
+      "id": 221732,
+      "name": "Roslyn Gentle",
+      "character": "Reporter",
+      "order": 49,
+      "profile_path": "/uk4KoyMgqhENPl6AiJZVCecw5Wo.jpg"
+    },
+    {
+      "id": 4863775,
+      "name": "Maurice Brimo",
+      "character": "Reporter",
+      "order": 50,
+      "profile_path": null
+    },
+    {
+      "id": 3534032,
+      "name": "Joanna Lambert",
+      "character": "Reporter",
+      "order": 51,
+      "profile_path": null
+    },
+    {
+      "id": 1001978,
+      "name": "Arthur Sherman",
+      "character": "Drunk",
+      "order": 52,
+      "profile_path": null
+    },
+    {
+      "id": 1482374,
+      "name": "Chris Hession",
+      "character": "Bus Driver",
+      "order": 53,
+      "profile_path": null
+    },
+    {
+      "id": 559928,
+      "name": "Jade Gatt",
+      "character": "Young Tommy (uncredited)",
+      "order": 54,
+      "profile_path": "/xLXWHxaEd3ATZCHnbCrZ9XR0OdX.jpg"
+    },
+    {
+      "id": 4088194,
+      "name": "Tokujun Ishi",
+      "character": "Yakuza (uncredited)",
+      "order": 55,
+      "profile_path": null
+    },
+    {
+      "id": 3048633,
+      "name": "Shirley Wallace",
+      "character": "Housemaid (uncredited)",
+      "order": 56,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 898,
+      "name": "Mark Goldblatt",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/9PuP0ma2BGgDyuauMQ9weWNk4t7.jpg"
+    },
+    {
+      "id": 1871657,
+      "name": "Spike Cherrie",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 75157,
+      "name": "Zev Eleftheriou",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3536301,
+      "name": "Zenda Graves",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 61,
+      "name": "Robert Mark Kamen",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/t7XwxMyS2ANsDDsRWJY7FhdjgQ5.jpg"
+    },
+    {
+      "id": 52358,
+      "name": "Boaz Yakin",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/fBMZdwXjIilRm4tWHs24fPnsVeq.jpg"
+    },
+    {
+      "id": 27099,
+      "name": "Ian Baker",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": "/AkEoQf0dPQ8F8rWr0ZRHkyE4rJQ.jpg"
+    },
+    {
+      "id": 31464,
+      "name": "Melissa Skoff",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1372124,
+      "name": "Peta Lawson",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 59793,
+      "name": "Norma Moriceau",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 59793,
+      "name": "Norma Moriceau",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3536325,
+      "name": "Steve Brown",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1871664,
+      "name": "Dar Davies",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3461825,
+      "name": "Connie Gower",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863796,
+      "name": "Sinn Chew",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1530795,
+      "name": "Tom Coltraine",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863791,
+      "name": "Jed Armstrong",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1195199,
+      "name": "John Romita Sr.",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/7fmumjWH7fDDNPFfyY6nzEmpc60.jpg"
+    },
+    {
+      "id": 1871654,
+      "name": "Kerry Blakeman",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1402898,
+      "name": "Mitch Deans",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 35287,
+      "name": "Gerry Conway",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 4863799,
+      "name": "Kerry Coleman",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1418813,
+      "name": "Chris Anderson",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": "/lF4iol2GuUs1iHF1ziGLHl0gV4O.jpg"
+    },
+    {
+      "id": 4863797,
+      "name": "Chan Chuek Wan",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1418813,
+      "name": "Chris Anderson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/lF4iol2GuUs1iHF1ziGLHl0gV4O.jpg"
+    },
+    {
+      "id": 2164279,
+      "name": "Peter Culpan",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2365345,
+      "name": "Roy Edmunds",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1640477,
+      "name": "Brian Ellison",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3483265,
+      "name": "Ross Andru",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 4863789,
+      "name": "Russell Allen",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 234315,
+      "name": "Chan Cheuk-Fai",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863798,
+      "name": "Jade Clayton",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4088194,
+      "name": "Tokujun Ishi",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2503659,
+      "name": "Claude Lambert",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1871677,
+      "name": "Don Vaughn",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863805,
+      "name": "Jay Uk Kang",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863808,
+      "name": "Ho Win Lee",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863809,
+      "name": "Paul Lennon",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 558089,
+      "name": "Robin Menzies",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 75715,
+      "name": "Lawrence Woodward",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1209254,
+      "name": "Bernard Ledger",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2749490,
+      "name": "Ian Lind",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2823277,
+      "name": "Wayne Pleace",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1476961,
+      "name": "Greg Skipper",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863806,
+      "name": "John Kingston",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1871669,
+      "name": "George Novak",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2219344,
+      "name": "Joe Pampanella",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1153741,
+      "name": "Johnny Raaen",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3684606,
+      "name": "Hide Hirayama",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1209252,
+      "name": "Luke Quinton",
+      "job": "Utility Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1871667,
+      "name": "Ray Jones",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 954000,
+      "name": "Kim Maree Penn",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": "/qXg3LtsRF4GnMYv0bAJhnoGH036.jpg"
+    },
+    {
+      "id": 1844354,
+      "name": "Arch Roberts",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3048633,
+      "name": "Shirley Wallace",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 3070625,
+      "name": "Leigh Hodgkinson",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863804,
+      "name": "Mamora Kaneko",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1871668,
+      "name": "Phil Meacham",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863818,
+      "name": "Ian Schrivers",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2767395,
+      "name": "Iain Strutt",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1392717,
+      "name": "Douglas 'Rocky' McDonald",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/d7t41sDrHS3et8cz1BtmPB7QBge.jpg"
+    },
+    {
+      "id": 4863821,
+      "name": "Warren Shellback",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863828,
+      "name": "Tony Yuen",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863817,
+      "name": "Kazuo Saito",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 26753,
+      "name": "Robert Simper",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863826,
+      "name": "Aki Tannaka",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863807,
+      "name": "Corinne Le Gall",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863814,
+      "name": "Shun Ogawa",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863820,
+      "name": "Joe Schwarger",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4863822,
+      "name": "Koh Beng Soon",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 589294,
+      "name": "Greg Stuart",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 71194,
+      "name": "Tim Wellburn",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 11772,
+      "name": "Barry Bernardi",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 6625,
+      "name": "Su Armstrong",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 75650,
+      "name": "Robert Guralnick",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2437223,
+      "name": "Brian Bertram",
+      "job": "Prosthetic Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1951538,
+      "name": "Sherry Hubbard",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2096085,
+      "name": "Cassie Hanlon",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 4611,
+      "name": "Mace Neufeld",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1963962,
+      "name": "Joan Petch",
+      "job": "Hairstylist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 88122,
+      "name": "Roger Cowland",
+      "job": "Visual Effects",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 75733,
+      "name": "Jan Zeigenbein",
+      "job": "Hairstylist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1465596,
+      "name": "Vivien Mepham",
+      "job": "Makeup Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1711549,
+      "name": "David Lee",
+      "job": "Sound",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1304764,
+      "name": "Dennis Dreith",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:01.990Z"
+}

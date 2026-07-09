@@ -1,0 +1,145 @@
+{
+  "id": 441829,
+  "title": "Team Thor: Part 2",
+  "year": 2017,
+  "release_date": "2017-02-14",
+  "poster_path": "/2jmP71A5Un0jDNqBesDPQSN8hjJ.jpg",
+  "overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
+  "runtime": 5,
+  "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Fantasy"
+  ],
+  "cast": [
+    {
+      "id": 74568,
+      "name": "Chris Hemsworth",
+      "character": "Thor",
+      "order": 0,
+      "profile_path": "/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "id": 1672488,
+      "name": "Daley Pearson",
+      "character": "Darryl Jacobson",
+      "order": 1,
+      "profile_path": "/iX77YtxdoslRXdG6EVK2WEknbwD.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18876,
+      "name": "Larry Lieber",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/6zFjMrk50yZri9KiVqli477gWYB.jpg"
+    },
+    {
+      "id": 55934,
+      "name": "Taika Waititi",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 58190,
+      "name": "Thomas M. Hammel",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1256726,
+      "name": "Brad Winderbaum",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg"
+    },
+    {
+      "id": 13245,
+      "name": "Joel Negron",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1373,
+      "name": "Dan Hennah",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": "/ojzCZyCln9P6U4Gn1GIaIgWF5fh.jpg"
+    },
+    {
+      "id": 17675,
+      "name": "Mayes C. Rubeo",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": "/zq3OHlYKVGPQd1gbojz3xY6t5pT.jpg"
+    },
+    {
+      "id": 1607637,
+      "name": "Vincenzo Mastrantonio",
+      "job": "Makeup Department Head",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1480629,
+      "name": "Luca Vannella",
+      "job": "Hair Department Head",
+      "department": "Costume & Make-Up",
+      "profile_path": "/3V95IInYtScu9PkCdc4YwHWP2SH.jpg"
+    },
+    {
+      "id": 1412734,
+      "name": "Jennifer Cornwell",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1711214,
+      "name": "Vincent Lascoumes",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 37284,
+      "name": "Richie Dehne",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:31.382Z"
+}

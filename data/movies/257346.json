@@ -1,0 +1,404 @@
+{
+  "id": 257346,
+  "title": "Avengers Confidential: Black Widow & Punisher",
+  "year": 2014,
+  "release_date": "2014-04-19",
+  "poster_path": "/wJcyYVRPZDOZOD2w0r2R6wuZqqN.jpg",
+  "overview": "When the Punisher takes out a black-market weapons dealer, he stumbles upon a far-reaching terrorist plot devised by a group known as Leviathan.",
+  "runtime": 83,
+  "genres": [
+    "Animation",
+    "Science Fiction",
+    "Action"
+  ],
+  "cast": [
+    {
+      "id": 186341,
+      "name": "Miyuki Sawashiro",
+      "character": "Natasha Romanoff / Black Widow (voice)",
+      "order": 0,
+      "profile_path": "/11mGqwpmu8CoEy1YJgabj2g7MIv.jpg"
+    },
+    {
+      "id": 1681,
+      "name": "Tessyo Genda",
+      "character": "Frank Castle / The Punisher (voice)",
+      "order": 1,
+      "profile_path": "/7eJeYv2OCHKAadeFVdabVkpWldo.jpg"
+    },
+    {
+      "id": 224454,
+      "name": "Hideaki Tezuka",
+      "character": "Nick Fury (voice)",
+      "order": 2,
+      "profile_path": "/9zJhLamvMx9cUgBAl8i0lmXUfo0.jpg"
+    },
+    {
+      "id": 89832,
+      "name": "Hiroki Touchi",
+      "character": "Elihas Starr (voice)",
+      "order": 3,
+      "profile_path": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+    },
+    {
+      "id": 126690,
+      "name": "Ryuuzaburou Ootomo",
+      "character": "Cain (voice)",
+      "order": 4,
+      "profile_path": "/fk3ebYlTjILTXkzJNvOi3SRUNb6.jpg"
+    },
+    {
+      "id": 228234,
+      "name": "Junko Minagawa",
+      "character": "Maria Hill (voice)",
+      "order": 5,
+      "profile_path": "/vylNOlXVmYFW8TJgq3Dvgoq1dy5.jpg"
+    },
+    {
+      "id": 110665,
+      "name": "Daisuke Namikawa",
+      "character": "Amadeus Cho (voice)",
+      "order": 6,
+      "profile_path": "/iw0X8oDutxaBAri3Ifga8nhdUJK.jpg"
+    },
+    {
+      "id": 222339,
+      "name": "Masashi Sugawara",
+      "character": "Orion (voice)",
+      "order": 7,
+      "profile_path": "/hknlaSfQi9SvYX33uyiR8PrPmaM.jpg"
+    },
+    {
+      "id": 1694239,
+      "name": "Yuichi Karasuma",
+      "character": "The Hulk (voice)",
+      "order": 8,
+      "profile_path": "/lUVDGB9WmYxlOoRbYaovbGE4ceh.jpg"
+    },
+    {
+      "id": 1694240,
+      "name": "Hisashi Izumi",
+      "character": "Ren (voice)",
+      "order": 9,
+      "profile_path": null
+    },
+    {
+      "id": 9708,
+      "name": "Keiji Fujiwara",
+      "character": "Tony Stark / Iron Man (voice)",
+      "order": 10,
+      "profile_path": "/hbfBiFiEvD8u3vikl6hUNLKF7Lv.jpg"
+    },
+    {
+      "id": 1251544,
+      "name": "Shuhei Sakaguchi",
+      "character": "Clint Barton / Hawkeye (voice)",
+      "order": 11,
+      "profile_path": "/nMhYPT9sRr8TFHWkEggzXrzqgPe.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 1297123,
+      "name": "Kenichi Shimizu",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/dWgtSFeG5KJpWIs554sw5vowE8s.jpg"
+    },
+    {
+      "id": 1297125,
+      "name": "Marjorie Liu",
+      "job": "Story",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1294589,
+      "name": "Mitsutaka Hirota",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1694241,
+      "name": "Hitoshi Haga",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1297123,
+      "name": "Kenichi Shimizu",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/dWgtSFeG5KJpWIs554sw5vowE8s.jpg"
+    },
+    {
+      "id": 1083854,
+      "name": "Tetsuya Takahashi",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 126287,
+      "name": "Toshihiko Nakajima",
+      "job": "Sound Director",
+      "department": "Sound",
+      "profile_path": "/crf2w3vLJqRbDDtoggJFeDo0wn.jpg"
+    },
+    {
+      "id": 1361303,
+      "name": "Kenji Fujita",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": "/91nnfRPpNmX4clvqI7xThH3Xb56.jpg"
+    },
+    {
+      "id": 1608129,
+      "name": "Shuhei Yabuta",
+      "job": "3D Director",
+      "department": "Visual Effects",
+      "profile_path": "/iA6289lz4GxEjMZXSHhQssvlLtx.jpg"
+    },
+    {
+      "id": 2984215,
+      "name": "Akemi Kobayashi",
+      "job": "Animation Director",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2997273,
+      "name": "Kenichi Shima",
+      "job": "Animation Director",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1694242,
+      "name": "Makoto Fuchigami",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2160421,
+      "name": "Cindy H. Yamauchi",
+      "job": "Animation Director",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 40340,
+      "name": "Masafumi Mima",
+      "job": "Sound Director",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1694246,
+      "name": "Shin Inoie",
+      "job": "Special Effects",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 17310,
+      "name": "Jeph Loeb",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg"
+    },
+    {
+      "id": 1694230,
+      "name": "Scott Dolph",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 40343,
+      "name": "Masao Takiyama",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1187909,
+      "name": "Joe Quesada",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1011028,
+      "name": "Dan Buckley",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/gM2unQVw1jxWFmMd438rNoJHgr0.jpg"
+    },
+    {
+      "id": 1608131,
+      "name": "Yukie Noguchi",
+      "job": "Color Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1401116,
+      "name": "Simon Philips",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1693211,
+      "name": "Megan Thomas Bradner",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1693212,
+      "name": "Harrison Wilcox",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1693210,
+      "name": "Taro Morishima",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1694223,
+      "name": "Mariko Tsukatsune",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1694243,
+      "name": "Yo Moriyama",
+      "job": "Conceptual Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1693196,
+      "name": "Hiroyuki Okada",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1352117,
+      "name": "Kashiko Kimura",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1316795,
+      "name": "Kazuyuki Hashimoto",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1694241,
+      "name": "Hitoshi Haga",
+      "job": "Mechanical Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1309259,
+      "name": "Noriyuki Zinguzi",
+      "job": "Mechanical Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2058573,
+      "name": "Norimoto Tokura",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1681885,
+      "name": "Satoshi Tasaki",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1491896,
+      "name": "Toshiyuki Kanno",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2159750,
+      "name": "Tetsuro Moronuki",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1297123,
+      "name": "Kenichi Shimizu",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": "/dWgtSFeG5KJpWIs554sw5vowE8s.jpg"
+    },
+    {
+      "id": 1609343,
+      "name": "Hironori Tanaka",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1848165,
+      "name": "Eiji Komatsu",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3749939,
+      "name": "Keiko Shimizu",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:22.909Z"
+}

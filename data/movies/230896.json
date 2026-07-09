@@ -1,0 +1,174 @@
+{
+  "id": 230896,
+  "title": "Iron Man & Hulk: Heroes United",
+  "year": 2013,
+  "release_date": "2013-12-03",
+  "poster_path": "/xCBBQMPxXsqIlZUAbpeSo1SVj6R.jpg",
+  "overview": "The Invincible Iron Man and the Incredible Hulk must join forces to save the Earth from its greatest threat yet! When two Hydra scientists try to supercharge a Stark Arc Reactor with Hulk's Gamma Energy, they unleash a being of pure electricity called Zzzax - and he's hungry for destruction. Together, Iron Man and Hulk are the only force that stands in the way of the Zzzax's planetary blackout. But first, the super heroic duo will have to get through snarling Wendigos, deadly robots and the scaly powerhouse, Abomination.  Can two of Marvel's mightiest heroes find a way to work together without smashing each other before time runs out?",
+  "runtime": 71,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+  ],
+  "cast": [
+    {
+      "id": 17304,
+      "name": "Adrian Pasdar",
+      "character": "Iron Man / Tony Stark (voice)",
+      "order": 0,
+      "profile_path": "/4KdM69ljovbLumGoVe8ct9s6GJm.jpg"
+    },
+    {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "character": "The Hulk (voice)",
+      "order": 1,
+      "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "id": 23680,
+      "name": "Dee Bradley Baker",
+      "character": "Dr. Cruler / Zzzax (voice)",
+      "order": 2,
+      "profile_path": "/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "id": 130081,
+      "name": "Robin Atkin Downes",
+      "character": "Dr. Fump / Abomination (voice)",
+      "order": 3,
+      "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg"
+    },
+    {
+      "id": 84490,
+      "name": "David Kaye",
+      "character": "Jarvis (voice)",
+      "order": 4,
+      "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg"
+    },
+    {
+      "id": 89966,
+      "name": "Liam O'Brien",
+      "character": "The Red Skull (voice)",
+      "order": 5,
+      "profile_path": "/ko7Bba6fQEaAbVFAp1kQHTzuYCp.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 108953,
+      "name": "Brandon Auman",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/vLrQ1R2A0Kabgm4i4oA7ac9soaF.jpg"
+    },
+    {
+      "id": 1266051,
+      "name": "Leo Riley",
+      "job": "Supervising Technical Director",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 35294,
+      "name": "Henry Gilroy",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 221162,
+      "name": "Todd Casey",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1266051,
+      "name": "Leo Riley",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 35270,
+      "name": "Eric Radomski",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/z1vRonppwah0DVC4bvb711ukP4a.jpg"
+    },
+    {
+      "id": 1310336,
+      "name": "Tammy Holguin",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1183886,
+      "name": "Jacob Kindberg",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1011028,
+      "name": "Dan Buckley",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/gM2unQVw1jxWFmMd438rNoJHgr0.jpg"
+    },
+    {
+      "id": 1187909,
+      "name": "Joe Quesada",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/lXvr9yj4OpPDLojusbKYowp9zZX.jpg"
+    },
+    {
+      "id": 1310335,
+      "name": "Lori Gloede",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 17310,
+      "name": "Jeph Loeb",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/zbU9aOrxMtXVSUAHlY5d6cQW2EE.jpg"
+    },
+    {
+      "id": 1310337,
+      "name": "Adam Redding",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 572365,
+      "name": "Emily Chiu",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T06:42:20.135Z"
+}

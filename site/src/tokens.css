@@ -1,0 +1,60 @@
+:root {
+  --color-bg: #08070c;
+  --color-movie: #e8384f;
+  --color-person: #7b61ff;
+  --color-accent: #00d9ff;
+  --color-text: #f2f1f6;
+  --color-text-muted: #9a97ab;
+  --color-panel-bg: rgba(13, 12, 20, 0.82);
+  --color-panel-border: rgba(255, 255, 255, 0.08);
+
+  --dim-opacity: 0.18;
+  --focus-opacity: 1;
+
+  --font-display: 'Space Grotesk', 'Segoe UI', sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --transition-fast: 180ms;
+  --transition-medium: 420ms;
+  --camera-transition-ms: 1200;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --transition-fast: 0ms;
+    --transition-medium: 0ms;
+    --camera-transition-ms: 0;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  overflow: hidden;
+}
+
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background:
+    radial-gradient(ellipse at 20% 15%, rgba(123, 97, 255, 0.10), transparent 55%),
+    radial-gradient(ellipse at 80% 75%, rgba(232, 56, 79, 0.08), transparent 55%),
+    var(--color-bg);
+}
+
+#graph-container {
+  position: absolute;
+  inset: 0;
+}

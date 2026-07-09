@@ -1,0 +1,495 @@
+{
+  "id": 225914,
+  "title": "Spider-Man",
+  "year": 1978,
+  "release_date": "1977-09-14",
+  "poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
+  "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+  "runtime": 92,
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Crime"
+  ],
+  "cast": [
+    {
+      "id": 29095,
+      "name": "Nicholas Hammond",
+      "character": "Peter Parker / Spider-Man",
+      "order": 0,
+      "profile_path": "/H1OuDU9pbRxgdrfXtXPZvQX8KU.jpg"
+    },
+    {
+      "id": 141694,
+      "name": "David White",
+      "character": "J. Jonah Jameson",
+      "order": 1,
+      "profile_path": "/h6jZkxOg7Z6I8SxkicURKqIHEn9.jpg"
+    },
+    {
+      "id": 15993,
+      "name": "Michael Pataki",
+      "character": "Captain Barbera",
+      "order": 2,
+      "profile_path": "/sBhGgVS3o8oWiD85lmh4W3n15OK.jpg"
+    },
+    {
+      "id": 1213887,
+      "name": "Hilly Hicks",
+      "character": "Robbie Robertson",
+      "order": 3,
+      "profile_path": "/l0RMfsW6bJfN9Tr5ruscO3e4TFt.jpg"
+    },
+    {
+      "id": 779,
+      "name": "Lisa Eilbacher",
+      "character": "Judy Tyler",
+      "order": 4,
+      "profile_path": "/tYbOrII1dXzNauGSbMlAZRyRUWT.jpg"
+    },
+    {
+      "id": 78085,
+      "name": "Dick Balduzzi",
+      "character": "Delivery Man",
+      "order": 5,
+      "profile_path": "/8V5N9DDSUKetrPDjKxQagS6NCZ0.jpg"
+    },
+    {
+      "id": 14576,
+      "name": "Jeff Donnell",
+      "character": "Aunt May Parker",
+      "order": 6,
+      "profile_path": "/x7qNasj4LB4h6RCknz0PiTBZI9r.jpg"
+    },
+    {
+      "id": 34973,
+      "name": "Bob Hastings",
+      "character": "Monahan",
+      "order": 7,
+      "profile_path": "/j8Bcul6PCSDOwY4tl2wLkcelgYf.jpg"
+    },
+    {
+      "id": 95141,
+      "name": "Barry Cutler",
+      "character": "Purse Snatcher",
+      "order": 8,
+      "profile_path": "/knrs3PrhnvNZi9NYTQPfbvkxsDq.jpg"
+    },
+    {
+      "id": 16524,
+      "name": "Thayer David",
+      "character": "Edward Byron",
+      "order": 9,
+      "profile_path": "/gAkmthly4dMu2Az8SNVWNSeRsYy.jpg"
+    },
+    {
+      "id": 84327,
+      "name": "Ivor Francis",
+      "character": "Prof. Noah Tyler",
+      "order": 10,
+      "profile_path": "/yFSyIq7SdLqcCCCHuQDMUTFxrj.jpg"
+    },
+    {
+      "id": 165927,
+      "name": "Norman Rice",
+      "character": "Henchman",
+      "order": 11,
+      "profile_path": null
+    },
+    {
+      "id": 78087,
+      "name": "Len Lesser",
+      "character": "Henchman",
+      "order": 12,
+      "profile_path": "/5qOuWP5I8JKVxD4WGyUfr4UaPHq.jpg"
+    },
+    {
+      "id": 2514456,
+      "name": "Carmelita Pope",
+      "character": "Group Member",
+      "order": 13,
+      "profile_path": null
+    },
+    {
+      "id": 1806344,
+      "name": "George Lane Cooper",
+      "character": "Group Member",
+      "order": 14,
+      "profile_path": null
+    },
+    {
+      "id": 1213554,
+      "name": "Larry Anderson",
+      "character": "Dave",
+      "order": 15,
+      "profile_path": "/9r93h4qdyCMn5XCWmtpMWqmWKTh.jpg"
+    },
+    {
+      "id": 103733,
+      "name": "Ivan Bonar",
+      "character": "News Alert Reporter",
+      "order": 16,
+      "profile_path": "/7QDKSeP89xPOypyKdIQzwdkbrZg.jpg"
+    },
+    {
+      "id": 218223,
+      "name": "Kathryn Reynolds",
+      "character": "Group Member",
+      "order": 17,
+      "profile_path": "/8kYz1fQzDR0TDMza9pJAISEotKm.jpg"
+    },
+    {
+      "id": 18894,
+      "name": "Harry Caesar",
+      "character": "Cab Driver",
+      "order": 18,
+      "profile_path": "/2upPqqukRr1gI8OnRsS29fn9Sk9.jpg"
+    },
+    {
+      "id": 1412166,
+      "name": "Robert Snively",
+      "character": "Judge",
+      "order": 19,
+      "profile_path": null
+    },
+    {
+      "id": 1423661,
+      "name": "James Brodhead",
+      "character": "Police Officer",
+      "order": 20,
+      "profile_path": null
+    },
+    {
+      "id": 2514461,
+      "name": "Roy West",
+      "character": "Group Member",
+      "order": 21,
+      "profile_path": null
+    },
+    {
+      "id": 1216931,
+      "name": "Mary Ann Kasica",
+      "character": "Group Member",
+      "order": 22,
+      "profile_path": null
+    },
+    {
+      "id": 25309,
+      "name": "Jim Storm",
+      "character": "Group Member",
+      "order": 23,
+      "profile_path": "/5DivR0p8Av6S5cW01LY7aLGG2Iy.jpg"
+    },
+    {
+      "id": 160621,
+      "name": "Ron Gilbert",
+      "character": "Cop",
+      "order": 24,
+      "profile_path": "/qrY6w2k0YpuMB2yTCOv6cxeQtmw.jpg"
+    },
+    {
+      "id": 1677323,
+      "name": "Nathan Jung",
+      "character": "Kendo Killer",
+      "order": 25,
+      "profile_path": "/kPiRa6zraaYatfmO2ik2cz0KkAS.jpg"
+    },
+    {
+      "id": 2428975,
+      "name": "Bob Harks",
+      "character": "Session Guest (uncredited)",
+      "order": 26,
+      "profile_path": "/wNvgM0pNYk8M6O3rGn9JzWViHaC.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 133115,
+      "name": "E.W. Swackhamer",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/tPpYQHNO0RrSXyuO1VUYH1NhCQD.jpg"
+    },
+    {
+      "id": 1221571,
+      "name": "Alvin Boretz",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1214909,
+      "name": "Craig Huxley",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/2ldn5O37HHFw4fjRxgOzYzW8vae.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 48806,
+      "name": "Charles W. Fries",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2032496,
+      "name": "Daniel R. Goodman",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2241992,
+      "name": "Johnnie Spence",
+      "job": "Music",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 52759,
+      "name": "Fred Jackman Jr.",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 8484,
+      "name": "Aaron Stell",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1267111,
+      "name": "James Hulsey",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1424047,
+      "name": "Charles Korian",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1484160,
+      "name": "Frank Novak",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1587448,
+      "name": "Robert Hickman",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1453173,
+      "name": "Bette Iverson",
+      "job": "Hairstylist",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1837438,
+      "name": "William P. Owens",
+      "job": "Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2514464,
+      "name": "Ron Wright",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1416440,
+      "name": "Barbara Bass",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2514464,
+      "name": "Ron Wright",
+      "job": "Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2514468,
+      "name": "Vic Culina",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1744045,
+      "name": "Stan Cockerell",
+      "job": "Assistant Property Master",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 92374,
+      "name": "Martin Raymond Bolger",
+      "job": "Sound Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2514471,
+      "name": "Tom Huntsman",
+      "job": "Other",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2158884,
+      "name": "Marvin Kerner",
+      "job": "Sound Effects Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2514472,
+      "name": "Don B. Courtney",
+      "job": "Special Effects",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 92485,
+      "name": "Fred Waugh",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 92485,
+      "name": "Fred Waugh",
+      "job": "Stunt Double",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2514473,
+      "name": "Frank R. Hale",
+      "job": "Camera Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2514475,
+      "name": "Tom D. May",
+      "job": "Grip",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2072777,
+      "name": "Milton Citron",
+      "job": "Assistant Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 2458624,
+      "name": "Orin Kennedy",
+      "job": "Location Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1759454,
+      "name": "John Fresco",
+      "job": "Music Supervisor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1338758,
+      "name": "John Mick",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2241992,
+      "name": "Johnnie Spence",
+      "job": "Conductor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1402144,
+      "name": "Kenneth Gilbert",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Script Consultant",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1754989,
+      "name": "Buster Kohloff",
+      "job": "Transportation Captain",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2186120,
+      "name": "Linda Sony Kinney",
+      "job": "Production Coordinator",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1733131,
+      "name": "Joseph J. Kontra",
+      "job": "Production Assistant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1030309,
+      "name": "Malcolm Stuart",
+      "job": "Executive In Charge Of Production",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 116406,
+      "name": "Edward Montagne",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7625,
+      "name": "Steve Ditko",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T06:36:33.758Z"
+}
