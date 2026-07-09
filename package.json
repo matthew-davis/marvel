@@ -1,0 +1,16 @@
+{
+  "name": "marvel-graph",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "discover": "node scripts/discover.js",
+    "enrich": "node scripts/enrich.js",
+    "build:graph": "node scripts/build-graph.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
