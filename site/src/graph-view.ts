@@ -88,6 +88,7 @@ export class GraphView {
       .linkDirectionalParticleSpeed(0.006)
       .linkDirectionalParticleColor(() => COLOR_ACCENT)
       .linkVisibility((link: object) => this.isActiveLink(link as LinkObject))
+      .nodeVisibility((node: object) => this.isVisibleNode(node as GraphNode))
       .onNodeClick((node: object) => this.focusNode((node as GraphNode).id))
       .onBackgroundClick(() => this.clearFocus())
       .onEngineTick(() => this.syncPositions())
@@ -96,7 +97,9 @@ export class GraphView {
 
     this.buildPointClouds(data.nodes);
     this.buildLinkBatch(data.edges.length);
-    this.applyNodeVisualState();
+    // Nothing was visible before this (fresh load), so the diff against an
+    // empty previous set just applies the initial (all-dimmed) state.
+    this.applyFocusTransition(new Set());
 
     const controls = this.graph.controls() as unknown as {
       autoRotate: boolean;
@@ -206,8 +209,17 @@ export class GraphView {
   }
 
   private buildNodeObject(node: GraphNode): THREE.Group {
+    // nodeVisibility (see constructor) means this is only ever invoked by
+    // 3d-force-graph for a node that's currently focused or a direct
+    // connection - the thousands of background nodes never get an Object3D
+    // at all, so there's nothing for the renderer to draw calls on or for
+    // raycasting to traverse for them. We know which case this is right now,
+    // so set the correct scale immediately rather than waiting for a
+    // separate reconciliation pass.
     const baseColor = new THREE.Color(node.type === 'movie' ? COLOR_MOVIE : COLOR_PERSON);
     const radius = SPHERE_RADIUS[node.type];
+    const isFocused = node.id === this.state.focusedId;
+    const scaleFactor = isFocused ? SCALE.focused : SCALE.connected;
 
     const material = new THREE.MeshBasicMaterial({
       color: baseColor.clone(),
@@ -215,7 +227,7 @@ export class GraphView {
       opacity: 1,
     });
     const sphere = new THREE.Mesh(sharedGeometry, material);
-    sphere.scale.setScalar(radius);
+    sphere.scale.setScalar(radius * scaleFactor);
 
     const glow = new THREE.Sprite(
       new THREE.SpriteMaterial({
@@ -226,15 +238,11 @@ export class GraphView {
         blending: THREE.AdditiveBlending,
       })
     );
-    glow.scale.setScalar(radius * 4.2);
+    glow.scale.setScalar(radius * 4.2 * scaleFactor);
 
     const group = new THREE.Group();
     group.add(glow);
     group.add(sphere);
-    // Starts hidden regardless of when nodeThreeObject actually runs relative
-    // to the constructor's applyNodeVisualState() call - only the
-    // focused/connected set is ever made visible (see applyNodeVisualState).
-    group.visible = false;
 
     this.nodeVisuals.set(node.id, {
       group,
@@ -245,6 +253,8 @@ export class GraphView {
       baseScale: radius,
       textureApplied: false,
     });
+
+    this.applyFocusTexture(node.id);
 
     return group;
   }
@@ -272,6 +282,16 @@ export class GraphView {
     );
   }
 
+  private isVisibleNode(node: GraphNode): boolean {
+    return node.id === this.state.focusedId || this.state.connectedIds.has(node.id);
+  }
+
+  private currentVisibleIds(): Set<string> {
+    const ids = new Set(this.state.connectedIds);
+    if (this.state.focusedId) ids.add(this.state.focusedId);
+    return ids;
+  }
+
   private linkColor(link: LinkObject): string {
     return this.isActiveLink(link) ? 'rgba(0, 217, 255, 0.9)' : 'rgba(154, 151, 171, 0.06)';
   }
@@ -280,45 +300,36 @@ export class GraphView {
     return this.isActiveLink(link) ? 2 : 0;
   }
 
-  private refreshLinkVisuals() {
-    // Re-invoking these accessors forces force-graph to recompute per-link
-    // materials/particles against the latest focus state. Only links
-    // touching the current focus are ever rendered individually by the
-    // library (linkVisibility) - everything else stays covered by the single
-    // batched backgroundLinks object.
+  // Applies a state transition: diffs the visible-node set (previousIds must
+  // be captured by the caller before mutating this.state), tells
+  // force-graph to create/reuse/dispose node & link objects accordingly, and
+  // reconciles scale/texture for whatever ends up visible. A node that's
+  // visible both before and after (e.g. a shared neighbor between the old
+  // and new focus) has its object *reused* by force-graph rather than
+  // recreated - buildNodeObject won't fire again for it, so its scale still
+  // needs updating here explicitly.
+  private applyFocusTransition(previousIds: Set<string>) {
+    const nextIds = this.currentVisibleIds();
+    for (const id of previousIds) {
+      if (!nextIds.has(id)) this.nodeVisuals.delete(id);
+    }
+
+    this.graph.nodeVisibility((node: object) => this.isVisibleNode(node as GraphNode));
     this.graph.linkColor((link: object) => this.linkColor(link as LinkObject));
     this.graph.linkDirectionalParticles((link: object) => this.linkParticleCount(link as LinkObject));
     this.graph.linkVisibility((link: object) => this.isActiveLink(link as LinkObject));
-  }
 
-  private applyNodeVisualState() {
-    const { focusedId, connectedIds } = this.state;
-
-    // Only the focused node and its direct connections ever get a real,
-    // visible per-node object - everything else is represented by the
-    // batched point clouds (see buildPointClouds/syncPointPositions) and
-    // stays invisible here. Raycasting for click/hover still works on
-    // invisible objects (three.js doesn't skip them), so this costs nothing
-    // interaction-wise while cutting per-frame draw calls from ~2 per node
-    // (thousands of them) down to a handful total.
-    for (const [id, visual] of this.nodeVisuals) {
-      const isFocused = id === focusedId;
-      const isConnected = connectedIds.has(id) && !isFocused;
-      visual.group.visible = isFocused || isConnected;
-      if (!visual.group.visible) continue;
-
+    for (const id of nextIds) {
+      const visual = this.nodeVisuals.get(id);
+      if (!visual) continue;
+      const isFocused = id === this.state.focusedId;
       const scaleFactor = isFocused ? SCALE.focused : SCALE.connected;
       visual.sphere.scale.setScalar(visual.baseScale * scaleFactor);
       visual.glow.scale.setScalar(visual.baseScale * 4.2 * scaleFactor);
-      visual.glow.material.opacity = 0.55;
-      if (!visual.textureApplied) {
-        visual.material.color.copy(visual.baseColor);
-      }
-      visual.material.opacity = 1;
       this.applyFocusTexture(id);
     }
 
-    const dimmed = focusedId !== null;
+    const dimmed = this.state.focusedId !== null;
     this.moviePoints.material.opacity = dimmed ? POINT_OPACITY.dimmed : POINT_OPACITY.base;
     this.personPoints.material.opacity = dimmed ? POINT_OPACITY.dimmed : POINT_OPACITY.base;
     this.backgroundLinks.material.opacity = dimmed ? LINK_OPACITY.dimmed : LINK_OPACITY.base;
@@ -328,13 +339,12 @@ export class GraphView {
     const node = this.adjacency.nodesById.get(nodeId);
     if (!node) return;
 
+    const previousIds = this.currentVisibleIds();
     this.state = {
       focusedId: nodeId,
       connectedIds: this.adjacency.neighbors.get(nodeId) ?? new Set(),
     };
-
-    this.applyNodeVisualState();
-    this.refreshLinkVisuals();
+    this.applyFocusTransition(previousIds);
 
     const controls = this.graph.controls() as unknown as { autoRotate: boolean };
     controls.autoRotate = false;
@@ -353,9 +363,9 @@ export class GraphView {
   }
 
   clearFocus() {
+    const previousIds = this.currentVisibleIds();
     this.state = { focusedId: null, connectedIds: new Set() };
-    this.applyNodeVisualState();
-    this.refreshLinkVisuals();
+    this.applyFocusTransition(previousIds);
 
     const controls = this.graph.controls() as unknown as { autoRotate: boolean };
     controls.autoRotate = !this.reducedMotion;
