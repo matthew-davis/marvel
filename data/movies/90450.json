@@ -1,0 +1,335 @@
+{
+  "id": 90450,
+  "title": "The Tomb of Dracula",
+  "year": 1980,
+  "release_date": "1980-08-19",
+  "poster_path": "/3KoNhr51Z9quHDBVfiqSvCc1ice.jpg",
+  "overview": "Boston, United States. Dracula, the immortal vampire, interrupts a satanic ritual and flees with Dolores, the woman whom the members of the evil cult are about to murder. Overwhelmed by his love for her, and unable to drink her blood, they have a son together, whom they name Janus. (Loosely based on Marvel's The Tomb of Dracula comic book series.)",
+  "runtime": 91,
+  "genres": [
+    "Animation",
+    "Drama",
+    "Horror",
+    "TV Movie"
+  ],
+  "cast": [
+    {
+      "id": 1260826,
+      "name": "Ryō Ishihara",
+      "character": "Narrator (voice)",
+      "order": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1242448,
+      "name": "Hiroko Suzuki",
+      "character": "Domini (voice)",
+      "order": 1,
+      "profile_path": "/a0wCgDPI5hcR3AcxxFbJghDic0U.jpg"
+    },
+    {
+      "id": 122653,
+      "name": "Kazuyuki Sogabe",
+      "character": "Janus Tepes / Young A (voice)",
+      "order": 2,
+      "profile_path": "/mRKCnfm8S6NiBkf93QT9vdIpFKJ.jpg"
+    },
+    {
+      "id": 111965,
+      "name": "Keiichi Noda",
+      "character": "Frank Drake (voice)",
+      "order": 3,
+      "profile_path": "/cWeP5BjPWSzQPLhCCAXrxHqb7KF.jpg"
+    },
+    {
+      "id": 83930,
+      "name": "Kenji Utsumi",
+      "character": "Dracula (voice)",
+      "order": 4,
+      "profile_path": "/8rNvgs40LJbCbjf7qFCfDeKBnIk.jpg"
+    },
+    {
+      "id": 1680,
+      "name": "Mami Koyama",
+      "character": "Rachel van Helsing (voice)",
+      "order": 5,
+      "profile_path": "/4KjDxYsa7mMh8gbqSKCV2DixDAx.jpg"
+    },
+    {
+      "id": 134275,
+      "name": "Yasuo Hisamatsu",
+      "character": "Quincy Harker (voice)",
+      "order": 6,
+      "profile_path": "/vhYgkkGpz3MUS1DiHYG7ITqFcaT.jpg"
+    },
+    {
+      "id": 1213848,
+      "name": "Hidekatsu Shibata",
+      "character": "Satan / Bartender (voice)",
+      "order": 7,
+      "profile_path": "/hnKQe1GpuLAZY8pDnJc6eXIQzfv.jpg"
+    },
+    {
+      "id": 126279,
+      "name": "Junpei Takiguchi",
+      "character": "Anton Lupeski (voice)",
+      "order": 8,
+      "profile_path": "/gLZJ19DqhC8UYaMHRewAFkg5p8j.jpg"
+    },
+    {
+      "id": 1246633,
+      "name": "Reiko Katsura",
+      "character": "Lilith / Silver (voice)",
+      "order": 9,
+      "profile_path": "/25cNpmtJw7IlZ3g3yxqsvBsTUVG.jpg"
+    },
+    {
+      "id": 551647,
+      "name": "Koji Totani",
+      "character": "Wheeler / Young C (voice)",
+      "order": 10,
+      "profile_path": "/sGfFeI9aYv9GtmmsoYiQoddrl6K.jpg"
+    },
+    {
+      "id": 554387,
+      "name": "Masaharu Sato",
+      "character": "Boyfriend / Young B (voice)",
+      "order": 11,
+      "profile_path": "/lSmnhprafAe4RI27AZMzDpQ3Rjz.jpg"
+    },
+    {
+      "id": 1241832,
+      "name": "Satomi Majima",
+      "character": "Anton / Woman B (voice)",
+      "order": 12,
+      "profile_path": "/ae66vRlYFvN9VQ42vLjSmmEHgsL.jpg"
+    },
+    {
+      "id": 547987,
+      "name": "Seiko Nakano",
+      "character": "Carly / Mallisa / Woman A (voice)",
+      "order": 13,
+      "profile_path": "/pkiS8W6YSo1CgoVjhIll8gYejtS.jpg"
+    },
+    {
+      "id": 1244337,
+      "name": "Yasuo Tanaka",
+      "character": "Torgo Nia / Radio broadcaster (voice)",
+      "order": 14,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 3078769,
+      "name": "Yumiko Yamazaki",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3078755,
+      "name": "Gene Pelc",
+      "job": "Creative Consultant",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2405382,
+      "name": "Tomoko Arikawa",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3078765,
+      "name": "Kuniko Matsumoto",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3078768,
+      "name": "Takao Sawada",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1009731,
+      "name": "Toshiro Nozaki",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1843025,
+      "name": "Hiroshi Wagatsuma",
+      "job": "Character Designer",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3078770,
+      "name": "Yoshiaki Iiyama",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3078771,
+      "name": "Tsunenaka Nozaki",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1583518,
+      "name": "Sadayoshi Tominaga",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3078751,
+      "name": "Hidenobu Hata",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3065241,
+      "name": "Kenji Matsumoto",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3078773,
+      "name": "Yasuhiko Suzuki",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1843025,
+      "name": "Hiroshi Wagatsuma",
+      "job": "Animation Director",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 1843024,
+      "name": "Fukuo Yamamoto",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3078762,
+      "name": "Tomoko Eritate",
+      "job": "Background Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1845991,
+      "name": "Yasuyuki Tada",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 2997011,
+      "name": "Hiroshi Iino",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3078772,
+      "name": "Junzo Ono",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 3078774,
+      "name": "Jirō Tsuno",
+      "job": "Key Animation",
+      "department": "Visual Effects",
+      "profile_path": null
+    },
+    {
+      "id": 936523,
+      "name": "Minoru Okazaki",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1544,
+      "name": "Bram Stoker",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/qJR6jc8hSFZyyZbthfZPi2QU40U.jpg"
+    },
+    {
+      "id": 1255674,
+      "name": "Tadaaki Yamazaki",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 12186,
+      "name": "Hisao Shirai",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 938691,
+      "name": "Akinori Nagaoka",
+      "job": "Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1528572,
+      "name": "Seiji Yokoyama",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/h3k0rKBt4XqrsQAVMtWHmbIa7eN.jpg"
+    },
+    {
+      "id": 138453,
+      "name": "Osamu Tanaka",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1116441,
+      "name": "Gene Colan",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": "/f3N37BElhbJwjEY2EI0JMdK9PTU.jpg"
+    },
+    {
+      "id": 135520,
+      "name": "Marv Wolfman",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": "/rf9tFlKXpqsm7uHILuFgRzoBNs6.jpg"
+    },
+    {
+      "id": 1403989,
+      "name": "Tom Palmer",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T17:56:52.560Z"
+}

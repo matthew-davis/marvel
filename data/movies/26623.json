@@ -1,0 +1,404 @@
+{
+  "id": 26623,
+  "title": "Generation X",
+  "year": 1996,
+  "release_date": "1996-02-20",
+  "poster_path": "/wqkTCfznNXtYO9UnnxComqhhHRP.jpg",
+  "overview": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
+  "runtime": 87,
+  "genres": [
+    "TV Movie",
+    "Action",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 40009,
+      "name": "Matt Frewer",
+      "character": "Russel Tresh",
+      "order": 0,
+      "profile_path": "/gh91nUlR6C7rYhDhjab7cAZQlIt.jpg"
+    },
+    {
+      "id": 66881,
+      "name": "Finola Hughes",
+      "character": "Emma Frost",
+      "order": 1,
+      "profile_path": "/6VQEOrue9NrsC2VnkhzO6R8udWR.jpg"
+    },
+    {
+      "id": 44205,
+      "name": "Jeremy Ratchford",
+      "character": "Sean Cassidy",
+      "order": 2,
+      "profile_path": "/lpqoU3SIc2QB3JwfA2D8U85hHg5.jpg"
+    },
+    {
+      "id": 22248,
+      "name": "Heather McComb",
+      "character": "Jubilation Lee / Jubilee",
+      "order": 3,
+      "profile_path": "/AhZ4n5qfZ4j0H6A1GQkMAeSOpcU.jpg"
+    },
+    {
+      "id": 41740,
+      "name": "Agustin Rodriguez",
+      "character": "Angelo Espinosa / Skin",
+      "order": 4,
+      "profile_path": "/pWZWlsvers3LZbcr6bafOpoMr0b.jpg"
+    },
+    {
+      "id": 95825,
+      "name": "Randall Slavin",
+      "character": "Kurt Pastorius",
+      "order": 5,
+      "profile_path": null
+    },
+    {
+      "id": 35111,
+      "name": "Bumper Robinson",
+      "character": "Mondo",
+      "order": 6,
+      "profile_path": "/9KU72zZXIfsGAPgHmhlJmTYvor9.jpg"
+    },
+    {
+      "id": 95826,
+      "name": "Suzanne Davis",
+      "character": "Arlee Hicks",
+      "order": 7,
+      "profile_path": "/jlSb1NShxxPXmaa6yGLCMESiX0G.jpg"
+    },
+    {
+      "id": 95827,
+      "name": "Amarilis",
+      "character": "Monet St. Croix / M",
+      "order": 8,
+      "profile_path": null
+    },
+    {
+      "id": 27111,
+      "name": "Kevin McNulty",
+      "character": "Ralston",
+      "order": 9,
+      "profile_path": "/jaXuLA5zYPVzfG8wLtnD2O4aveA.jpg"
+    },
+    {
+      "id": 293984,
+      "name": "Lalainia Lindbjerg",
+      "character": "Kayla",
+      "order": 10,
+      "profile_path": "/z003AREgCXCTfsP3JE9lzkns6JM.jpg"
+    },
+    {
+      "id": 26089,
+      "name": "Garry Chalk",
+      "character": "Detective Gaines",
+      "order": 11,
+      "profile_path": "/gz2bmjjEAhqeMQJBQJUABrcGD2u.jpg"
+    },
+    {
+      "id": 20188,
+      "name": "Lynda Boyd",
+      "character": "Alicia Lee",
+      "order": 12,
+      "profile_path": "/5mPaot3TlnlZBzf9VY0fBYWuJgm.jpg"
+    },
+    {
+      "id": 173362,
+      "name": "Joely Collins",
+      "character": "Jeannie",
+      "order": 13,
+      "profile_path": "/16lPd0EVhZlqdrogwytHvXoOKAL.jpg"
+    },
+    {
+      "id": 50711,
+      "name": "Wally Dalton",
+      "character": "Pruitt",
+      "order": 14,
+      "profile_path": "/twGCh7BKpHP14JHC7lgCUtzeYGT.jpg"
+    },
+    {
+      "id": 21213,
+      "name": "Kavan Smith",
+      "character": "Lance",
+      "order": 15,
+      "profile_path": "/zVJTMSlouAL345ApPZO7V2XCXW2.jpg"
+    },
+    {
+      "id": 1992608,
+      "name": "Noel Geer",
+      "character": "Bruce",
+      "order": 16,
+      "profile_path": null
+    },
+    {
+      "id": 21264,
+      "name": "Garvin Cross",
+      "character": "Orderly",
+      "order": 17,
+      "profile_path": "/voCrYes5zQ4G0zMyCqAbOzwygUF.jpg"
+    },
+    {
+      "id": 541478,
+      "name": "Ken Ryan",
+      "character": "Dr. Carlysle",
+      "order": 18,
+      "profile_path": "/a1Ilo67uC3CGronNp248ihyDBci.jpg"
+    },
+    {
+      "id": 4864875,
+      "name": "Robert J. Lewis",
+      "character": "Jim Lee",
+      "order": 19,
+      "profile_path": null
+    },
+    {
+      "id": 21265,
+      "name": "Dean Mckenzie",
+      "character": "Harlin",
+      "order": 20,
+      "profile_path": "/h5m4cIGvMCu4GYHQ6GLr72nwUFm.jpg"
+    },
+    {
+      "id": 172843,
+      "name": "L. Harvey Gold",
+      "character": "Donberry",
+      "order": 21,
+      "profile_path": "/qJBhbkqEgdKnMVwbh95iDijeRd.jpg"
+    },
+    {
+      "id": 25389,
+      "name": "Peter Bryant",
+      "character": "Sergeant Cruller",
+      "order": 22,
+      "profile_path": "/enc6Lz5tsntLpWGjbzMgOk1DHvv.jpg"
+    },
+    {
+      "id": 118816,
+      "name": "James Crescenzo",
+      "character": "Eduardo",
+      "order": 23,
+      "profile_path": "/um2bVGZNAdnLfXTuW4eix4O6WAK.jpg"
+    },
+    {
+      "id": 4864879,
+      "name": "Jeaneth Munoz",
+      "character": "Estella",
+      "order": 24,
+      "profile_path": null
+    },
+    {
+      "id": 2594614,
+      "name": "Edward Diaz",
+      "character": "Tito",
+      "order": 25,
+      "profile_path": null
+    },
+    {
+      "id": 1228371,
+      "name": "Nadia-Leigh Nascimento",
+      "character": "Linda",
+      "order": 26,
+      "profile_path": "/onrB5OfYQ6O3vi47LguV6Ukuhyy.jpg"
+    },
+    {
+      "id": 65808,
+      "name": "Fulvio Cecere",
+      "character": "Lead Officer",
+      "order": 27,
+      "profile_path": "/f3gKF2jzhRvAmffAaEPQp7R4csz.jpg"
+    },
+    {
+      "id": 51383,
+      "name": "Tyler Labine",
+      "character": "Mall Rat",
+      "order": 28,
+      "profile_path": "/uTg5k0mflhBju9Q1tOYmYDzdBu6.jpg"
+    },
+    {
+      "id": 124350,
+      "name": "Melody Johnson",
+      "character": "Extra (uncredited)",
+      "order": 29,
+      "profile_path": "/sC6KrMUZnXt1iwGsqmLcSOZ5mmk.jpg"
+    },
+    {
+      "id": 2597994,
+      "name": "Noah Michael Levine",
+      "character": "Matt (uncredited)",
+      "order": 30,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 62020,
+      "name": "Jack Sholder",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/mXTCImVmjqNharbLUCjnaOwjapj.jpg"
+    },
+    {
+      "id": 95818,
+      "name": "Eric Blakeney",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 22544,
+      "name": "Bryan England",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1213493,
+      "name": "Bruce J. Sallan",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "id": 1991200,
+      "name": "Matthew Edelman",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 28156,
+      "name": "J. Peter Robinson",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/1x15bEFH73mjY37LJXzN137WHvL.jpg"
+    },
+    {
+      "id": 89026,
+      "name": "Scott Lobdell",
+      "job": "Creative Consultant",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1991202,
+      "name": "Glynda Fitzgerald",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 95818,
+      "name": "Eric Blakeney",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 68612,
+      "name": "David Roessell",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 65326,
+      "name": "Michael Schweitzer",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/eO3jvqEQeUUFPODPFGD1xPnk04t.jpg"
+    },
+    {
+      "id": 89026,
+      "name": "Scott Lobdell",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 1991201,
+      "name": "Chris Bachalo",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 61539,
+      "name": "Maya Mani",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 2268407,
+      "name": "Curt Bonn",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 60448,
+      "name": "Donald Hauer",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 4864882,
+      "name": "Judy Slattery",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1639412,
+      "name": "Mary Guilfoyle",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1267244,
+      "name": "Alice Cassidy",
+      "job": "Casting",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 14540,
+      "name": "Douglas Higgins",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1397266,
+      "name": "Bill Ferguson",
+      "job": "Stunt Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 11822,
+      "name": "Rose Marie McSherry",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T17:38:10.808Z"
+}

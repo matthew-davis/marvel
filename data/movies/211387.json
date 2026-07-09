@@ -1,0 +1,229 @@
+{
+  "id": 211387,
+  "title": "Marvel One-Shot: Agent Carter",
+  "year": 2013,
+  "release_date": "2013-10-04",
+  "poster_path": "/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
+  "overview": "Agent Peggy Carter is relegated to a desk job and frustrated at her male boss and comrades' sexist dismissal of her place in the SSR. Ordered to work late one night, Carter gets an alert that the villain Zodiac has been spotted and decides to take care of it herself.",
+  "runtime": 15,
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 39459,
+      "name": "Hayley Atwell",
+      "character": "Peggy Carter",
+      "order": 0,
+      "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "id": 11367,
+      "name": "Bradley Whitford",
+      "character": "John Flynn",
+      "order": 1,
+      "profile_path": "/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+    },
+    {
+      "id": 55470,
+      "name": "Dominic Cooper",
+      "character": "Howard Stark",
+      "order": 2,
+      "profile_path": "/e6XxSApNYiAWins9733PKU90md7.jpg"
+    },
+    {
+      "id": 2203,
+      "name": "Neal McDonough",
+      "character": "Timothy 'Dum Dum' Dugan",
+      "order": 3,
+      "profile_path": "/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "id": 16828,
+      "name": "Chris Evans",
+      "character": "Steve Rogers / Captain America (archive footage)",
+      "order": 4,
+      "profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "id": 1108,
+      "name": "Shane Black",
+      "character": "Disembodied Voice (voice)",
+      "order": 5,
+      "profile_path": "/fafBg8LjtQqsXyFg8ZgW7DHQXKt.jpg"
+    },
+    {
+      "id": 1195388,
+      "name": "Greg Haines",
+      "character": "Agent Johnson",
+      "order": 6,
+      "profile_path": "/dmlBqNIOLt1ef414ZKVQMbRbfB5.jpg"
+    },
+    {
+      "id": 1294883,
+      "name": "Jon Barinholtz",
+      "character": "Analyst",
+      "order": 7,
+      "profile_path": "/3n4FbBuABKLx8WDcxdPsVu3sgL1.jpg"
+    },
+    {
+      "id": 963109,
+      "name": "Tim Trobec",
+      "character": "Hefty Guard",
+      "order": 8,
+      "profile_path": "/puLufsPuWbIgb6mU7Be6x7hLVBf.jpg"
+    },
+    {
+      "id": 1317381,
+      "name": "Sarah Schreiber",
+      "character": "Poolside Girl #2",
+      "order": 9,
+      "profile_path": "/kKTfJRIHlWH1CRJ84omgnBItGe2.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 49911,
+      "name": "Christopher Lennertz",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/4WIa3Ntb4tDzXrOTvuhpKbKDJuc.jpg"
+    },
+    {
+      "id": 113674,
+      "name": "Victoria Alonso",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/xF7Qe1tqgk9KtY8kThKHBWhMqxc.jpg"
+    },
+    {
+      "id": 10832,
+      "name": "Gabriel Beristain",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": "/jdjcmVtA7vWBAGSb5uP5fYopqHA.jpg"
+    },
+    {
+      "id": 57769,
+      "name": "Peter S. Elliot",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": "/duowPY21fzKWX1YNy39eHw200fc.jpg"
+    },
+    {
+      "id": 57027,
+      "name": "Louis D'Esposito",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+    },
+    {
+      "id": 1004624,
+      "name": "Russell Bobbitt",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 2147614,
+      "name": "Allison Gainza",
+      "job": "Special Effects Coordinator",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 18996,
+      "name": "Joe Simon",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/vpKAE3AMzsV0HG3M8LHaLziwf09.jpg"
+    },
+    {
+      "id": 24192,
+      "name": "Dave Jordan",
+      "job": "Music Supervisor",
+      "department": "Sound",
+      "profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg"
+    },
+    {
+      "id": 2115817,
+      "name": "James Young",
+      "job": "Fight Choreographer",
+      "department": "Crew",
+      "profile_path": "/oTphvoYZcqCAbg33wMNxZ7AZhFR.jpg"
+    },
+    {
+      "id": 1379986,
+      "name": "Alessandro Cioffi",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/bBb9O2b99T2mPD9VmeCEYRb2Y4C.jpg"
+    },
+    {
+      "id": 579281,
+      "name": "Eric Pearson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg"
+    },
+    {
+      "id": 576216,
+      "name": "Brad Baruh",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": "/moIbcA8cduK7SxTpI2hqcA9WpRK.jpg"
+    },
+    {
+      "id": 1117747,
+      "name": "Mitchell Bell",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/poqaR1YBAO46SgLkldIQFXQOy85.jpg"
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 3790933,
+      "name": "Chris McComb",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 6228144,
+      "name": "Tina Trivan",
+      "job": "Line Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1256726,
+      "name": "Brad Winderbaum",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T17:56:54.663Z"
+}

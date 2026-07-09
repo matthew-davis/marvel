@@ -1,0 +1,182 @@
+{
+  "id": 76535,
+  "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+  "year": 2011,
+  "release_date": "2011-10-25",
+  "poster_path": "/ugrdgmZlSuiavH0NFurhlUPIRD0.jpg",
+  "overview": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
+  "runtime": 4,
+  "genres": [
+    "Science Fiction",
+    "Fantasy",
+    "Adventure",
+    "Action",
+    "Comedy"
+  ],
+  "cast": [
+    {
+      "id": 9048,
+      "name": "Clark Gregg",
+      "character": "Agent Phil Coulson",
+      "order": 0,
+      "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "id": 463536,
+      "name": "Jessica Manuel",
+      "character": "Clerk",
+      "order": 1,
+      "profile_path": "/aFWvfsKlrmh0zG3aBWsUUow602z.jpg"
+    },
+    {
+      "id": 82126,
+      "name": "Jeff Prewett",
+      "character": "Robber 1",
+      "order": 2,
+      "profile_path": "/xuuBpaNgf0FkCPEg41HnlCiJ4iG.jpg"
+    },
+    {
+      "id": 579282,
+      "name": "Zach Hudson",
+      "character": "Robber 2",
+      "order": 3,
+      "profile_path": "/t9AuKCoQ7zZHbTcFkWQRneO18P9.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 57216,
+      "name": "Howard Drossin",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/d3hlCA0QD0ZcjvKyMeW0hBKrc5e.jpg"
+    },
+    {
+      "id": 70104,
+      "name": "Paul Oakenfold",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/y2Wxq3q0FbVXrByZXfHMFo749cE.jpg"
+    },
+    {
+      "id": 1117761,
+      "name": "Gabriel Britz",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 579280,
+      "name": "Leythum",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/tyh6HSAy2htyGFSlKMP4F6R44zt.jpg"
+    },
+    {
+      "id": 1117759,
+      "name": "Héctor Ruíz",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1117755,
+      "name": "Jacob Mosler",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117757,
+      "name": "Jonathan Block-Verk",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117756,
+      "name": "Martha Smith",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117753,
+      "name": "Mick Ebeling",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/fC2cxX6Gqv5nAFSwNhpux8tEJD2.jpg"
+    },
+    {
+      "id": 1117762,
+      "name": "David Brodie",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1117754,
+      "name": "Danelle Hand",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1552521,
+      "name": "Brian Avery",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 579281,
+      "name": "Eric Pearson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg"
+    },
+    {
+      "id": 1117760,
+      "name": "David Myrick",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 57027,
+      "name": "Louis D'Esposito",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+    },
+    {
+      "id": 1117758,
+      "name": "Dana Dizon",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1256726,
+      "name": "Brad Winderbaum",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T17:56:54.092Z"
+}

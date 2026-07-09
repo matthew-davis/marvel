@@ -1,0 +1,209 @@
+{
+  "id": 14830,
+  "title": "Doctor Strange",
+  "year": 2007,
+  "release_date": "2007-08-14",
+  "poster_path": "/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
+  "overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+  "runtime": 76,
+  "genres": [
+    "Action",
+    "Animation",
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "cast": [
+    {
+      "id": 65769,
+      "name": "Bryce Johnson",
+      "character": "Doctor Strange (voice)",
+      "order": 0,
+      "profile_path": "/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+    },
+    {
+      "id": 80122,
+      "name": "Paul Nakauchi",
+      "character": "Wong (voice)",
+      "order": 1,
+      "profile_path": "/oKBP7IPy3OdGGNePltjdPVaMd5x.jpg"
+    },
+    {
+      "id": 24362,
+      "name": "Kevin Michael Richardson",
+      "character": "Mordo (voice)",
+      "order": 2,
+      "profile_path": "/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "id": 80123,
+      "name": "Michael Yama",
+      "character": "Ancient One (voice)",
+      "order": 3,
+      "profile_path": "/1TaxJr5SkPg2EdWGcMRE59NpXEF.jpg"
+    },
+    {
+      "id": 1310333,
+      "name": "Susan Spano",
+      "character": "Dr. Gina Atwater (voice)",
+      "order": 4,
+      "profile_path": null
+    },
+    {
+      "id": 13477,
+      "name": "Jonathan Adams",
+      "character": "Dormammu (voice)",
+      "order": 5,
+      "profile_path": "/mkgyl2MciZ14wsYi6zedyj6hnR8.jpg"
+    },
+    {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "character": "Oliver / Doorman / Sorcerer / Additional Voices (voice)",
+      "order": 6,
+      "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "id": 15762,
+      "name": "Tara Strong",
+      "character": "April / Lucy / Additional Voices (voice)",
+      "order": 7,
+      "profile_path": "/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    },
+    {
+      "id": 20903,
+      "name": "Josh Keaton",
+      "character": "Corey / Camille's Brother / Additional Voices (voice)",
+      "order": 8,
+      "profile_path": "/9ss2EXbN0VarF1tM2Qotwxy6fJs.jpg"
+    },
+    {
+      "id": 31549,
+      "name": "Phil LaMarr",
+      "character": "Miro / Additional Voices (voice)",
+      "order": 9,
+      "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "id": 34520,
+      "name": "Masasa Moyo",
+      "character": "Adena / Additional Voices (voice)",
+      "order": 10,
+      "profile_path": "/9TvAkxkLGsnREVqzg7JRHtSVzZW.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 105643,
+      "name": "Jay Oliva",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/y7EbnuoKFMvU7uZ4aD50jThyNoF.jpg"
+    },
+    {
+      "id": 87173,
+      "name": "Craig Kyle",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1009838,
+      "name": "George Rizkallah",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 7625,
+      "name": "Steve Ditko",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    },
+    {
+      "id": 1215939,
+      "name": "Greg Johnson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 69664,
+      "name": "Eric S. Rollman",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1215939,
+      "name": "Greg Johnson",
+      "job": "Screenstory",
+      "department": "Writing",
+      "profile_path": null
+    },
+    {
+      "id": 87173,
+      "name": "Craig Kyle",
+      "job": "Screenstory",
+      "department": "Writing",
+      "profile_path": "/kXtY46kM9bS8AlTXC2rD4u58v58.jpg"
+    },
+    {
+      "id": 142570,
+      "name": "Guy Michelmore",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 35269,
+      "name": "Dick Sebast",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "id": 2004522,
+      "name": "Ron Hohauser",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 43094,
+      "name": "Ken Katsumoto",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Co-Executive Producer",
+      "department": "Production",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 1242435,
+      "name": "Patrick Archibald",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T17:56:53.359Z"
+}

@@ -58,15 +58,20 @@ async function resolveTmdbId(movie, needsReview) {
     (r) => normalizeTitle(r.title) === normalizeTitle(movie.title)
   );
 
-  const withYearDiff = exactTitleMatches
-    .map((r) => {
-      const releaseYear = r.release_date ? parseInt(r.release_date.slice(0, 4), 10) : null;
-      return { candidate: r, yearDiff: releaseYear === null ? null : Math.abs(releaseYear - movie.year) };
-    })
-    .filter((c) => c.yearDiff === null || c.yearDiff <= 1);
+  const withYearDiff = exactTitleMatches.map((r) => {
+    const releaseYear = r.release_date ? parseInt(r.release_date.slice(0, 4), 10) : null;
+    return { candidate: r, yearDiff: releaseYear === null ? null : Math.abs(releaseYear - movie.year) };
+  });
 
-  if (withYearDiff.length === 1) {
-    return withYearDiff[0].candidate.id;
+  // Prefer candidates with a real release date close to the expected year -
+  // TMDB has many dateless duplicate/placeholder entries that would otherwise
+  // turn an obvious single match into a false "ambiguous" one.
+  const dated = withYearDiff.filter((c) => c.yearDiff !== null && c.yearDiff <= 1);
+  if (dated.length === 1) {
+    return dated[0].candidate.id;
+  }
+  if (dated.length === 0 && exactTitleMatches.length === 1) {
+    return exactTitleMatches[0].id;
   }
 
   needsReview.push({

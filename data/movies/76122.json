@@ -1,0 +1,356 @@
+{
+  "id": 76122,
+  "title": "Marvel One-Shot: The Consultant",
+  "year": 2011,
+  "release_date": "2011-09-13",
+  "poster_path": "/xqNLXUUvBnfVk6m3QFGGU0Grgs7.jpg",
+  "overview": "Agent Coulson informs Agent Sitwell that the World Security Council wishes Emil Blonsky to be released from prison to join the Avengers Initiative. As Nick Fury doesn't want to release Blonsky, the two agents decide to send a patsy to sabotage the meeting...",
+  "runtime": 4,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Science Fiction",
+    "Action"
+  ],
+  "cast": [
+    {
+      "id": 1018947,
+      "name": "Maximiliano Hernández",
+      "character": "Agent Jasper Sitwell",
+      "order": 0,
+      "profile_path": "/yZYUmF4t7Wu3CWjAcSANvTlSop9.jpg"
+    },
+    {
+      "id": 9048,
+      "name": "Clark Gregg",
+      "character": "Agent Phil Coulson",
+      "order": 1,
+      "profile_path": "/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "id": 3223,
+      "name": "Robert Downey Jr.",
+      "character": "Tony Stark (archive footage)",
+      "order": 2,
+      "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "id": 227,
+      "name": "William Hurt",
+      "character": "Thaddeus 'Thunderbolt' Ross (archive footage)",
+      "order": 3,
+      "profile_path": "/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "id": 52489,
+      "name": "Deborah Knox",
+      "character": "Night Waitress",
+      "order": 4,
+      "profile_path": null
+    }
+  ],
+  "crew": [
+    {
+      "id": 579280,
+      "name": "Leythum",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/tyh6HSAy2htyGFSlKMP4F6R44zt.jpg"
+    },
+    {
+      "id": 1552521,
+      "name": "Brian Avery",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 57027,
+      "name": "Louis D'Esposito",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 113672,
+      "name": "Alan Fine",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117756,
+      "name": "Martha Smith",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1256726,
+      "name": "Brad Winderbaum",
+      "job": "Co-Producer",
+      "department": "Production",
+      "profile_path": "/5cDwxRkPuRRiHw6TVlaIobnX5aC.jpg"
+    },
+    {
+      "id": 1717378,
+      "name": "Terrence Bergeron",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117757,
+      "name": "Jonathan Block-Verk",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117758,
+      "name": "Dana Dizon",
+      "job": "Associate Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117755,
+      "name": "Jacob Mosler",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 70104,
+      "name": "Paul Oakenfold",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/y2Wxq3q0FbVXrByZXfHMFo749cE.jpg"
+    },
+    {
+      "id": 1208289,
+      "name": "David Courtemarche",
+      "job": "Production Design",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1561749,
+      "name": "Michyl-Shannon Quilty",
+      "job": "Production Supervisor",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2986757,
+      "name": "Winona Wacker",
+      "job": "Second Assistant \"A\" Camera",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 90416,
+      "name": "Sam Reinis",
+      "job": "Script Supervisor",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 57216,
+      "name": "Howard Drossin",
+      "job": "Original Music Composer",
+      "department": "Sound",
+      "profile_path": "/d3hlCA0QD0ZcjvKyMeW0hBKrc5e.jpg"
+    },
+    {
+      "id": 1117761,
+      "name": "Gabriel Britz",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 2986758,
+      "name": "Mike Alba",
+      "job": "\"B\" Camera Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 1870196,
+      "name": "Greg Cosh",
+      "job": "Boom Operator",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1574506,
+      "name": "Kenneth Wales",
+      "job": "Gaffer",
+      "department": "Lighting",
+      "profile_path": null
+    },
+    {
+      "id": 1117754,
+      "name": "Danelle Hand",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 2986763,
+      "name": "Brian Triggs",
+      "job": "Production Coordinator",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117760,
+      "name": "David Myrick",
+      "job": "\"A\" Camera Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2986761,
+      "name": "Joe Calanni",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2986752,
+      "name": "Marcelo Chow",
+      "job": "Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1117753,
+      "name": "Mick Ebeling",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/fC2cxX6Gqv5nAFSwNhpux8tEJD2.jpg"
+    },
+    {
+      "id": 1117754,
+      "name": "Danelle Hand",
+      "job": "Unit Production Manager",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1937486,
+      "name": "Ryotaro Kinno",
+      "job": "First Assistant \"A\" Camera",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2986758,
+      "name": "Mike Alba",
+      "job": "Steadicam Operator",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2248362,
+      "name": "Jon Jung",
+      "job": "First Assistant \"B\" Camera",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2986760,
+      "name": "Jeff Haddad",
+      "job": "Sound Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2986764,
+      "name": "Eric Rae",
+      "job": "Production Accountant",
+      "department": "Production",
+      "profile_path": null
+    },
+    {
+      "id": 1117759,
+      "name": "Héctor Ruíz",
+      "job": "Main Title Theme Composer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1117762,
+      "name": "David Brodie",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1117753,
+      "name": "Mick Ebeling",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/fC2cxX6Gqv5nAFSwNhpux8tEJD2.jpg"
+    },
+    {
+      "id": 1117760,
+      "name": "David Myrick",
+      "job": "Director of Photography",
+      "department": "Camera",
+      "profile_path": null
+    },
+    {
+      "id": 2986755,
+      "name": "Isaac Stoval",
+      "job": "Second Second Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 2986751,
+      "name": "Colleen Sheridan",
+      "job": "First Assistant Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 1340087,
+      "name": "Jakub Durkoth",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2716160,
+      "name": "Heather Chaffee",
+      "job": "Costume Design",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 579281,
+      "name": "Eric Pearson",
+      "job": "Screenplay",
+      "department": "Writing",
+      "profile_path": "/vmvz2dMyaTBSNFjKyY7ikFI44xM.jpg"
+    }
+  ],
+  "fetched_at": "2026-07-09T17:56:54.292Z"
+}

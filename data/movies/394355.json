@@ -1,0 +1,119 @@
+{
+  "id": 394355,
+  "title": "Hulk Vs.",
+  "year": 2009,
+  "release_date": "2009-01-13",
+  "poster_path": "/cjUNXJIXBHmKjpI0oH5MmEKgOTt.jpg",
+  "overview": "Two stories featuring Marvel's anti-hero The Incredible Hulk and his encounters with the X-Man Wolverine and the god known as Thor.",
+  "runtime": 78,
+  "genres": [
+    "Science Fiction",
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "cast": [
+    {
+      "id": 60279,
+      "name": "Fred Tatasciore",
+      "character": "Hulk (voice) (archive footage)",
+      "order": 0,
+      "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg"
+    },
+    {
+      "id": 94022,
+      "name": "Matthew Wolf",
+      "character": "Thor (voice) (archive footage)",
+      "order": 1,
+      "profile_path": "/x3Lrc41VrY5wf0KsJNCUvyCjHhc.jpg"
+    },
+    {
+      "id": 15761,
+      "name": "Grey DeLisle",
+      "character": "Sif (voice) (archive footage)",
+      "order": 2,
+      "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
+    },
+    {
+      "id": 116315,
+      "name": "Kari Wahlgren",
+      "character": "Amora (voice) (archive footage)",
+      "order": 3,
+      "profile_path": "/kc0BOnSdzCfq8w9qoNVEm5K12x1.jpg"
+    },
+    {
+      "id": 571562,
+      "name": "Steve Blum",
+      "character": "Wolverine (voice) (archive footage)",
+      "order": 4,
+      "profile_path": "/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "id": 65769,
+      "name": "Bryce Johnson",
+      "character": "Bruce Banner (voice) (archive footage)",
+      "order": 5,
+      "profile_path": "/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
+    },
+    {
+      "id": 19508,
+      "name": "Nolan North",
+      "character": "Deadpool (voice) (archive footage)",
+      "order": 6,
+      "profile_path": "/gb499KZIoBTZnKCGKE4zwzlcfSe.jpg"
+    },
+    {
+      "id": 95047,
+      "name": "Graham McTavish",
+      "character": "Loki (voice) (archive footage)",
+      "order": 7,
+      "profile_path": "/qpKVz46PkKVaXzthcJO4ldFPdM9.jpg"
+    },
+    {
+      "id": 71535,
+      "name": "Tom Kane",
+      "character": "Professor (voice) (archive footage)",
+      "order": 8,
+      "profile_path": "/sq49aVP56G50Nr5kCL7Ove6Z9jE.jpg"
+    },
+    {
+      "id": 63791,
+      "name": "Jay Brazeau",
+      "character": "Volstagg (voice) (archive footage)",
+      "order": 9,
+      "profile_path": "/sfZmnOv1Nd6jqeks5QtsW2Co3uH.jpg"
+    }
+  ],
+  "crew": [
+    {
+      "id": 35268,
+      "name": "Frank Paur",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": null
+    },
+    {
+      "id": 90367,
+      "name": "Sam Liu",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/3u01dPeS4Us9sUFzwS8DzjA3udr.jpg"
+    },
+    {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 2033039,
+      "name": "Barry Windsor-Smith",
+      "job": "Comic Book",
+      "department": "Writing",
+      "profile_path": null
+    }
+  ],
+  "fetched_at": "2026-07-09T17:56:53.897Z"
+}
