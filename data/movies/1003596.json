@@ -101,7 +101,7 @@
       "name": "Ian McKellen",
       "character": "Magneto",
       "order": 12,
-      "profile_path": "/coWjgMEYJjk2OrNddlXCBm8EIr3.jpg"
+      "profile_path": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
     },
     {
       "id": 91606,
@@ -136,7 +136,7 @@
       "name": "Sebastian Stan",
       "character": "Bucky Barnes / Winter Soldier",
       "order": 17,
-      "profile_path": "/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      "profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg"
     },
     {
       "id": 35029,
@@ -185,7 +185,7 @@
       "name": "Alan Cumming",
       "character": "Kurt Wagner / Nightcrawler",
       "order": 24,
-      "profile_path": "/hCXFTHxKfLA3nDHLI51YyzzsyIE.jpg"
+      "profile_path": "/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
     },
     {
       "id": 3503959,
@@ -256,13 +256,6 @@
       "character": "",
       "order": 34,
       "profile_path": "/rabfZpxCzAdP4n2r5QslCmJQAdt.jpg"
-    },
-    {
-      "id": 6271758,
-      "name": "Pacino Khan",
-      "character": "",
-      "order": 35,
-      "profile_path": null
     }
   ],
   "crew": [
@@ -323,18 +316,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 18866,
-      "name": "Jack Kirby",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
-    },
-    {
       "id": 7624,
       "name": "Stan Lee",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
     },
     {
       "id": 1585197,
@@ -1254,5 +1247,5 @@
       "profile_path": "/voEh227liosq1kj3oWaGpC2l6zT.jpg"
     }
   ],
-  "fetched_at": "2026-07-09T17:56:55.638Z"
+  "fetched_at": "2026-07-13T08:56:19.662Z"
 }

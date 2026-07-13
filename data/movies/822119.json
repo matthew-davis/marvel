@@ -388,7 +388,7 @@
       "name": "Sebastian Stan",
       "character": "Bucky Barnes (uncredited)",
       "order": 53,
-      "profile_path": "/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      "profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg"
     },
     {
       "id": 1852993,
@@ -470,18 +470,18 @@
       "profile_path": "/btzUgkKCllxClxIgLhmhZ1qaPw.jpg"
     },
     {
-      "id": 3511930,
-      "name": "Nix Herrera",
-      "job": "Special Effects Makeup Artist",
-      "department": "Costume & Make-Up",
-      "profile_path": "/9UzkXCe2fTudGfyNDjXdJTQHDDk.jpg"
-    },
-    {
       "id": 62780,
       "name": "Alan Hook",
       "job": "Supervising Art Director",
       "department": "Art",
       "profile_path": null
+    },
+    {
+      "id": 3511930,
+      "name": "Nix Herrera",
+      "job": "Special Effects Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": "/9UzkXCe2fTudGfyNDjXdJTQHDDk.jpg"
     },
     {
       "id": 57027,
@@ -498,18 +498,18 @@
       "profile_path": null
     },
     {
-      "id": 13588,
-      "name": "Rosemary Brandenburg",
-      "job": "Set Decoration",
-      "department": "Art",
-      "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg"
-    },
-    {
       "id": 1004624,
       "name": "Russell Bobbitt",
       "job": "Property Master",
       "department": "Art",
       "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg"
+    },
+    {
+      "id": 13588,
+      "name": "Rosemary Brandenburg",
+      "job": "Set Decoration",
+      "department": "Art",
+      "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg"
     },
     {
       "id": 18996,
@@ -554,16 +554,16 @@
       "profile_path": "/mbVgnivb1SFQXvHzRztB1Xa5Kt5.jpg"
     },
     {
-      "id": 1414540,
-      "name": "Don Rutherford",
-      "job": "Makeup Artist",
+      "id": 1336431,
+      "name": "Crystal Woodford",
+      "job": "Key Hair Stylist",
       "department": "Costume & Make-Up",
       "profile_path": null
     },
     {
-      "id": 1336431,
-      "name": "Crystal Woodford",
-      "job": "Key Hair Stylist",
+      "id": 1414540,
+      "name": "Don Rutherford",
+      "job": "Makeup Artist",
       "department": "Costume & Make-Up",
       "profile_path": null
     },
@@ -575,30 +575,9 @@
       "profile_path": null
     },
     {
-      "id": 2838509,
-      "name": "Kevin Vickery",
-      "job": "Set Designer",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
-      "id": 1339444,
-      "name": "Anne Porter",
-      "job": "Set Designer",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
       "id": 1333930,
       "name": "Sarah Forrest",
       "job": "Set Dresser",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
-      "id": 1844654,
-      "name": "Anthony Liberatore",
-      "job": "Storyboard Artist",
       "department": "Art",
       "profile_path": null
     },
@@ -610,9 +589,30 @@
       "profile_path": null
     },
     {
+      "id": 1844654,
+      "name": "Anthony Liberatore",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1339444,
+      "name": "Anne Porter",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
       "id": 1610285,
       "name": "Joel Venti",
       "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2838509,
+      "name": "Kevin Vickery",
+      "job": "Set Designer",
       "department": "Art",
       "profile_path": null
     },
@@ -638,16 +638,16 @@
       "profile_path": "/4tTEd7eQRB9n0tj4Q9U7Wt0D5Qn.jpg"
     },
     {
-      "id": 2704936,
-      "name": "Yasamin Ismaili",
-      "job": "Visual Effects Producer",
+      "id": 1691952,
+      "name": "Alessandro Ongaro",
+      "job": "Visual Effects Supervisor",
       "department": "Visual Effects",
       "profile_path": null
     },
     {
-      "id": 1691952,
-      "name": "Alessandro Ongaro",
-      "job": "Visual Effects Supervisor",
+      "id": 2704936,
+      "name": "Yasamin Ismaili",
+      "job": "Visual Effects Producer",
       "department": "Visual Effects",
       "profile_path": null
     },
@@ -4026,5 +4026,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-09T17:56:55.173Z"
+  "fetched_at": "2026-07-13T08:56:19.279Z"
 }

@@ -24,7 +24,7 @@
       "name": "Sebastian Stan",
       "character": "Bucky Barnes",
       "order": 1,
-      "profile_path": "/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+      "profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg"
     },
     {
       "id": 15886,
@@ -281,18 +281,18 @@
   ],
   "crew": [
     {
-      "id": 836732,
-      "name": "Jake Schreier",
-      "job": "Director",
-      "department": "Directing",
-      "profile_path": "/eW2wkPwh9Ng1igl2J6vOKhqrUlh.jpg"
-    },
-    {
       "id": 10850,
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
       "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+    },
+    {
+      "id": 836732,
+      "name": "Jake Schreier",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/eW2wkPwh9Ng1igl2J6vOKhqrUlh.jpg"
     },
     {
       "id": 1793535,
@@ -393,18 +393,18 @@
       "profile_path": "/65jldkmfDloJqJzmWSfmk2ex2J0.jpg"
     },
     {
-      "id": 2421430,
-      "name": "CC Ice",
-      "job": "Stunts",
-      "department": "Crew",
-      "profile_path": "/rBpLiVRM7b0XiclcvaPpT5G8B3A.jpg"
-    },
-    {
       "id": 3034451,
       "name": "Tristen Morts",
       "job": "Stunts",
       "department": "Crew",
       "profile_path": null
+    },
+    {
+      "id": 2421430,
+      "name": "CC Ice",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/rBpLiVRM7b0XiclcvaPpT5G8B3A.jpg"
     },
     {
       "id": 3745297,
@@ -512,18 +512,18 @@
       "profile_path": null
     },
     {
-      "id": 1442119,
-      "name": "Justin O'Neal Miller",
-      "job": "Set Designer",
-      "department": "Art",
-      "profile_path": "/gWA8ux6oe027BOdfOE8nIuj9raG.jpg"
-    },
-    {
       "id": 1928015,
       "name": "Justin Trudeau",
       "job": "Set Designer",
       "department": "Art",
       "profile_path": null
+    },
+    {
+      "id": 1442119,
+      "name": "Justin O'Neal Miller",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": "/gWA8ux6oe027BOdfOE8nIuj9raG.jpg"
     },
     {
       "id": 1399865,
@@ -3746,5 +3746,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-09T17:56:55.450Z"
+  "fetched_at": "2026-07-13T08:56:19.532Z"
 }
