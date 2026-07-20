@@ -5,7 +5,7 @@
   "release_date": "2026-12-16",
   "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-  "runtime": 0,
+  "runtime": 165,
   "genres": [
     "Science Fiction",
     "Action",
@@ -59,7 +59,7 @@
       "name": "Florence Pugh",
       "character": "Yelena Belova",
       "order": 6,
-      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+      "profile_path": "/xZtmmhOE3pq4lnm1vmn9KkaW7eT.jpg"
     },
     {
       "id": 556356,
@@ -227,7 +227,7 @@
       "name": "Tenoch Huerta Mejía",
       "character": "Namor",
       "order": 30,
-      "profile_path": "/cgHc2IeZ5ifsAhTKW4Rddh2EP9h.jpg"
+      "profile_path": "/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
     },
     {
       "id": 221192,
@@ -248,7 +248,7 @@
       "name": "Iman Vellani",
       "character": "Kamala Khan",
       "order": 33,
-      "profile_path": "/jD2TNIyJQmdqijGTzhvdiYabYix.jpg"
+      "profile_path": "/oBpOjLAH8heYNNJZN1Z5jVQhAKC.jpg"
     },
     {
       "id": 3844059,
@@ -1223,7 +1223,7 @@
       "name": "Louis D'Esposito",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+      "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg"
     },
     {
       "id": 2151797,
@@ -1245,7 +1245,14 @@
       "job": "Colorist",
       "department": "Editing",
       "profile_path": "/voEh227liosq1kj3oWaGpC2l6zT.jpg"
+    },
+    {
+      "id": 2776254,
+      "name": "Sophie Olive-Calver",
+      "job": "Visual Effects Production Manager",
+      "department": "Visual Effects",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-13T08:56:19.662Z"
+  "fetched_at": "2026-07-20T08:46:30.449Z"
 }

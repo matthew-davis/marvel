@@ -52,7 +52,7 @@
       "name": "Julia Garner",
       "character": "Shalla-Bal / Silver Surfer",
       "order": 5,
-      "profile_path": "/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+      "profile_path": "/gpLpOBoHz5VF1IZhfWQNqJvDTWp.jpg"
     },
     {
       "id": 1294982,
@@ -516,7 +516,7 @@
       "name": "Louis D'Esposito",
       "job": "Executive Producer",
       "department": "Production",
-      "profile_path": "/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg"
+      "profile_path": "/ewtzT2ZMIX2DNyGUUkHLn36fjgF.jpg"
     },
     {
       "id": 1212522,
@@ -547,18 +547,18 @@
       "profile_path": "/jci0odY33CUCdogaqCkp9AM8nBl.jpg"
     },
     {
-      "id": 62088,
-      "name": "Jason Sweers",
-      "job": "Graphic Designer",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
       "id": 1701154,
       "name": "Jeremy Simser",
       "job": "Storyboard Artist",
       "department": "Art",
       "profile_path": "/6VCbdDFTe9ogaSU3HlKM3MJIwV4.jpg"
+    },
+    {
+      "id": 62088,
+      "name": "Jason Sweers",
+      "job": "Graphic Designer",
+      "department": "Art",
+      "profile_path": null
     },
     {
       "id": 3350520,
@@ -5158,7 +5158,14 @@
       "job": "Assistant Art Director",
       "department": "Art",
       "profile_path": null
+    },
+    {
+      "id": 2776254,
+      "name": "Sophie Olive-Calver",
+      "job": "Visual Effects Production Manager",
+      "department": "Visual Effects",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-13T08:56:19.396Z"
+  "fetched_at": "2026-07-20T08:46:30.259Z"
 }
