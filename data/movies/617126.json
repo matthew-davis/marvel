@@ -607,7 +607,7 @@
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+      "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg"
     },
     {
       "id": 7232,
@@ -617,18 +617,18 @@
       "profile_path": "/66jHgjBqbjkjWwZEPbAs6k6yMGb.jpg"
     },
     {
-      "id": 18866,
-      "name": "Jack Kirby",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
-    },
-    {
       "id": 7624,
       "name": "Stan Lee",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
     },
     {
       "id": 5335,
@@ -5154,7 +5154,7 @@
     },
     {
       "id": 5398043,
-      "name": "Alma Toth",
+      "name": "Alma Tóth",
       "job": "Assistant Art Director",
       "department": "Art",
       "profile_path": null
@@ -5167,5 +5167,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-20T08:46:30.259Z"
+  "fetched_at": "2026-07-27T09:37:45.555Z"
 }

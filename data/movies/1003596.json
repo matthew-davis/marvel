@@ -3,7 +3,7 @@
   "title": "Avengers: Doomsday",
   "year": 2026,
   "release_date": "2026-12-16",
-  "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+  "poster_path": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
   "runtime": 165,
   "genres": [
@@ -22,7 +22,7 @@
     {
       "id": 16828,
       "name": "Chris Evans",
-      "character": "Steve Rogers / Captain America",
+      "character": "Steve Rogers",
       "order": 1,
       "profile_path": "/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
     },
@@ -36,7 +36,7 @@
     {
       "id": 1253360,
       "name": "Pedro Pascal",
-      "character": "Reed Richards / Mr. Fantastic",
+      "character": "Reed Richards / Mister Fantastic",
       "order": 3,
       "profile_path": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
     },
@@ -59,26 +59,26 @@
       "name": "Florence Pugh",
       "character": "Yelena Belova",
       "order": 6,
-      "profile_path": "/xZtmmhOE3pq4lnm1vmn9KkaW7eT.jpg"
+      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
     },
     {
       "id": 556356,
       "name": "Vanessa Kirby",
-      "character": "Sue Storm / The Invisible Woman",
+      "character": "Sue Storm / Invisible Woman",
       "order": 7,
       "profile_path": "/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
     },
     {
       "id": 21042,
       "name": "Ebon Moss-Bachrach",
-      "character": "Ben Grimm / Thing",
+      "character": "Ben Grimm / The Thing",
       "order": 8,
       "profile_path": "/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
     },
     {
       "id": 986808,
       "name": "Wyatt Russell",
-      "character": "John Walker / U.S. Agent",
+      "character": "John Walker",
       "order": 9,
       "profile_path": "/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
     },
@@ -127,7 +127,7 @@
     {
       "id": 1597365,
       "name": "Joseph Quinn",
-      "character": "Johnny Storm / The Human Torch",
+      "character": "Johnny Storm / Human Torch",
       "order": 16,
       "profile_path": "/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
     },
@@ -141,7 +141,7 @@
     {
       "id": 35029,
       "name": "David Harbour",
-      "character": "Alexei Shostakov / Red Guardian",
+      "character": "Alexei Shostakov",
       "order": 18,
       "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
     },
@@ -155,7 +155,7 @@
     {
       "id": 1700685,
       "name": "Lewis Pullman",
-      "character": "Robert 'Bob' Reynolds / Sentry",
+      "character": "Robert Reynolds",
       "order": 20,
       "profile_path": "/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
     },
@@ -169,7 +169,7 @@
     {
       "id": 1773397,
       "name": "Danny Ramirez",
-      "character": "Joaquin Torres / Falcon",
+      "character": "Joaquin Torres",
       "order": 22,
       "profile_path": "/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
     },
@@ -197,7 +197,7 @@
     {
       "id": 1408809,
       "name": "Hannah John-Kamen",
-      "character": "Ava Starr / Ghost",
+      "character": "Ava Starr",
       "order": 26,
       "profile_path": "/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
     },
@@ -256,6 +256,13 @@
       "character": "",
       "order": 34,
       "profile_path": "/rabfZpxCzAdP4n2r5QslCmJQAdt.jpg"
+    },
+    {
+      "id": 39459,
+      "name": "Hayley Atwell",
+      "character": "Peggy Carter",
+      "order": 35,
+      "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
     }
   ],
   "crew": [
@@ -264,7 +271,7 @@
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+      "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg"
     },
     {
       "id": 7232,
@@ -1254,5 +1261,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-20T08:46:30.449Z"
+  "fetched_at": "2026-07-27T09:37:45.800Z"
 }

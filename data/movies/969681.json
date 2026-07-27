@@ -3,7 +3,7 @@
   "title": "Spider-Man: Brand New Day",
   "year": 2026,
   "release_date": "2026-07-28",
-  "poster_path": "/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
+  "poster_path": "/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
   "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
   "runtime": 145,
   "genres": [
@@ -103,7 +103,7 @@
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/lN1z04L1BGSQLefI81uwm5h6JrW.jpg"
+      "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg"
     },
     {
       "id": 1425616,
@@ -853,7 +853,63 @@
       "job": "Loader",
       "department": "Crew",
       "profile_path": null
+    },
+    {
+      "id": 931976,
+      "name": "Onnalee Blank",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/mtNZG3Ecv9KCXC34R98pLw2wva2.jpg"
+    },
+    {
+      "id": 42034,
+      "name": "Greg P. Russell",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/o5H8NrgXUQRoCr2ophhb0pd29C3.jpg"
+    },
+    {
+      "id": 2099167,
+      "name": "Travis Crotts",
+      "job": "Foley Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1412456,
+      "name": "Adam DeCoster",
+      "job": "Foley Artist",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2133974,
+      "name": "Jeff Gross",
+      "job": "Foley Mixer",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 8157,
+      "name": "Doc Kane",
+      "job": "ADR Mixer",
+      "department": "Sound",
+      "profile_path": "/rJ12iE2gNd2TalhNXKbKH6Q3bKB.jpg"
+    },
+    {
+      "id": 1667947,
+      "name": "Sarah Bourgeois",
+      "job": "Assistant Sound Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1781647,
+      "name": "Ryo Murakawa",
+      "job": "Hair Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-20T08:46:30.539Z"
+  "fetched_at": "2026-07-27T09:37:45.918Z"
 }
