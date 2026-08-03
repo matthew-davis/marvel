@@ -101,7 +101,7 @@
       "name": "Alexa Swinton",
       "character": "Anya",
       "order": 12,
-      "profile_path": "/mMfHreSpVYNGyQ47s8tdaqdQe0B.jpg"
+      "profile_path": "/1PPKZqXddkxu8q6XEHGAddOkdck.jpg"
     },
     {
       "id": 116514,
@@ -414,16 +414,16 @@
       "profile_path": "/lect2AFqR29BE9xtF6Rg7Wwrs16.jpg"
     },
     {
-      "id": 1530723,
-      "name": "Gregory Irwin",
-      "job": "First Assistant \"A\" Camera",
+      "id": 9347,
+      "name": "Paul Hughen",
+      "job": "Second Unit Director of Photography",
       "department": "Camera",
       "profile_path": null
     },
     {
-      "id": 9347,
-      "name": "Paul Hughen",
-      "job": "Second Unit Director of Photography",
+      "id": 1530723,
+      "name": "Gregory Irwin",
+      "job": "First Assistant \"A\" Camera",
       "department": "Camera",
       "profile_path": null
     },
@@ -435,9 +435,9 @@
       "profile_path": "/BLRKYySRdVpbvcDI8qC2laPRQ3.jpg"
     },
     {
-      "id": 3066573,
-      "name": "Lane Friedman",
-      "job": "Hair Department Head",
+      "id": 1437722,
+      "name": "Anna Quinn",
+      "job": "Key Hair Stylist",
       "department": "Costume & Make-Up",
       "profile_path": null
     },
@@ -449,17 +449,10 @@
       "profile_path": "/vWlfd0cO6zotDVKxFxSJQTFb8yP.jpg"
     },
     {
-      "id": 1437722,
-      "name": "Anna Quinn",
-      "job": "Key Hair Stylist",
+      "id": 3066573,
+      "name": "Lane Friedman",
+      "job": "Hair Department Head",
       "department": "Costume & Make-Up",
-      "profile_path": null
-    },
-    {
-      "id": 3119239,
-      "name": "Silvia Mahapatra",
-      "job": "Set Designer",
-      "department": "Art",
       "profile_path": null
     },
     {
@@ -468,6 +461,13 @@
       "job": "Property Master",
       "department": "Art",
       "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg"
+    },
+    {
+      "id": 3119239,
+      "name": "Silvia Mahapatra",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": null
     },
     {
       "id": 1582803,
@@ -1405,7 +1405,7 @@
       "name": "Jon Watts",
       "job": "Thanks",
       "department": "Crew",
-      "profile_path": "/l0t4YtvyRAj35R5hoIp8cs8maCr.jpg"
+      "profile_path": "/fkXChMX6CUXY1yOxBehAzvaTCl7.jpg"
     },
     {
       "id": 2862356,
@@ -3746,5 +3746,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-27T09:37:45.681Z"
+  "fetched_at": "2026-08-03T09:30:35.636Z"
 }

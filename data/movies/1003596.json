@@ -167,32 +167,32 @@
       "profile_path": "/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
     },
     {
+      "id": 221192,
+      "name": "Kathryn Newton",
+      "character": "Cassie Lang",
+      "order": 22,
+      "profile_path": "/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+    },
+    {
       "id": 1773397,
       "name": "Danny Ramirez",
       "character": "Joaquin Torres",
-      "order": 22,
+      "order": 23,
       "profile_path": "/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
     },
     {
       "id": 1447932,
       "name": "Winston Duke",
       "character": "M'Baku",
-      "order": 23,
+      "order": 24,
       "profile_path": "/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
     },
     {
       "id": 10697,
       "name": "Alan Cumming",
       "character": "Kurt Wagner / Nightcrawler",
-      "order": 24,
-      "profile_path": "/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
-    },
-    {
-      "id": 3503959,
-      "name": "Wesley Holloway",
-      "character": "",
       "order": 25,
-      "profile_path": "/3PcwUCcn7B3PKgwDhJwzYiiVAUX.jpg"
+      "profile_path": "/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
     },
     {
       "id": 1408809,
@@ -209,32 +209,32 @@
       "profile_path": "/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
     },
     {
-      "id": 992386,
-      "name": "Alex Livinalli",
-      "character": "Attuma",
-      "order": 28,
-      "profile_path": "/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
-    },
-    {
       "id": 2213811,
       "name": "Mabel Cadena",
       "character": "Namora",
-      "order": 29,
+      "order": 28,
       "profile_path": "/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
     },
     {
       "id": 87265,
       "name": "Tenoch Huerta Mejía",
       "character": "Namor",
-      "order": 30,
+      "order": 29,
       "profile_path": "/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
     },
     {
-      "id": 221192,
-      "name": "Kathryn Newton",
-      "character": "Cassie Lang",
+      "id": 3503959,
+      "name": "Wesley Holloway",
+      "character": "",
+      "order": 30,
+      "profile_path": "/3PcwUCcn7B3PKgwDhJwzYiiVAUX.jpg"
+    },
+    {
+      "id": 992386,
+      "name": "Alex Livinalli",
+      "character": "Attuma",
       "order": 31,
-      "profile_path": "/1jRMjb3gvulT74tiIkWbz2xJEsc.jpg"
+      "profile_path": "/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
     },
     {
       "id": 3613218,
@@ -295,20 +295,6 @@
       "profile_path": "/i9B6gFzExPsh5IEjD2nn4ym4lx2.jpg"
     },
     {
-      "id": 19271,
-      "name": "Anthony Russo",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
-    },
-    {
-      "id": 19272,
-      "name": "Joe Russo",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg"
-    },
-    {
       "id": 37,
       "name": "Alan Silvestri",
       "job": "Original Music Composer",
@@ -323,18 +309,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 7624,
-      "name": "Stan Lee",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
-    },
-    {
       "id": 18866,
       "name": "Jack Kirby",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
     },
     {
       "id": 1585197,
@@ -1261,5 +1247,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-27T09:37:45.800Z"
+  "fetched_at": "2026-08-03T09:30:35.755Z"
 }

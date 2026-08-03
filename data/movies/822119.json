@@ -66,7 +66,7 @@
       "name": "Liv Tyler",
       "character": "Betty Ross",
       "order": 7,
-      "profile_path": "/hXFKqlOPVjtfBSPlmQwFnJvhvmU.jpg"
+      "profile_path": "/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
     },
     {
       "id": 109565,
@@ -498,18 +498,18 @@
       "profile_path": null
     },
     {
-      "id": 1004624,
-      "name": "Russell Bobbitt",
-      "job": "Property Master",
-      "department": "Art",
-      "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg"
-    },
-    {
       "id": 13588,
       "name": "Rosemary Brandenburg",
       "job": "Set Decoration",
       "department": "Art",
       "profile_path": "/6Y2njZ9oTpKNyL0Pf9JDEWvJBEv.jpg"
+    },
+    {
+      "id": 1004624,
+      "name": "Russell Bobbitt",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": "/5KW97eHDacxWlBkhtyasBUETJcR.jpg"
     },
     {
       "id": 18996,
@@ -554,13 +554,6 @@
       "profile_path": "/mbVgnivb1SFQXvHzRztB1Xa5Kt5.jpg"
     },
     {
-      "id": 1336431,
-      "name": "Crystal Woodford",
-      "job": "Key Hair Stylist",
-      "department": "Costume & Make-Up",
-      "profile_path": null
-    },
-    {
       "id": 1414540,
       "name": "Don Rutherford",
       "job": "Makeup Artist",
@@ -575,16 +568,16 @@
       "profile_path": null
     },
     {
-      "id": 1333930,
-      "name": "Sarah Forrest",
-      "job": "Set Dresser",
-      "department": "Art",
+      "id": 1336431,
+      "name": "Crystal Woodford",
+      "job": "Key Hair Stylist",
+      "department": "Costume & Make-Up",
       "profile_path": null
     },
     {
-      "id": 2979045,
-      "name": "Sarah Ruiz Del Vizo",
-      "job": "Set Designer",
+      "id": 1333930,
+      "name": "Sarah Forrest",
+      "job": "Set Dresser",
       "department": "Art",
       "profile_path": null
     },
@@ -598,6 +591,13 @@
     {
       "id": 1339444,
       "name": "Anne Porter",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2979045,
+      "name": "Sarah Ruiz Del Vizo",
       "job": "Set Designer",
       "department": "Art",
       "profile_path": null
@@ -717,7 +717,21 @@
     {
       "id": 900,
       "name": "Christopher Boyes",
+      "job": "Supervising Sound Editor",
+      "department": "Sound",
+      "profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg"
+    },
+    {
+      "id": 900,
+      "name": "Christopher Boyes",
       "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg"
+    },
+    {
+      "id": 900,
+      "name": "Christopher Boyes",
+      "job": "Sound Re-Recording Mixer",
       "department": "Sound",
       "profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg"
     },
@@ -729,25 +743,11 @@
       "profile_path": "/yoA5whVakiVG05EuNWCvAVtAfZB.jpg"
     },
     {
-      "id": 900,
-      "name": "Christopher Boyes",
-      "job": "Supervising Sound Editor",
-      "department": "Sound",
-      "profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg"
-    },
-    {
       "id": 1327030,
       "name": "Lora Hirschberg",
       "job": "Sound Re-Recording Mixer",
       "department": "Sound",
       "profile_path": "/8IJl1itNV99LhKg24yeIGHjYaQd.jpg"
-    },
-    {
-      "id": 900,
-      "name": "Christopher Boyes",
-      "job": "Sound Re-Recording Mixer",
-      "department": "Sound",
-      "profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg"
     },
     {
       "id": 1399865,
@@ -4026,5 +4026,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-07-27T09:37:45.431Z"
+  "fetched_at": "2026-08-03T09:30:35.376Z"
 }

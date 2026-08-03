@@ -3,7 +3,7 @@
   "title": "Spider-Man: Beyond the Spider-Verse",
   "year": 2027,
   "release_date": "2027-06-17",
-  "poster_path": "/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg",
+  "poster_path": "/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
   "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
   "runtime": 0,
   "genres": [
@@ -25,7 +25,7 @@
       "name": "Hailee Steinfeld",
       "character": "Gwen Stacy (voice)",
       "order": 1,
-      "profile_path": "/4K2dzM3odGiVZOQOD6RjVxNq2ZQ.jpg"
+      "profile_path": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
     },
     {
       "id": 226366,
@@ -170,6 +170,13 @@
       "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg"
     },
     {
+      "id": 155267,
+      "name": "Christopher Miller",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
+    },
+    {
       "id": 107446,
       "name": "Phil Lord",
       "job": "Producer",
@@ -182,13 +189,6 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
-    },
-    {
-      "id": 155267,
-      "name": "Christopher Miller",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
       "id": 582922,
@@ -415,5 +415,5 @@
       "profile_path": "/oE4TcENMQw25t4UTAjrnl0m4JyH.jpg"
     }
   ],
-  "fetched_at": "2026-07-27T09:37:46.036Z"
+  "fetched_at": "2026-08-03T09:30:36.088Z"
 }
