@@ -3,7 +3,7 @@
   "title": "Avengers: Doomsday",
   "year": 2026,
   "release_date": "2026-12-16",
-  "poster_path": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+  "poster_path": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
   "runtime": 165,
   "genres": [
@@ -1146,7 +1146,7 @@
       "name": "Mark Bagley",
       "job": "Characters",
       "department": "Writing",
-      "profile_path": null
+      "profile_path": "/mnNrePOYxYo3Gb1buPXYH2D1tLo.jpg"
     },
     {
       "id": 3451807,
@@ -1245,7 +1245,28 @@
       "job": "Visual Effects Production Manager",
       "department": "Visual Effects",
       "profile_path": null
+    },
+    {
+      "id": 1355525,
+      "name": "Matthew Schmidt",
+      "job": "Editor",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1246890,
+      "name": "Chris McKenna",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/2yzbdhnpLdJg8NIh4SWqy6wGbZV.jpg"
+    },
+    {
+      "id": 1350918,
+      "name": "Erik Sommers",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg"
     }
   ],
-  "fetched_at": "2026-08-03T09:30:35.755Z"
+  "fetched_at": "2026-08-10T07:17:34.392Z"
 }

@@ -547,18 +547,18 @@
       "profile_path": "/jci0odY33CUCdogaqCkp9AM8nBl.jpg"
     },
     {
-      "id": 1701154,
-      "name": "Jeremy Simser",
-      "job": "Storyboard Artist",
-      "department": "Art",
-      "profile_path": "/6VCbdDFTe9ogaSU3HlKM3MJIwV4.jpg"
-    },
-    {
       "id": 62088,
       "name": "Jason Sweers",
       "job": "Graphic Designer",
       "department": "Art",
       "profile_path": null
+    },
+    {
+      "id": 1701154,
+      "name": "Jeremy Simser",
+      "job": "Storyboard Artist",
+      "department": "Art",
+      "profile_path": "/6VCbdDFTe9ogaSU3HlKM3MJIwV4.jpg"
     },
     {
       "id": 3350520,
@@ -617,18 +617,18 @@
       "profile_path": "/66jHgjBqbjkjWwZEPbAs6k6yMGb.jpg"
     },
     {
-      "id": 7624,
-      "name": "Stan Lee",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
-    },
-    {
       "id": 18866,
       "name": "Jack Kirby",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
     },
     {
       "id": 5335,
@@ -1139,7 +1139,7 @@
       "name": "Christopher Elke",
       "job": "Visual Effects Producer",
       "department": "Visual Effects",
-      "profile_path": null
+      "profile_path": "/2Y9dQRYLARzXgA26AmC5Ms0ZblB.jpg"
     },
     {
       "id": 1467580,
@@ -1664,7 +1664,7 @@
       "name": "Adam Basil",
       "job": "Stunts",
       "department": "Crew",
-      "profile_path": "/nFacpuhpaOl013z9cUqL1dSFxtj.jpg"
+      "profile_path": null
     },
     {
       "id": 3935542,
@@ -1825,7 +1825,7 @@
       "name": "Christina Low",
       "job": "Stunts",
       "department": "Crew",
-      "profile_path": "/c8mwAXsOPFxM6sXSVozUU0mEolJ.jpg"
+      "profile_path": null
     },
     {
       "id": 2057,
@@ -4415,7 +4415,7 @@
       "name": "Mark Bagley",
       "job": "Thanks",
       "department": "Crew",
-      "profile_path": null
+      "profile_path": "/mnNrePOYxYo3Gb1buPXYH2D1tLo.jpg"
     },
     {
       "id": 1382000,
@@ -5101,14 +5101,14 @@
       "name": "Ritik Keswani",
       "job": "Visual Effects",
       "department": "Visual Effects",
-      "profile_path": null
+      "profile_path": "/hU6vGlCPE2Zkznjho5yCVLKsgiU.jpg"
     },
     {
       "id": 5977341,
       "name": "Ritik Keswani",
       "job": "Software Engineer",
       "department": "Crew",
-      "profile_path": null
+      "profile_path": "/hU6vGlCPE2Zkznjho5yCVLKsgiU.jpg"
     },
     {
       "id": 4978408,
@@ -5167,5 +5167,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-03T09:30:35.501Z"
+  "fetched_at": "2026-08-10T07:17:34.201Z"
 }

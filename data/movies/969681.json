@@ -2,7 +2,7 @@
   "id": 969681,
   "title": "Spider-Man: Brand New Day",
   "year": 2026,
-  "release_date": "2026-07-28",
+  "release_date": "2026-07-29",
   "poster_path": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
   "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
   "runtime": 145,
@@ -41,18 +41,18 @@
       "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
     },
     {
-      "id": 1649152,
-      "name": "Jacob Batalon",
-      "character": "Ned Leeds",
-      "order": 4,
-      "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
-    },
-    {
       "id": 19498,
       "name": "Jon Bernthal",
       "character": "Frank Castle / Punisher",
-      "order": 5,
+      "order": 4,
       "profile_path": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "id": 1649152,
+      "name": "Jacob Batalon",
+      "character": "Ned Leeds",
+      "order": 5,
+      "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
     },
     {
       "id": 103,
@@ -62,25 +62,25 @@
       "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
     },
     {
-      "id": 1373737,
-      "name": "Florence Pugh",
-      "character": "Yelena Belova / Black Widow",
-      "order": 7,
-      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
-    },
-    {
       "id": 59693,
       "name": "Liza Colón-Zayas",
       "character": "Detective Jean DeWolff",
+      "order": 7,
+      "profile_path": "/qBb5eYEoZAlStrRXvsFlKukKJG8.jpg"
+    },
+    {
+      "id": 1373737,
+      "name": "Florence Pugh",
+      "character": "Yelena Belova / Black Widow",
       "order": 8,
-      "profile_path": "/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
+      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
     },
     {
       "id": 3141,
       "name": "Marisa Tomei",
       "character": "May Parker",
       "order": 9,
-      "profile_path": "/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg"
+      "profile_path": "/fj6t3XEXFTfA3mxicQAK3uZDdow.jpg"
     },
     {
       "id": 3489,
@@ -122,7 +122,7 @@
       "name": "Taryn Marie Butler",
       "character": "Apartment Girl",
       "order": 15,
-      "profile_path": null
+      "profile_path": "/6J0TwaDUldwthNJEeOsZxbbKMHk.jpg"
     },
     {
       "id": 1855744,
@@ -150,7 +150,7 @@
       "name": "Nina Rose Galano",
       "character": "Marley",
       "order": 19,
-      "profile_path": null
+      "profile_path": "/eASy0nRcdFp8IFgAv6t4aeUpzMF.jpg"
     },
     {
       "id": 6378967,
@@ -164,7 +164,7 @@
       "name": "Jamel Davall Rodriguez",
       "character": "NYC Street Driver",
       "order": 21,
-      "profile_path": "/sRnb785GObLwB2YVvCrDnbi8mr2.jpg"
+      "profile_path": "/cvjAg6a3bXwGuDppbHQ5dWc8E7X.jpg"
     },
     {
       "id": 6378971,
@@ -192,14 +192,14 @@
       "name": "Vivien Keene",
       "character": "Female Janitor",
       "order": 25,
-      "profile_path": null
+      "profile_path": "/7csygYDCRBnA7HET56990kK2ZWZ.jpg"
     },
     {
       "id": 1845396,
       "name": "Kurtis Lowe",
       "character": "DODC Box Guard",
       "order": 26,
-      "profile_path": null
+      "profile_path": "/hl2paxbdmhZYVCiEfYx1HiCdD6M.jpg"
     },
     {
       "id": 1359450,
@@ -213,14 +213,14 @@
       "name": "David Hepple",
       "character": "Warehouse Worker",
       "order": 28,
-      "profile_path": null
+      "profile_path": "/axRNDGr0MNeUKJBJA8nQcNq5adC.jpg"
     },
     {
       "id": 2281904,
       "name": "Jamaal Burcher",
       "character": "DODC Crew Chief",
       "order": 29,
-      "profile_path": "/bVwxTpjB3AVXYy8nYn4vSmsjsMm.jpg"
+      "profile_path": "/d0Y282nAAAXEs9zmsd7v7jHJkD9.jpg"
     },
     {
       "id": 2661399,
@@ -283,21 +283,21 @@
       "name": "Shing Moussa Chung",
       "character": "Building Tenant",
       "order": 38,
-      "profile_path": null
+      "profile_path": "/eKys0g3R4WxpQ20gFr4R9MfLkHc.jpg"
     },
     {
       "id": 6379234,
       "name": "Akil Young",
       "character": "Apartment Girl Boyfriend",
       "order": 39,
-      "profile_path": null
+      "profile_path": "/6UXuF1yM1MG4cja1MK6VWElEtKV.jpg"
     },
     {
       "id": 3981782,
       "name": "Benedict Cezair-Thompson",
       "character": "DODC Substation Guard",
       "order": 40,
-      "profile_path": null
+      "profile_path": "/3QQRJIn43weIE91q1vgNJs7hV9.jpg"
     },
     {
       "id": 3132440,
@@ -353,14 +353,14 @@
       "name": "Daisy Sequerra",
       "character": "Lucy (Bride)",
       "order": 48,
-      "profile_path": "/2Lx08N3DGj8umBmxBDGVHVmgwpQ.jpg"
+      "profile_path": "/gPrxwTtId6ZVOpCkCc7QEHQQoit.jpg"
     },
     {
       "id": 1816344,
       "name": "Nezar Alderazi",
       "character": "John (Groom)",
       "order": 49,
-      "profile_path": "/31JlCCHfzVfnl6qcE5o54mEdrTx.jpg"
+      "profile_path": "/940awVhZvZO9ANqj3TE9ExcSB88.jpg"
     },
     {
       "id": 5728351,
@@ -417,6 +417,13 @@
       "character": "Web Kid",
       "order": 57,
       "profile_path": null
+    },
+    {
+      "id": 1480047,
+      "name": "Pat Kiernan",
+      "character": "Pat Kiernan (uncredited)",
+      "order": 58,
+      "profile_path": "/8AYGHy2JeJFjcAKyyIRe6lpk35a.jpg"
     }
   ],
   "crew": [
@@ -432,7 +439,7 @@
       "name": "Amy Pascal",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/texxoBV4naFHyuSii6jyxlfuEvK.jpg"
+      "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
       "id": 57027,
@@ -453,7 +460,7 @@
       "name": "Destin Daniel Cretton",
       "job": "Director",
       "department": "Directing",
-      "profile_path": "/s8uAUG9egZlRIU0PKNkTkIz9E6g.jpg"
+      "profile_path": "/wtA2EtkvCyxu4oWECzqAF7G8IZH.jpg"
     },
     {
       "id": 7232,
@@ -579,14 +586,14 @@
       "name": "Karsten Bloch Jacobsen",
       "job": "\"A\" Camera Operator",
       "department": "Camera",
-      "profile_path": "/u1V9PWpHZ5QnPFrXoqgz6ucMKFL.jpg"
+      "profile_path": null
     },
     {
       "id": 928001,
       "name": "Karsten Bloch Jacobsen",
       "job": "Steadicam Operator",
       "department": "Camera",
-      "profile_path": "/u1V9PWpHZ5QnPFrXoqgz6ucMKFL.jpg"
+      "profile_path": null
     },
     {
       "id": 1278128,
@@ -1129,7 +1136,7 @@
     },
     {
       "id": 3803060,
-      "name": "Andrew Ross",
+      "name": "Andrew K. Ross",
       "job": "Post Production Supervisor",
       "department": "Crew",
       "profile_path": null
@@ -1370,14 +1377,14 @@
       "name": "Christopher Elke",
       "job": "Visual Effects Producer",
       "department": "Visual Effects",
-      "profile_path": null
+      "profile_path": "/2Y9dQRYLARzXgA26AmC5Ms0ZblB.jpg"
     },
     {
       "id": 1473421,
       "name": "Richard Smith",
       "job": "Animation Supervisor",
       "department": "Visual Effects",
-      "profile_path": "/clcAgOjYRmyBcS1x8xtC8JgiBb0.jpg"
+      "profile_path": "/1eJqrYb4QwISdqT9IGHRt3ElKZB.jpg"
     },
     {
       "id": 2092316,
@@ -1667,13 +1674,6 @@
       "profile_path": null
     },
     {
-      "id": 1551913,
-      "name": "Mark Bakowski",
-      "job": "VFX Supervisor",
-      "department": "Visual Effects",
-      "profile_path": "/34J9E3UMnbTIz41gDfTh3KSVtU5.jpg"
-    },
-    {
       "id": 1638562,
       "name": "Austin Aplin",
       "job": "Visual Effects Producer",
@@ -1748,7 +1748,7 @@
       "name": "Mark Bagley",
       "job": "Thanks",
       "department": "Crew",
-      "profile_path": null
+      "profile_path": "/mnNrePOYxYo3Gb1buPXYH2D1tLo.jpg"
     },
     {
       "id": 1382000,
@@ -2498,7 +2498,105 @@
       "job": "Stunts",
       "department": "Crew",
       "profile_path": "/te6OwBPLWZlQuVKxxff3dcwHM7a.jpg"
+    },
+    {
+      "id": 1551913,
+      "name": "Mark Bakowski",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": "/34J9E3UMnbTIz41gDfTh3KSVtU5.jpg"
+    },
+    {
+      "id": 1658190,
+      "name": "Justin Kuritzkes",
+      "job": "Additional Writing",
+      "department": "Crew",
+      "profile_path": "/NZBgA6h1wrVcTiUuoSuauXhBeP.jpg"
+    },
+    {
+      "id": 1334496,
+      "name": "Ty Teiger",
+      "job": "Property Master",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1408799,
+      "name": "Jack Whittaker",
+      "job": "Sound Designer",
+      "department": "Sound",
+      "profile_path": "/4uQ2HJbT10KmfsPLRJVFGdWKEOZ.jpg"
+    },
+    {
+      "id": 1439747,
+      "name": "Andrew Hunt",
+      "job": "Costume Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1798508,
+      "name": "Lucy Bowring",
+      "job": "Assistant Costume Designer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 3400916,
+      "name": "Elizabeth Kane",
+      "job": "Assistant Costume Designer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 6400885,
+      "name": "Rebecca Ioannou",
+      "job": "Costume Coordinator",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1389136,
+      "name": "Paul Apelgren",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1519432,
+      "name": "Alex Levy",
+      "job": "Music Editor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 1463822,
+      "name": "Jeff Kryka",
+      "job": "Orchestrator",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 5814988,
+      "name": "Cliff Masterson",
+      "job": "Conductor",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 6400903,
+      "name": "Sanjeeta Khullar",
+      "job": "Music Coordinator",
+      "department": "Sound",
+      "profile_path": null
+    },
+    {
+      "id": 2082445,
+      "name": "Liz Ann Bowden",
+      "job": "Makeup Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-03T09:30:35.966Z"
+  "fetched_at": "2026-08-10T07:17:34.487Z"
 }

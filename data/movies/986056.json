@@ -66,7 +66,7 @@
       "name": "Olga Kurylenko",
       "character": "Antonia Dreykov",
       "order": 7,
-      "profile_path": "/oFMHbHw1QfrqsBUbkuR2obasHlO.jpg"
+      "profile_path": "/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
     },
     {
       "id": 1803287,
@@ -277,6 +277,13 @@
       "character": "John Walker Acting Double",
       "order": 37,
       "profile_path": "/qPa0HoDq0qlhNeNZNbPIFiv3fxv.jpg"
+    },
+    {
+      "id": 6379957,
+      "name": "Jimmy Moneta",
+      "character": "CIA Agent",
+      "order": 38,
+      "profile_path": "/c9rHHwUq53nfE02o1IqjlnsIPKE.jpg"
     }
   ],
   "crew": [
@@ -1237,7 +1244,7 @@
       "name": "Mark Bagley",
       "job": "Characters",
       "department": "Writing",
-      "profile_path": null
+      "profile_path": "/mnNrePOYxYo3Gb1buPXYH2D1tLo.jpg"
     },
     {
       "id": 7624,
@@ -3746,5 +3753,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-03T09:30:35.636Z"
+  "fetched_at": "2026-08-10T07:17:34.299Z"
 }
