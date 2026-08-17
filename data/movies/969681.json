@@ -20,46 +20,46 @@
       "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
     },
     {
-      "id": 1590797,
-      "name": "Sadie Sink",
-      "character": "Jean Grey",
-      "order": 1,
-      "profile_path": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
-    },
-    {
-      "id": 2028037,
-      "name": "Tramell Tillman",
-      "character": "William 'Bill' Metzger",
-      "order": 2,
-      "profile_path": "/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
-    },
-    {
       "id": 505710,
       "name": "Zendaya",
       "character": "MJ",
-      "order": 3,
+      "order": 1,
       "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Mark Ruffalo",
+      "character": "Bruce Banner / Hulk",
+      "order": 2,
+      "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
     },
     {
       "id": 19498,
       "name": "Jon Bernthal",
       "character": "Frank Castle / Punisher",
-      "order": 4,
+      "order": 3,
       "profile_path": "/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
     },
     {
       "id": 1649152,
       "name": "Jacob Batalon",
       "character": "Ned Leeds",
-      "order": 5,
+      "order": 4,
       "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
     },
     {
-      "id": 103,
-      "name": "Mark Ruffalo",
-      "character": "Bruce Banner / Hulk",
+      "id": 1590797,
+      "name": "Sadie Sink",
+      "character": "Jean Grey",
+      "order": 5,
+      "profile_path": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+    },
+    {
+      "id": 1373737,
+      "name": "Florence Pugh",
+      "character": "Yelena Belova / Black Widow",
       "order": 6,
-      "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
     },
     {
       "id": 59693,
@@ -69,18 +69,18 @@
       "profile_path": "/qBb5eYEoZAlStrRXvsFlKukKJG8.jpg"
     },
     {
-      "id": 1373737,
-      "name": "Florence Pugh",
-      "character": "Yelena Belova / Black Widow",
+      "id": 2028037,
+      "name": "Tramell Tillman",
+      "character": "William 'Bill' Metzger",
       "order": 8,
-      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+      "profile_path": "/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
     },
     {
       "id": 3141,
       "name": "Marisa Tomei",
       "character": "May Parker",
       "order": 9,
-      "profile_path": "/fj6t3XEXFTfA3mxicQAK3uZDdow.jpg"
+      "profile_path": "/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
     },
     {
       "id": 3489,
@@ -157,7 +157,7 @@
       "name": "Maikol Roque",
       "character": "EJ",
       "order": 20,
-      "profile_path": null
+      "profile_path": "/mvHuLX4jwOqgm4HLV4S7e8MscxK.jpg"
     },
     {
       "id": 2983117,
@@ -424,6 +424,20 @@
       "character": "Pat Kiernan (uncredited)",
       "order": 58,
       "profile_path": "/8AYGHy2JeJFjcAKyyIRe6lpk35a.jpg"
+    },
+    {
+      "id": 1435479,
+      "name": "Aidan Kennedy",
+      "character": "Frederick Myers/Boomerang",
+      "order": 59,
+      "profile_path": "/dPMBlHWPzlJiBRf76VXoGluHYbN.jpg"
+    },
+    {
+      "id": 6416342,
+      "name": "MAX UPTON",
+      "character": "Spider-Kid",
+      "order": 60,
+      "profile_path": null
     }
   ],
   "crew": [
@@ -432,7 +446,7 @@
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg"
+      "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg"
     },
     {
       "id": 1425616,
@@ -2596,7 +2610,14 @@
       "job": "Makeup Supervisor",
       "department": "Costume & Make-Up",
       "profile_path": null
+    },
+    {
+      "id": 2604099,
+      "name": "Elise Lamb",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/bMycBRLpxYXMldRj24H5MurbxAV.jpg"
     }
   ],
-  "fetched_at": "2026-08-10T07:17:34.487Z"
+  "fetched_at": "2026-08-17T06:39:21.817Z"
 }

@@ -28,46 +28,46 @@
       "profile_path": "/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
     },
     {
-      "id": 226366,
-      "name": "Brian Tyree Henry",
-      "character": "Jefferson Morales (voice)",
-      "order": 2,
-      "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
-    },
-    {
-      "id": 141610,
-      "name": "Luna Lauren Vélez",
-      "character": "Rio Morales (voice)",
-      "order": 3,
-      "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
-    },
-    {
       "id": 25072,
       "name": "Oscar Isaac",
       "character": "Miguel O'Hara (voice)",
-      "order": 4,
+      "order": 2,
       "profile_path": "/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
-    },
-    {
-      "id": 543505,
-      "name": "Jake Johnson",
-      "character": "Peter B. Parker (voice)",
-      "order": 5,
-      "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
     },
     {
       "id": 17881,
       "name": "Jason Schwartzman",
       "character": "Spot (voice)",
-      "order": 6,
+      "order": 3,
       "profile_path": "/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+    },
+    {
+      "id": 543505,
+      "name": "Jake Johnson",
+      "character": "Peter B. Parker (voice)",
+      "order": 4,
+      "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "id": 226366,
+      "name": "Brian Tyree Henry",
+      "character": "Jefferson Morales (voice)",
+      "order": 5,
+      "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
     },
     {
       "id": 1455336,
       "name": "Issa Rae",
       "character": "Jessica Drew (voice)",
-      "order": 7,
+      "order": 6,
       "profile_path": "/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+      "id": 141610,
+      "name": "Luna Lauren Vélez",
+      "character": "Rio Morales (voice)",
+      "order": 7,
+      "profile_path": "/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
     },
     {
       "id": 206919,
@@ -116,7 +116,7 @@
       "name": "Mahershala Ali",
       "character": "Uncle Aaron (voice)",
       "order": 14,
-      "profile_path": "/oId1ulmetuWr3lFFsSb81KS5LJS.jpg"
+      "profile_path": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
     },
     {
       "id": 1664716,
@@ -170,6 +170,13 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
       "id": 155267,
       "name": "Christopher Miller",
       "job": "Producer",
@@ -182,13 +189,6 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
-      "id": 7626,
-      "name": "Avi Arad",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
     },
     {
       "id": 582922,
@@ -205,18 +205,18 @@
       "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
-      "id": 107446,
-      "name": "Phil Lord",
-      "job": "Writer",
-      "department": "Writing",
-      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
       "id": 57264,
       "name": "David Callaham",
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
+    },
+    {
+      "id": 107446,
+      "name": "Phil Lord",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
     },
     {
       "id": 936670,
@@ -342,7 +342,7 @@
       "name": "Ritik Keswani",
       "job": "Software Engineer",
       "department": "Crew",
-      "profile_path": "/hU6vGlCPE2Zkznjho5yCVLKsgiU.jpg"
+      "profile_path": "/k00GzmEXlGNJAcAS8Mk7J1cuTME.jpg"
     },
     {
       "id": 1261455,
@@ -394,13 +394,6 @@
       "profile_path": "/rkeMVdINeqVPFQCl4Jruntqm5SQ.jpg"
     },
     {
-      "id": 6280074,
-      "name": "Adam Rosenberg",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": null
-    },
-    {
       "id": 89596,
       "name": "Joaquim Dos Santos",
       "job": "Executive Producer",
@@ -413,7 +406,14 @@
       "job": "Executive Producer",
       "department": "Production",
       "profile_path": "/oE4TcENMQw25t4UTAjrnl0m4JyH.jpg"
+    },
+    {
+      "id": 3544025,
+      "name": "Adam Rosenberg",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/8xat2G5Z2IvdnZPMqc8vau6F1am.jpg"
     }
   ],
-  "fetched_at": "2026-08-10T07:17:34.583Z"
+  "fetched_at": "2026-08-17T06:39:22.060Z"
 }

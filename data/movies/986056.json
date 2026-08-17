@@ -24,7 +24,7 @@
       "name": "Sebastian Stan",
       "character": "Bucky Barnes",
       "order": 1,
-      "profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg"
+      "profile_path": "/mLqE91qUnE8fbfMvsXD7BcWJKNK.jpg"
     },
     {
       "id": 15886,
@@ -288,18 +288,18 @@
   ],
   "crew": [
     {
+      "id": 10850,
+      "name": "Kevin Feige",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg"
+    },
+    {
       "id": 836732,
       "name": "Jake Schreier",
       "job": "Director",
       "department": "Directing",
       "profile_path": "/eW2wkPwh9Ng1igl2J6vOKhqrUlh.jpg"
-    },
-    {
-      "id": 10850,
-      "name": "Kevin Feige",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg"
     },
     {
       "id": 1793535,
@@ -400,18 +400,18 @@
       "profile_path": "/65jldkmfDloJqJzmWSfmk2ex2J0.jpg"
     },
     {
-      "id": 2421430,
-      "name": "CC Ice",
-      "job": "Stunts",
-      "department": "Crew",
-      "profile_path": "/rBpLiVRM7b0XiclcvaPpT5G8B3A.jpg"
-    },
-    {
       "id": 3034451,
       "name": "Tristen Morts",
       "job": "Stunts",
       "department": "Crew",
       "profile_path": null
+    },
+    {
+      "id": 2421430,
+      "name": "CC Ice",
+      "job": "Stunts",
+      "department": "Crew",
+      "profile_path": "/rBpLiVRM7b0XiclcvaPpT5G8B3A.jpg"
     },
     {
       "id": 3745297,
@@ -519,18 +519,18 @@
       "profile_path": null
     },
     {
-      "id": 1442119,
-      "name": "Justin O'Neal Miller",
-      "job": "Set Designer",
-      "department": "Art",
-      "profile_path": "/gWA8ux6oe027BOdfOE8nIuj9raG.jpg"
-    },
-    {
       "id": 1928015,
       "name": "Justin Trudeau",
       "job": "Set Designer",
       "department": "Art",
       "profile_path": null
+    },
+    {
+      "id": 1442119,
+      "name": "Justin O'Neal Miller",
+      "job": "Set Designer",
+      "department": "Art",
+      "profile_path": "/gWA8ux6oe027BOdfOE8nIuj9raG.jpg"
     },
     {
       "id": 1399865,
@@ -1167,7 +1167,7 @@
       "name": "Amanda Bradley",
       "job": "Stunts",
       "department": "Crew",
-      "profile_path": "/gqHsBf8ufWfzgNFhJSVelK92rsV.jpg"
+      "profile_path": "/exgDaYoOsmlVsC9kcM5gUtHwbLX.jpg"
     },
     {
       "id": 1753329,
@@ -3753,5 +3753,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-10T07:17:34.299Z"
+  "fetched_at": "2026-08-17T06:39:21.482Z"
 }

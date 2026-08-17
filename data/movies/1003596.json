@@ -3,7 +3,7 @@
   "title": "Avengers: Doomsday",
   "year": 2026,
   "release_date": "2026-12-16",
-  "poster_path": "/bh2OuKvq19jBHsloUVCfPSZZw81.jpg",
+  "poster_path": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
   "runtime": 165,
   "genres": [
@@ -104,165 +104,207 @@
       "profile_path": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
     },
     {
+      "id": 39459,
+      "name": "Hayley Atwell",
+      "character": "Peggy Carter",
+      "order": 13,
+      "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
       "id": 91606,
       "name": "Tom Hiddleston",
       "character": "Loki",
-      "order": 13,
+      "order": 14,
       "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg"
     },
     {
       "id": 11006,
       "name": "James Marsden",
       "character": "Scott Summers / Cyclops",
-      "order": 14,
+      "order": 15,
       "profile_path": "/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
     },
     {
       "id": 2387,
       "name": "Patrick Stewart",
       "character": "Professor Charles Xavier",
-      "order": 15,
+      "order": 16,
       "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
     },
     {
       "id": 1597365,
       "name": "Joseph Quinn",
       "character": "Johnny Storm / Human Torch",
-      "order": 16,
+      "order": 17,
       "profile_path": "/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
     },
     {
       "id": 60898,
       "name": "Sebastian Stan",
       "character": "Bucky Barnes / Winter Soldier",
-      "order": 17,
-      "profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg"
+      "order": 18,
+      "profile_path": "/mLqE91qUnE8fbfMvsXD7BcWJKNK.jpg"
     },
     {
       "id": 35029,
       "name": "David Harbour",
       "character": "Alexei Shostakov",
-      "order": 18,
+      "order": 19,
       "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
     },
     {
       "id": 1083010,
       "name": "Letitia Wright",
       "character": "Shuri",
-      "order": 19,
+      "order": 20,
       "profile_path": "/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
     },
     {
       "id": 1700685,
       "name": "Lewis Pullman",
       "character": "Robert Reynolds",
-      "order": 20,
+      "order": 21,
       "profile_path": "/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
     },
     {
       "id": 7090,
       "name": "Kelsey Grammer",
       "character": "Dr. Henry 'Hank' McCoy / Beast",
-      "order": 21,
+      "order": 22,
       "profile_path": "/5zik4VJim6YTSWDjC7tkp13wxUp.jpg"
     },
     {
       "id": 221192,
       "name": "Kathryn Newton",
       "character": "Cassie Lang",
-      "order": 22,
+      "order": 23,
       "profile_path": "/26OEa0uS8552sVJakaCEHYvqOao.jpg"
     },
     {
       "id": 1773397,
       "name": "Danny Ramirez",
       "character": "Joaquin Torres",
-      "order": 23,
+      "order": 24,
       "profile_path": "/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
     },
     {
       "id": 1447932,
       "name": "Winston Duke",
       "character": "M'Baku",
-      "order": 24,
+      "order": 25,
       "profile_path": "/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
     },
     {
       "id": 10697,
       "name": "Alan Cumming",
       "character": "Kurt Wagner / Nightcrawler",
-      "order": 25,
+      "order": 26,
       "profile_path": "/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
     },
     {
       "id": 1408809,
       "name": "Hannah John-Kamen",
       "character": "Ava Starr",
-      "order": 26,
+      "order": 27,
       "profile_path": "/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
     },
     {
       "id": 11008,
       "name": "Rebecca Romijn",
       "character": "Raven Darkholme / Mystique",
-      "order": 27,
+      "order": 28,
       "profile_path": "/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
     },
     {
       "id": 2213811,
       "name": "Mabel Cadena",
       "character": "Namora",
-      "order": 28,
+      "order": 29,
       "profile_path": "/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
     },
     {
       "id": 87265,
       "name": "Tenoch Huerta Mejía",
       "character": "Namor",
-      "order": 29,
+      "order": 30,
       "profile_path": "/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
     },
     {
       "id": 3503959,
       "name": "Wesley Holloway",
       "character": "",
-      "order": 30,
+      "order": 31,
       "profile_path": "/3PcwUCcn7B3PKgwDhJwzYiiVAUX.jpg"
     },
     {
       "id": 992386,
       "name": "Alex Livinalli",
       "character": "Attuma",
-      "order": 31,
+      "order": 32,
       "profile_path": "/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
     },
     {
       "id": 3613218,
       "name": "India Rose Hemsworth",
       "character": "Gorr's Daughter",
-      "order": 32,
+      "order": 33,
       "profile_path": null
     },
     {
       "id": 2798462,
       "name": "Iman Vellani",
       "character": "Kamala Khan",
-      "order": 33,
+      "order": 34,
       "profile_path": "/oBpOjLAH8heYNNJZN1Z5jVQhAKC.jpg"
     },
     {
       "id": 3844059,
       "name": "Matilda Firth",
       "character": "",
-      "order": 34,
+      "order": 35,
       "profile_path": "/rabfZpxCzAdP4n2r5QslCmJQAdt.jpg"
     },
     {
-      "id": 39459,
-      "name": "Hayley Atwell",
-      "character": "Peggy Carter",
-      "order": 35,
-      "profile_path": "/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+      "id": 6968,
+      "name": "Hugh Jackman",
+      "character": "Logan/Wolverine",
+      "order": 36,
+      "profile_path": "/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "id": 10859,
+      "name": "Ryan Reynolds",
+      "character": "Wade Wilson/Deadpool",
+      "order": 37,
+      "profile_path": "/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "id": 71580,
+      "name": "Benedict Cumberbatch",
+      "character": "Stephen Strange/Doctor strange",
+      "order": 38,
+      "profile_path": "/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "id": 6885,
+      "name": "Charlize Theron",
+      "character": "Clea",
+      "order": 39,
+      "profile_path": "/9coVbqj35Fa5dWxlX5K9pDCqKfa.jpg"
+    },
+    {
+      "id": 2219,
+      "name": "Tobey Maguire",
+      "character": "Peter Parker/Spider-Man",
+      "order": 40,
+      "profile_path": "/1EtXu72Cuo7YX4IqIaEslwOhEQ9.jpg"
+    },
+    {
+      "id": 550843,
+      "name": "Elizabeth Olsen",
+      "character": "Wanda Maximoff/Scarlet Witch",
+      "order": 41,
+      "profile_path": "/wIU675y4dofIDVuhaNWPizJNtep.jpg"
     }
   ],
   "crew": [
@@ -271,7 +313,7 @@
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/vbCNOAGNqox21Q462rY4w2WL9Eo.jpg"
+      "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg"
     },
     {
       "id": 7232,
@@ -1104,7 +1146,7 @@
       "name": "James Schembri",
       "job": "Visual Effects Producer",
       "department": "Visual Effects",
-      "profile_path": null
+      "profile_path": "/hTDfdTyM34HWxwAsTvC4pWZtckp.jpg"
     },
     {
       "id": 5929262,
@@ -1266,7 +1308,21 @@
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg"
+    },
+    {
+      "id": 1616064,
+      "name": "Karen Cohen",
+      "job": "Hair Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1616064,
+      "name": "Karen Cohen",
+      "job": "Makeup Supervisor",
+      "department": "Costume & Make-Up",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-10T07:17:34.392Z"
+  "fetched_at": "2026-08-17T06:39:21.655Z"
 }
