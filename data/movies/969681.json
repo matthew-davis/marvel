@@ -3,7 +3,7 @@
   "title": "Spider-Man: Brand New Day",
   "year": 2026,
   "release_date": "2026-07-29",
-  "poster_path": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+  "poster_path": "/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg",
   "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
   "runtime": 145,
   "genres": [
@@ -24,7 +24,7 @@
       "name": "Zendaya",
       "character": "MJ",
       "order": 1,
-      "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+      "profile_path": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
     },
     {
       "id": 103,
@@ -426,17 +426,10 @@
       "profile_path": "/8AYGHy2JeJFjcAKyyIRe6lpk35a.jpg"
     },
     {
-      "id": 1435479,
-      "name": "Aidan Kennedy",
-      "character": "Frederick Myers/Boomerang",
+      "id": 5731792,
+      "name": "Abdul Aziz Mansaray",
+      "character": "",
       "order": 59,
-      "profile_path": "/dPMBlHWPzlJiBRf76VXoGluHYbN.jpg"
-    },
-    {
-      "id": 6416342,
-      "name": "MAX UPTON",
-      "character": "Spider-Kid",
-      "order": 60,
       "profile_path": null
     }
   ],
@@ -2619,5 +2612,5 @@
       "profile_path": "/bMycBRLpxYXMldRj24H5MurbxAV.jpg"
     }
   ],
-  "fetched_at": "2026-08-17T06:39:21.817Z"
+  "fetched_at": "2026-08-24T06:41:51.479Z"
 }

@@ -7,9 +7,9 @@
   "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
   "runtime": 0,
   "genres": [
+    "Animation",
     "Action",
     "Adventure",
-    "Animation",
     "Science Fiction"
   ],
   "cast": [
@@ -170,13 +170,6 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
-      "id": 7626,
-      "name": "Avi Arad",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
-    },
-    {
       "id": 155267,
       "name": "Christopher Miller",
       "job": "Producer",
@@ -189,6 +182,13 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
     },
     {
       "id": 582922,
@@ -205,18 +205,18 @@
       "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
-      "id": 57264,
-      "name": "David Callaham",
-      "job": "Writer",
-      "department": "Writing",
-      "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
-    },
-    {
       "id": 107446,
       "name": "Phil Lord",
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
+    },
+    {
+      "id": 57264,
+      "name": "David Callaham",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
     },
     {
       "id": 936670,
@@ -391,7 +391,7 @@
       "name": "Rodney Rothman",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/rkeMVdINeqVPFQCl4Jruntqm5SQ.jpg"
+      "profile_path": "/75yKuJr1wL8qesEDYL2IHK67BEx.jpg"
     },
     {
       "id": 89596,
@@ -415,5 +415,5 @@
       "profile_path": "/8xat2G5Z2IvdnZPMqc8vau6F1am.jpg"
     }
   ],
-  "fetched_at": "2026-08-17T06:39:22.060Z"
+  "fetched_at": "2026-08-24T06:41:51.649Z"
 }

@@ -1513,13 +1513,6 @@
       "profile_path": "/ykHcYxPi3KqYnxFXaD3RFWVHTGv.jpg"
     },
     {
-      "id": 930010,
-      "name": "Kristen Adams",
-      "job": "Assistant Art Director",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
       "id": 2155066,
       "name": "Jason Vigdor",
       "job": "Assistant Art Director",
@@ -3751,7 +3744,21 @@
       "job": "CG Supervisor",
       "department": "Crew",
       "profile_path": null
+    },
+    {
+      "id": 2895531,
+      "name": "Kristen B. Adams",
+      "job": "Assistant Art Director",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 3119308,
+      "name": "Raven Davenport",
+      "job": "Music Coordinator",
+      "department": "Sound",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-17T06:39:21.482Z"
+  "fetched_at": "2026-08-24T06:41:51.075Z"
 }
