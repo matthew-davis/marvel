@@ -547,18 +547,18 @@
       "profile_path": "/jci0odY33CUCdogaqCkp9AM8nBl.jpg"
     },
     {
-      "id": 62088,
-      "name": "Jason Sweers",
-      "job": "Graphic Designer",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
       "id": 1701154,
       "name": "Jeremy Simser",
       "job": "Storyboard Artist",
       "department": "Art",
       "profile_path": "/6VCbdDFTe9ogaSU3HlKM3MJIwV4.jpg"
+    },
+    {
+      "id": 62088,
+      "name": "Jason Sweers",
+      "job": "Graphic Designer",
+      "department": "Art",
+      "profile_path": null
     },
     {
       "id": 3350520,
@@ -614,7 +614,7 @@
       "name": "Sarah Halley Finn",
       "job": "Casting",
       "department": "Production",
-      "profile_path": "/66jHgjBqbjkjWwZEPbAs6k6yMGb.jpg"
+      "profile_path": "/9lCQLrpLuOQKZG5vIL9wqsvRnNj.jpg"
     },
     {
       "id": 18866,
@@ -5167,5 +5167,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-24T06:41:50.870Z"
+  "fetched_at": "2026-08-31T12:22:16.033Z"
 }

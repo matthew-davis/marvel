@@ -271,7 +271,7 @@
       "name": "Sarah Halley Finn",
       "job": "Casting",
       "department": "Production",
-      "profile_path": "/66jHgjBqbjkjWwZEPbAs6k6yMGb.jpg"
+      "profile_path": "/9lCQLrpLuOQKZG5vIL9wqsvRnNj.jpg"
     },
     {
       "id": 19272,
@@ -302,18 +302,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 7624,
-      "name": "Stan Lee",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
-    },
-    {
       "id": 18866,
       "name": "Jack Kirby",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
     },
     {
       "id": 24192,
@@ -440,105 +440,7 @@
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg"
-    },
-    {
-      "id": 1296445,
-      "name": "Ben Collins",
-      "job": "Supervising Art Director",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
-      "id": 40802,
-      "name": "Jeremy Woodhead",
-      "job": "Makeup Designer",
-      "department": "Costume & Make-Up",
-      "profile_path": "/dMNDNton1TtMf6pRorGBABhzI0b.jpg"
-    },
-    {
-      "id": 40802,
-      "name": "Jeremy Woodhead",
-      "job": "Hair Designer",
-      "department": "Costume & Make-Up",
-      "profile_path": "/dMNDNton1TtMf6pRorGBABhzI0b.jpg"
-    },
-    {
-      "id": 1463281,
-      "name": "Chris Castaldi",
-      "job": "First Assistant Director",
-      "department": "Directing",
-      "profile_path": "/8wndmlAfA7R5JuGwxTK7S4TB64O.jpg"
-    },
-    {
-      "id": 2062956,
-      "name": "Matthew Sharp",
-      "job": "Second Assistant Director",
-      "department": "Directing",
-      "profile_path": "/eUWNR1DY9vqBWLq7vOGaT46FBVx.jpg"
-    },
-    {
-      "id": 2624625,
-      "name": "Tom Edmondson",
-      "job": "Second Unit First Assistant Director",
-      "department": "Directing",
-      "profile_path": null
-    },
-    {
-      "id": 1327029,
-      "name": "Simon Hayes",
-      "job": "Production Sound Mixer",
-      "department": "Sound",
-      "profile_path": "/owIunnVBY4U5txToVfoQcayaJh0.jpg"
-    },
-    {
-      "id": 1408337,
-      "name": "Christopher Townsend",
-      "job": "Visual Effects Supervisor",
-      "department": "Visual Effects",
-      "profile_path": "/fvMU9QU4ZX4pWz7flRo6uzDYpDG.jpg"
-    },
-    {
-      "id": 1388870,
-      "name": "Allison Paul",
-      "job": "Visual Effects Producer",
-      "department": "Visual Effects",
-      "profile_path": null
-    },
-    {
-      "id": 11354,
-      "name": "Ben Cooke",
-      "job": "Stunt Coordinator",
-      "department": "Crew",
-      "profile_path": "/tuMetGw8QNRbWEEtMP3SITwBFc2.jpg"
-    },
-    {
-      "id": 82169,
-      "name": "Geoffrey Haley",
-      "job": "\"A\" Camera Operator",
-      "department": "Camera",
-      "profile_path": "/4GFSNNpHW1zETjXCIZ8DGq9WCqC.jpg"
-    },
-    {
-      "id": 82169,
-      "name": "Geoffrey Haley",
-      "job": "Steadicam Operator",
-      "department": "Camera",
-      "profile_path": "/4GFSNNpHW1zETjXCIZ8DGq9WCqC.jpg"
-    },
-    {
-      "id": 1400081,
-      "name": "Andrew Rowlands",
-      "job": "Second Unit Director of Photography",
-      "department": "Camera",
-      "profile_path": null
-    },
-    {
-      "id": 1413169,
-      "name": "Dennis Sands",
-      "job": "Scoring Mixer",
-      "department": "Sound",
-      "profile_path": "/skUcHaebUMkcGezTxJM5SV7Ygon.jpg"
     }
   ],
-  "fetched_at": "2026-08-24T06:41:51.310Z"
+  "fetched_at": "2026-08-31T12:22:16.433Z"
 }
