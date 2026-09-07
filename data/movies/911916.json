@@ -49,18 +49,18 @@
       "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
     },
     {
-      "id": 226366,
-      "name": "Brian Tyree Henry",
-      "character": "Jefferson Morales (voice)",
-      "order": 5,
-      "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
-    },
-    {
       "id": 1455336,
       "name": "Issa Rae",
       "character": "Jessica Drew (voice)",
-      "order": 6,
+      "order": 5,
       "profile_path": "/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+      "id": 226366,
+      "name": "Brian Tyree Henry",
+      "character": "Jefferson Morales (voice)",
+      "order": 6,
+      "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
     },
     {
       "id": 141610,
@@ -415,5 +415,5 @@
       "profile_path": "/8xat2G5Z2IvdnZPMqc8vau6F1am.jpg"
     }
   ],
-  "fetched_at": "2026-08-31T12:22:16.628Z"
+  "fetched_at": "2026-09-07T11:16:13.955Z"
 }

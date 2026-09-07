@@ -17,7 +17,7 @@
       "name": "Tom Holland",
       "character": "Peter Parker / Spider-Man",
       "order": 0,
-      "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+      "profile_path": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
     },
     {
       "id": 505710,
@@ -80,7 +80,7 @@
       "name": "Marisa Tomei",
       "character": "May Parker",
       "order": 9,
-      "profile_path": "/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
+      "profile_path": "/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
     },
     {
       "id": 3489,
@@ -663,7 +663,7 @@
       "name": "Arron Monkman",
       "job": "First Assistant \"A\" Camera",
       "department": "Camera",
-      "profile_path": "/3YFffBODY6Htq0JOChvPFaQoO0w.jpg"
+      "profile_path": null
     },
     {
       "id": 1318874,
@@ -1041,13 +1041,6 @@
       "name": "Eric Noel",
       "job": "CG Supervisor",
       "department": "Crew",
-      "profile_path": null
-    },
-    {
-      "id": 1772293,
-      "name": "Anthony Drewett",
-      "job": "Principal Costumer",
-      "department": "Costume & Make-Up",
       "profile_path": null
     },
     {
@@ -2290,8 +2283,8 @@
       "profile_path": null
     },
     {
-      "id": 6386426,
-      "name": "Chris Tomkins",
+      "id": 5666269,
+      "name": "Christopher Tomkins",
       "job": "Stunts",
       "department": "Crew",
       "profile_path": null
@@ -2603,7 +2596,21 @@
       "job": "Stunts",
       "department": "Crew",
       "profile_path": "/bMycBRLpxYXMldRj24H5MurbxAV.jpg"
+    },
+    {
+      "id": 1772293,
+      "name": "Anthony Drewett",
+      "job": "Costumer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
+    },
+    {
+      "id": 1460748,
+      "name": "Kate Abraham",
+      "job": "Costumer",
+      "department": "Costume & Make-Up",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-08-31T12:22:16.531Z"
+  "fetched_at": "2026-09-07T11:16:13.865Z"
 }
