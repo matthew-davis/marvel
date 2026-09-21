@@ -170,6 +170,13 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
       "id": 155267,
       "name": "Christopher Miller",
       "job": "Producer",
@@ -182,13 +189,6 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
-      "id": 7626,
-      "name": "Avi Arad",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
     },
     {
       "id": 582922,
@@ -205,18 +205,18 @@
       "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
-      "id": 107446,
-      "name": "Phil Lord",
-      "job": "Writer",
-      "department": "Writing",
-      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
       "id": 57264,
       "name": "David Callaham",
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
+    },
+    {
+      "id": 107446,
+      "name": "Phil Lord",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
     },
     {
       "id": 936670,
@@ -415,5 +415,5 @@
       "profile_path": "/8xat2G5Z2IvdnZPMqc8vau6F1am.jpg"
     }
   ],
-  "fetched_at": "2026-09-14T11:26:04.668Z"
+  "fetched_at": "2026-09-21T11:40:13.532Z"
 }

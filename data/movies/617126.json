@@ -17,7 +17,7 @@
       "name": "Pedro Pascal",
       "character": "Reed Richards / Mister Fantastic",
       "order": 0,
-      "profile_path": "/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
+      "profile_path": "/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
     },
     {
       "id": 556356,
@@ -547,18 +547,18 @@
       "profile_path": "/jci0odY33CUCdogaqCkp9AM8nBl.jpg"
     },
     {
-      "id": 62088,
-      "name": "Jason Sweers",
-      "job": "Graphic Designer",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
       "id": 1701154,
       "name": "Jeremy Simser",
       "job": "Storyboard Artist",
       "department": "Art",
       "profile_path": "/6VCbdDFTe9ogaSU3HlKM3MJIwV4.jpg"
+    },
+    {
+      "id": 62088,
+      "name": "Jason Sweers",
+      "job": "Graphic Designer",
+      "department": "Art",
+      "profile_path": null
     },
     {
       "id": 3350520,
@@ -617,18 +617,18 @@
       "profile_path": "/9lCQLrpLuOQKZG5vIL9wqsvRnNj.jpg"
     },
     {
-      "id": 18866,
-      "name": "Jack Kirby",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
-    },
-    {
       "id": 7624,
       "name": "Stan Lee",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
     },
     {
       "id": 5335,
@@ -5174,5 +5174,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-09-14T11:26:03.960Z"
+  "fetched_at": "2026-09-21T11:40:13.162Z"
 }
