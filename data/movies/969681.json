@@ -17,14 +17,14 @@
       "name": "Tom Holland",
       "character": "Peter Parker / Spider-Man",
       "order": 0,
-      "profile_path": "/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+      "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
     },
     {
       "id": 505710,
       "name": "Zendaya",
       "character": "MJ",
       "order": 1,
-      "profile_path": "/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+      "profile_path": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
     },
     {
       "id": 103,
@@ -59,7 +59,7 @@
       "name": "Florence Pugh",
       "character": "Yelena Belova / Black Widow",
       "order": 6,
-      "profile_path": "/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+      "profile_path": "/2URrZb95t3kY6pLroKny3Enmabp.jpg"
     },
     {
       "id": 59693,
@@ -2610,7 +2610,21 @@
       "job": "Costumer",
       "department": "Costume & Make-Up",
       "profile_path": null
+    },
+    {
+      "id": 1389609,
+      "name": "Heba Thorisdottir",
+      "job": "Makeup Artist",
+      "department": "Costume & Make-Up",
+      "profile_path": "/i8B2cXDxv58NoSCEG1XALUuu8CQ.jpg"
+    },
+    {
+      "id": 2701286,
+      "name": "Robert Allman",
+      "job": "Visual Effects Supervisor",
+      "department": "Visual Effects",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-09-21T11:40:13.444Z"
+  "fetched_at": "2026-09-28T12:35:35.832Z"
 }
