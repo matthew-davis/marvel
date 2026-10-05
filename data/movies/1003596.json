@@ -3,7 +3,7 @@
   "title": "Avengers: Doomsday",
   "year": 2026,
   "release_date": "2026-12-16",
-  "poster_path": "/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
+  "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
   "runtime": 165,
   "genres": [
@@ -143,7 +143,7 @@
       "name": "Sebastian Stan",
       "character": "Bucky Barnes / Winter Soldier",
       "order": 18,
-      "profile_path": "/mLqE91qUnE8fbfMvsXD7BcWJKNK.jpg"
+      "profile_path": "/v20RLWst39klatsqUgSrwHxhwee.jpg"
     },
     {
       "id": 35029,
@@ -178,7 +178,7 @@
       "name": "Kathryn Newton",
       "character": "Cassie Lang",
       "order": 23,
-      "profile_path": "/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+      "profile_path": "/3mos4oK6bps0uhQzW1L7nj5O0Gd.jpg"
     },
     {
       "id": 1773397,
@@ -206,7 +206,7 @@
       "name": "Hannah John-Kamen",
       "character": "Ava Starr",
       "order": 27,
-      "profile_path": "/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
+      "profile_path": "/2fqNQQW3B7upH4rBubhxXkIIoGk.jpg"
     },
     {
       "id": 11008,
@@ -256,41 +256,6 @@
       "character": "",
       "order": 34,
       "profile_path": "/rabfZpxCzAdP4n2r5QslCmJQAdt.jpg"
-    },
-    {
-      "id": 103,
-      "name": "Mark Ruffalo",
-      "character": "Bruce Banner / Hulk",
-      "order": 35,
-      "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
-    },
-    {
-      "id": 887,
-      "name": "Owen Wilson",
-      "character": "Mobius",
-      "order": 36,
-      "profile_path": "/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
-    },
-    {
-      "id": 1370567,
-      "name": "Eugene Cordero",
-      "character": "Casey / Hunter K-5E",
-      "order": 37,
-      "profile_path": "/waruLSR8lXBjhAFL0J6ihuVY62d.jpg"
-    },
-    {
-      "id": 15762,
-      "name": "Tara Strong",
-      "character": "Miss Minutes (voice)",
-      "order": 38,
-      "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg"
-    },
-    {
-      "id": 690,
-      "name": "Ke Huy Quan",
-      "character": "Ouroboros",
-      "order": 39,
-      "profile_path": "/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
     }
   ],
   "crew": [
@@ -337,18 +302,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 18866,
-      "name": "Jack Kirby",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
-    },
-    {
       "id": 7624,
       "name": "Stan Lee",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
     },
     {
       "id": 24192,
@@ -397,7 +362,7 @@
       "name": "Michael Waldron",
       "job": "Writer",
       "department": "Writing",
-      "profile_path": "/5hf8B7h92GhSSch0FVNSfWMyEG2.jpg"
+      "profile_path": "/qkvvUM56eHF2FqQvlsXjN6VLwCS.jpg"
     },
     {
       "id": 2476524,
@@ -475,7 +440,14 @@
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/fvg1OA7xdYu7z44HdY5IA9lSqYl.jpg"
+    },
+    {
+      "id": 8159,
+      "name": "Shannon Mills",
+      "job": "Sound Re-Recording Mixer",
+      "department": "Sound",
+      "profile_path": "/tq1cbZWf6DhUYAA3dNkeFEtgmQx.jpg"
     }
   ],
-  "fetched_at": "2026-09-28T12:35:35.684Z"
+  "fetched_at": "2026-10-05T13:15:50.677Z"
 }
