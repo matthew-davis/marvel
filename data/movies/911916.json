@@ -2,7 +2,7 @@
   "id": 911916,
   "title": "Spider-Man: Beyond the Spider-Verse",
   "year": 2027,
-  "release_date": "2027-06-17",
+  "release_date": "2027-06-16",
   "poster_path": "/9KAe39xqyZnv9J4W3DRGdQqX82h.jpg",
   "overview": "Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles finds himself in the darkest corners of the Spider-Verse in search of a way home. Knowing that his family has been not only fractured but endangered by his calling, it's a race against the clock for Miles to travel across the wildest reaches of time and space to fight for and reunite everything he holds most dear.",
   "runtime": 0,
@@ -170,6 +170,13 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
       "id": 155267,
       "name": "Christopher Miller",
       "job": "Producer",
@@ -182,13 +189,6 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
-      "id": 7626,
-      "name": "Avi Arad",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
     },
     {
       "id": 582922,
@@ -205,18 +205,18 @@
       "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
-      "id": 107446,
-      "name": "Phil Lord",
-      "job": "Writer",
-      "department": "Writing",
-      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
       "id": 57264,
       "name": "David Callaham",
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
+    },
+    {
+      "id": 107446,
+      "name": "Phil Lord",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
     },
     {
       "id": 936670,
@@ -429,5 +429,5 @@
       "profile_path": "/xk8nM6wXV0wdpvkCHeEcuvAlEQs.jpg"
     }
   ],
-  "fetched_at": "2026-10-05T13:15:51.087Z"
+  "fetched_at": "2026-10-12T14:06:07.006Z"
 }

@@ -255,7 +255,7 @@
       "name": "Matilda Firth",
       "character": "",
       "order": 34,
-      "profile_path": "/rabfZpxCzAdP4n2r5QslCmJQAdt.jpg"
+      "profile_path": "/jmNWhQKAWy0uzGus4BpbKkQjWZ9.jpg"
     }
   ],
   "crew": [
@@ -302,18 +302,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 7624,
-      "name": "Stan Lee",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
-    },
-    {
       "id": 18866,
       "name": "Jack Kirby",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
     },
     {
       "id": 24192,
@@ -449,5 +449,5 @@
       "profile_path": "/tq1cbZWf6DhUYAA3dNkeFEtgmQx.jpg"
     }
   ],
-  "fetched_at": "2026-10-05T13:15:50.677Z"
+  "fetched_at": "2026-10-12T14:06:06.681Z"
 }

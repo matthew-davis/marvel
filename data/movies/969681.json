@@ -17,28 +17,28 @@
       "name": "Tom Holland",
       "character": "Peter Parker / Spider-Man",
       "order": 0,
-      "profile_path": "/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+      "profile_path": "/adwEBb2sCSzqwnpVgNEG7irl1Ne.jpg"
+    },
+    {
+      "id": 1590797,
+      "name": "Sadie Sink",
+      "character": "Jean Grey",
+      "order": 1,
+      "profile_path": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+    },
+    {
+      "id": 2028037,
+      "name": "Tramell Tillman",
+      "character": "William 'Bill' Metzger",
+      "order": 2,
+      "profile_path": "/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
     },
     {
       "id": 505710,
       "name": "Zendaya",
       "character": "MJ",
-      "order": 1,
-      "profile_path": "/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
-    },
-    {
-      "id": 103,
-      "name": "Mark Ruffalo",
-      "character": "Bruce Banner / Hulk",
-      "order": 2,
-      "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
-    },
-    {
-      "id": 19498,
-      "name": "Jon Bernthal",
-      "character": "Frank Castle / Punisher",
       "order": 3,
-      "profile_path": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+      "profile_path": "/qGkBlyn1AwQpuFnRARMRwj0iHZp.jpg"
     },
     {
       "id": 1649152,
@@ -48,39 +48,39 @@
       "profile_path": "/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
     },
     {
-      "id": 1590797,
-      "name": "Sadie Sink",
-      "character": "Jean Grey",
+      "id": 19498,
+      "name": "Jon Bernthal",
+      "character": "Frank Castle / Punisher",
       "order": 5,
-      "profile_path": "/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+      "profile_path": "/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Mark Ruffalo",
+      "character": "Bruce Banner / Hulk",
+      "order": 6,
+      "profile_path": "/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
     },
     {
       "id": 1373737,
       "name": "Florence Pugh",
       "character": "Yelena Belova / Black Widow",
-      "order": 6,
+      "order": 7,
       "profile_path": "/2URrZb95t3kY6pLroKny3Enmabp.jpg"
     },
     {
       "id": 59693,
       "name": "Liza Colón-Zayas",
       "character": "Detective Jean DeWolff",
-      "order": 7,
-      "profile_path": "/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
-    },
-    {
-      "id": 2028037,
-      "name": "Tramell Tillman",
-      "character": "William 'Bill' Metzger",
       "order": 8,
-      "profile_path": "/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+      "profile_path": "/q2gHcef0wckji0AS8ZEO6cYx065.jpg"
     },
     {
       "id": 3141,
       "name": "Marisa Tomei",
       "character": "May Parker",
       "order": 9,
-      "profile_path": "/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+      "profile_path": "/vAQ10fvGfVyuJdMNKVMA4ZkacWL.jpg"
     },
     {
       "id": 3489,
@@ -1268,30 +1268,9 @@
       "profile_path": "/zOhoccw9tmETCW9NpipREXToFAz.jpg"
     },
     {
-      "id": 2243619,
-      "name": "Ben Essex",
-      "job": "Stunt Coordinator",
-      "department": "Crew",
-      "profile_path": "/9tlKpN82cvn574goiMzy28cS1jC.jpg"
-    },
-    {
       "id": 2924828,
       "name": "Irene Chun",
       "job": "First Assistant Editor",
-      "department": "Editing",
-      "profile_path": null
-    },
-    {
-      "id": 2480439,
-      "name": "Kristin Derella",
-      "job": "Assistant Editor",
-      "department": "Editing",
-      "profile_path": null
-    },
-    {
-      "id": 4420862,
-      "name": "Tiago Barros",
-      "job": "Assistant Editor",
       "department": "Editing",
       "profile_path": null
     },
@@ -2126,7 +2105,7 @@
       "name": "Justine von Winterfeldt",
       "job": "Music Supervisor",
       "department": "Sound",
-      "profile_path": null
+      "profile_path": "/m3h2nNmzvW6L70zdK4wN9Qgjrbe.jpg"
     },
     {
       "id": 2611616,
@@ -2500,13 +2479,6 @@
       "profile_path": "/34J9E3UMnbTIz41gDfTh3KSVtU5.jpg"
     },
     {
-      "id": 1658190,
-      "name": "Justin Kuritzkes",
-      "job": "Additional Writing",
-      "department": "Crew",
-      "profile_path": "/NZBgA6h1wrVcTiUuoSuauXhBeP.jpg"
-    },
-    {
       "id": 1334496,
       "name": "Ty Teiger",
       "job": "Property Master",
@@ -2631,7 +2603,119 @@
       "job": "Compositing Supervisor",
       "department": "Visual Effects",
       "profile_path": null
+    },
+    {
+      "id": 2243619,
+      "name": "Ben Essex",
+      "job": "Other",
+      "department": "Crew",
+      "profile_path": "/9tlKpN82cvn574goiMzy28cS1jC.jpg"
+    },
+    {
+      "id": 5967569,
+      "name": "Fabien Gorchon",
+      "job": "Other",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1718278,
+      "name": "Jason Bogard",
+      "job": "Production Controller",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 4533722,
+      "name": "Andy Hennigan",
+      "job": "Production Controller",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 2480439,
+      "name": "Kristin Derella",
+      "job": "Other",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 4420862,
+      "name": "Tiago Barros",
+      "job": "Other",
+      "department": "Editing",
+      "profile_path": null
+    },
+    {
+      "id": 1411137,
+      "name": "Jonathan Spencer",
+      "job": "Chief Lighting Technician",
+      "department": "Lighting",
+      "profile_path": null
+    },
+    {
+      "id": 2833913,
+      "name": "Alex Smith",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 9818,
+      "name": "Julian Ashby",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 1574034,
+      "name": "Oliver Carroll",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2107263,
+      "name": "Diego De Lajonquiere",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2014406,
+      "name": "Luke Whitelock",
+      "job": "Art Direction",
+      "department": "Art",
+      "profile_path": null
+    },
+    {
+      "id": 2550161,
+      "name": "Bad Bunny",
+      "job": "Songs",
+      "department": "Sound",
+      "profile_path": "/r70aP80HleYJYVScjDhenNCeeWX.jpg"
+    },
+    {
+      "id": 6540563,
+      "name": "Jack English",
+      "job": "Security",
+      "department": "Crew",
+      "profile_path": null
+    },
+    {
+      "id": 1935207,
+      "name": "Ryan Meinerding",
+      "job": "Visual Development",
+      "department": "Visual Effects",
+      "profile_path": "/cDfao2DmBHqvjysYZxuO5q6U0Pm.jpg"
+    },
+    {
+      "id": 1658190,
+      "name": "Justin Kuritzkes",
+      "job": "Other",
+      "department": "Writing",
+      "profile_path": "/NZBgA6h1wrVcTiUuoSuauXhBeP.jpg"
     }
   ],
-  "fetched_at": "2026-10-05T13:15:50.923Z"
+  "fetched_at": "2026-10-12T14:06:06.844Z"
 }
