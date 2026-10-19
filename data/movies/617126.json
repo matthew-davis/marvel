@@ -234,7 +234,7 @@
       "name": "Richard Summers-Calvert",
       "character": "Baxter Reporter #3",
       "order": 31,
-      "profile_path": null
+      "profile_path": "/xFT68LxyWVgcqhiDszZOgFGBqGl.jpg"
     },
     {
       "id": 3449544,
@@ -607,7 +607,7 @@
       "name": "Kevin Feige",
       "job": "Producer",
       "department": "Production",
-      "profile_path": "/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg"
+      "profile_path": "/cQJJ24S5gAIC21ewye4Zu1oJsIi.jpg"
     },
     {
       "id": 7232,
@@ -5172,7 +5172,21 @@
       "job": "Gaffer",
       "department": "Lighting",
       "profile_path": null
+    },
+    {
+      "id": 4819871,
+      "name": "Wouter Engering",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": "/ugsijKUl8WIrnHWPico0IlzxV0n.jpg"
+    },
+    {
+      "id": 2128694,
+      "name": "Laurens Vermeulen",
+      "job": "VFX Artist",
+      "department": "Visual Effects",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-10-12T14:06:06.312Z"
+  "fetched_at": "2026-10-19T11:46:52.222Z"
 }
