@@ -3,7 +3,7 @@
   "title": "Avengers: Doomsday",
   "year": 2026,
   "release_date": "2026-12-16",
-  "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+  "poster_path": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
   "runtime": 165,
   "genres": [
@@ -216,32 +216,32 @@
       "profile_path": "/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
     },
     {
+      "id": 992386,
+      "name": "Alex Livinalli",
+      "character": "Attuma",
+      "order": 29,
+      "profile_path": "/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
+    },
+    {
       "id": 2213811,
       "name": "Mabel Cadena",
       "character": "Namora",
-      "order": 29,
+      "order": 30,
       "profile_path": "/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
     },
     {
       "id": 87265,
       "name": "Tenoch Huerta Mejía",
       "character": "Namor",
-      "order": 30,
+      "order": 31,
       "profile_path": "/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
     },
     {
       "id": 3503959,
       "name": "Wesley Holloway",
       "character": "",
-      "order": 31,
-      "profile_path": "/3PcwUCcn7B3PKgwDhJwzYiiVAUX.jpg"
-    },
-    {
-      "id": 992386,
-      "name": "Alex Livinalli",
-      "character": "Attuma",
       "order": 32,
-      "profile_path": "/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
+      "profile_path": "/3PcwUCcn7B3PKgwDhJwzYiiVAUX.jpg"
     },
     {
       "id": 3613218,
@@ -256,6 +256,13 @@
       "character": "",
       "order": 34,
       "profile_path": "/jmNWhQKAWy0uzGus4BpbKkQjWZ9.jpg"
+    },
+    {
+      "id": 7152,
+      "name": "Sandra Hüller",
+      "character": "",
+      "order": 35,
+      "profile_path": "/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
     }
   ],
   "crew": [
@@ -302,18 +309,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 18866,
-      "name": "Jack Kirby",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
-    },
-    {
       "id": 7624,
       "name": "Stan Lee",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 18866,
+      "name": "Jack Kirby",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
     },
     {
       "id": 24192,
@@ -447,7 +454,14 @@
       "job": "Sound Re-Recording Mixer",
       "department": "Sound",
       "profile_path": "/tq1cbZWf6DhUYAA3dNkeFEtgmQx.jpg"
+    },
+    {
+      "id": 3223,
+      "name": "Robert Downey Jr.",
+      "job": "Executive Producer",
+      "department": "Production",
+      "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
     }
   ],
-  "fetched_at": "2026-10-19T11:46:52.404Z"
+  "fetched_at": "2026-10-26T12:02:42.925Z"
 }

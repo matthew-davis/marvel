@@ -170,6 +170,13 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
       "id": 155267,
       "name": "Christopher Miller",
       "job": "Producer",
@@ -182,13 +189,6 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
-      "id": 7626,
-      "name": "Avi Arad",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
     },
     {
       "id": 582922,
@@ -205,18 +205,18 @@
       "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
-      "id": 107446,
-      "name": "Phil Lord",
-      "job": "Writer",
-      "department": "Writing",
-      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
-    },
-    {
       "id": 57264,
       "name": "David Callaham",
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
+    },
+    {
+      "id": 107446,
+      "name": "Phil Lord",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
     },
     {
       "id": 936670,
@@ -419,7 +419,7 @@
       "name": "Libby Thomas Dickey",
       "job": "Casting",
       "department": "Production",
-      "profile_path": "/wi06sDyUXEHYmW1qtkZb1vzrak7.jpg"
+      "profile_path": null
     },
     {
       "id": 7903,
@@ -427,7 +427,14 @@
       "job": "Additional Casting",
       "department": "Production",
       "profile_path": "/xk8nM6wXV0wdpvkCHeEcuvAlEQs.jpg"
+    },
+    {
+      "id": 6566388,
+      "name": "Brittany Corbin",
+      "job": "Visual Effects",
+      "department": "Visual Effects",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-10-19T11:46:52.587Z"
+  "fetched_at": "2026-10-26T12:02:43.160Z"
 }
