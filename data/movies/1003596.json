@@ -3,7 +3,7 @@
   "title": "Avengers: Doomsday",
   "year": 2026,
   "release_date": "2026-12-16",
-  "poster_path": "/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+  "poster_path": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
   "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
   "runtime": 165,
   "genres": [
@@ -262,7 +262,7 @@
       "name": "Sandra Hüller",
       "character": "",
       "order": 35,
-      "profile_path": "/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+      "profile_path": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
     }
   ],
   "crew": [
@@ -292,7 +292,7 @@
       "name": "Stephen McFeely",
       "job": "Writer",
       "department": "Writing",
-      "profile_path": "/i9B6gFzExPsh5IEjD2nn4ym4lx2.jpg"
+      "profile_path": "/hkn9D5L8TguJUmv8fXy5sHyMEtq.jpg"
     },
     {
       "id": 37,
@@ -309,18 +309,18 @@
       "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg"
     },
     {
-      "id": 7624,
-      "name": "Stan Lee",
-      "job": "Characters",
-      "department": "Writing",
-      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
-    },
-    {
       "id": 18866,
       "name": "Jack Kirby",
       "job": "Characters",
       "department": "Writing",
       "profile_path": "/kgqgjPD0yzObJ5n3qj4fBuhw3IJ.jpg"
+    },
+    {
+      "id": 7624,
+      "name": "Stan Lee",
+      "job": "Characters",
+      "department": "Writing",
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
     },
     {
       "id": 24192,
@@ -454,14 +454,7 @@
       "job": "Sound Re-Recording Mixer",
       "department": "Sound",
       "profile_path": "/tq1cbZWf6DhUYAA3dNkeFEtgmQx.jpg"
-    },
-    {
-      "id": 3223,
-      "name": "Robert Downey Jr.",
-      "job": "Executive Producer",
-      "department": "Production",
-      "profile_path": "/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
     }
   ],
-  "fetched_at": "2026-10-26T12:02:42.925Z"
+  "fetched_at": "2026-11-02T14:27:35.647Z"
 }

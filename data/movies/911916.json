@@ -58,7 +58,7 @@
     {
       "id": 226366,
       "name": "Brian Tyree Henry",
-      "character": "Jefferson Morales (voice)",
+      "character": "Jeff Morales (voice)",
       "order": 6,
       "profile_path": "/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
     },
@@ -170,13 +170,6 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
-      "id": 7626,
-      "name": "Avi Arad",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
-    },
-    {
       "id": 155267,
       "name": "Christopher Miller",
       "job": "Producer",
@@ -189,6 +182,13 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
+    },
+    {
+      "id": 7626,
+      "name": "Avi Arad",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
     },
     {
       "id": 582922,
@@ -205,18 +205,18 @@
       "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
-      "id": 57264,
-      "name": "David Callaham",
-      "job": "Writer",
-      "department": "Writing",
-      "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
-    },
-    {
       "id": 107446,
       "name": "Phil Lord",
       "job": "Writer",
       "department": "Writing",
       "profile_path": "/2MagibFHZxky3FmMubyABUnf4lw.jpg"
+    },
+    {
+      "id": 57264,
+      "name": "David Callaham",
+      "job": "Writer",
+      "department": "Writing",
+      "profile_path": "/mbppbv25p2o2W6FAtPbFNSUeGLj.jpg"
     },
     {
       "id": 936670,
@@ -342,7 +342,7 @@
       "name": "Ritik Keswani",
       "job": "Software Engineer",
       "department": "Crew",
-      "profile_path": "/k00GzmEXlGNJAcAS8Mk7J1cuTME.jpg"
+      "profile_path": null
     },
     {
       "id": 1261455,
@@ -436,5 +436,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-10-26T12:02:43.160Z"
+  "fetched_at": "2026-11-02T14:27:35.836Z"
 }
