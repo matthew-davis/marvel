@@ -547,18 +547,18 @@
       "profile_path": "/jci0odY33CUCdogaqCkp9AM8nBl.jpg"
     },
     {
-      "id": 62088,
-      "name": "Jason Sweers",
-      "job": "Graphic Designer",
-      "department": "Art",
-      "profile_path": null
-    },
-    {
       "id": 1701154,
       "name": "Jeremy Simser",
       "job": "Storyboard Artist",
       "department": "Art",
       "profile_path": "/6VCbdDFTe9ogaSU3HlKM3MJIwV4.jpg"
+    },
+    {
+      "id": 62088,
+      "name": "Jason Sweers",
+      "job": "Graphic Designer",
+      "department": "Art",
+      "profile_path": null
     },
     {
       "id": 3350520,
@@ -5186,7 +5186,14 @@
       "job": "VFX Artist",
       "department": "Visual Effects",
       "profile_path": null
+    },
+    {
+      "id": 1914642,
+      "name": "Joshua Methven",
+      "job": "Visual Effects",
+      "department": "Visual Effects",
+      "profile_path": null
     }
   ],
-  "fetched_at": "2026-11-02T14:27:35.555Z"
+  "fetched_at": "2026-11-09T14:52:22.503Z"
 }

@@ -170,13 +170,6 @@
       "profile_path": "/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg"
     },
     {
-      "id": 155267,
-      "name": "Christopher Miller",
-      "job": "Producer",
-      "department": "Production",
-      "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
-    },
-    {
       "id": 107446,
       "name": "Phil Lord",
       "job": "Producer",
@@ -189,6 +182,13 @@
       "job": "Producer",
       "department": "Production",
       "profile_path": "/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg"
+    },
+    {
+      "id": 155267,
+      "name": "Christopher Miller",
+      "job": "Producer",
+      "department": "Production",
+      "profile_path": "/dr2yCgYtmNmO5vzjk9KNbjTpbzO.jpg"
     },
     {
       "id": 582922,
@@ -436,5 +436,5 @@
       "profile_path": null
     }
   ],
-  "fetched_at": "2026-11-02T14:27:35.836Z"
+  "fetched_at": "2026-11-09T14:52:22.906Z"
 }
